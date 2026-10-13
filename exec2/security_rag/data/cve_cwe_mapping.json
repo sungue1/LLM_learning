@@ -1,0 +1,2015 @@
+[
+  {
+    "cve_id": "CVE-2002-0367",
+    "cwe_ids": [
+      "CWE-269"
+    ],
+    "product": "microsoft windows 2000",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2002-06-25T04:00:00.000"
+  },
+  {
+    "cve_id": "CVE-2004-0210",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "microsoft interix 2.2",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2004-08-06T04:00:00.000"
+  },
+  {
+    "cve_id": "CVE-2004-1464",
+    "cwe_ids": [
+      "CWE-400"
+    ],
+    "product": "cisco ios",
+    "cvss_score": 5.9,
+    "severity": "MEDIUM",
+    "published": "2004-12-31T05:00:00.000"
+  },
+  {
+    "cve_id": "CVE-2005-2773",
+    "cwe_ids": [
+      "CWE-77"
+    ],
+    "product": "hp openview network node manager",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2005-09-02T23:03:00.000"
+  },
+  {
+    "cve_id": "CVE-2006-1547",
+    "cwe_ids": [
+      "CWE-749"
+    ],
+    "product": "apache struts",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2006-03-30T22:02:00.000"
+  },
+  {
+    "cve_id": "CVE-2006-2492",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "microsoft office 2000",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2006-05-20T00:02:00.000"
+  },
+  {
+    "cve_id": "CVE-2007-3010",
+    "cwe_ids": [
+      "CWE-77"
+    ],
+    "product": "al-enterprise omnipcx enterprise communication server",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2007-09-18T21:17:00.000"
+  },
+  {
+    "cve_id": "CVE-2008-0655",
+    "cwe_ids": [
+      "CWE-200"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2008-02-07T21:00:00.000"
+  },
+  {
+    "cve_id": "CVE-2007-5659",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2008-02-12T19:00:00.000"
+  },
+  {
+    "cve_id": "CVE-2008-4128",
+    "cwe_ids": [
+      "CWE-352"
+    ],
+    "product": "cisco ios 12.4",
+    "cvss_score": 8.1,
+    "severity": "HIGH",
+    "published": "2008-09-18T20:00:00.530"
+  },
+  {
+    "cve_id": "CVE-2008-4250",
+    "cwe_ids": [
+      "CWE-94",
+      "CWE-119"
+    ],
+    "product": "microsoft windows 2000",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2008-10-23T22:00:01.357"
+  },
+  {
+    "cve_id": "CVE-2008-2992",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2008-11-04T18:29:47.667"
+  },
+  {
+    "cve_id": "CVE-2009-0238",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "microsoft excel 2000",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2009-02-25T16:30:00.343"
+  },
+  {
+    "cve_id": "CVE-2009-0927",
+    "cwe_ids": [
+      "CWE-20",
+      "CWE-121"
+    ],
+    "product": "adobe acrobat reader",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2009-03-19T10:30:00.420"
+  },
+  {
+    "cve_id": "CVE-2009-1151",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "phpmyadmin phpmyadmin",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2009-03-26T14:30:00.267"
+  },
+  {
+    "cve_id": "CVE-2009-0556",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "microsoft office powerpoint 2004",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2009-04-03T18:30:00.610"
+  },
+  {
+    "cve_id": "CVE-2009-1537",
+    "cwe_ids": [
+      "CWE-158"
+    ],
+    "product": "microsoft directx 7.0",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2009-05-29T18:30:00.187"
+  },
+  {
+    "cve_id": "CVE-2009-0563",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft office 2000",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2009-06-10T18:00:00.313"
+  },
+  {
+    "cve_id": "CVE-2009-0557",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "microsoft office 2000",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2009-06-10T18:30:00.203"
+  },
+  {
+    "cve_id": "CVE-2008-0015",
+    "cwe_ids": [
+      "CWE-119",
+      "CWE-121"
+    ],
+    "product": "microsoft windows 2003 server",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2009-07-07T23:30:00.187"
+  },
+  {
+    "cve_id": "CVE-2009-1862",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2009-07-23T20:30:00.233"
+  },
+  {
+    "cve_id": "CVE-2009-2055",
+    "cwe_ids": [
+      "CWE-20"
+    ],
+    "product": "cisco ios xr 3.4",
+    "cvss_score": 5.9,
+    "severity": "MEDIUM",
+    "published": "2009-08-19T17:30:01.047"
+  },
+  {
+    "cve_id": "CVE-2009-3459",
+    "cwe_ids": [
+      "CWE-119",
+      "CWE-122"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2009-10-13T10:30:00.577"
+  },
+  {
+    "cve_id": "CVE-2009-3129",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft excel 2002",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2009-11-11T19:30:00.530"
+  },
+  {
+    "cve_id": "CVE-2009-4324",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2009-12-15T02:30:00.217"
+  },
+  {
+    "cve_id": "CVE-2009-3953",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2010-01-13T19:30:00.343"
+  },
+  {
+    "cve_id": "CVE-2010-0249",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 5.0.1",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2010-01-15T17:30:00.533"
+  },
+  {
+    "cve_id": "CVE-2010-0806",
+    "cwe_ids": [
+      "CWE-399",
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 5.01",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2010-03-10T22:30:01.323"
+  },
+  {
+    "cve_id": "CVE-2010-0738",
+    "cwe_ids": [
+      "CWE-749"
+    ],
+    "product": "redhat jboss enterprise application platform 4.2.0",
+    "cvss_score": 5.3,
+    "severity": "MEDIUM",
+    "published": "2010-04-28T22:30:00.447"
+  },
+  {
+    "cve_id": "CVE-2010-1428",
+    "cwe_ids": [
+      "CWE-749"
+    ],
+    "product": "redhat jboss enterprise application platform 4.2.0",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2010-04-28T22:30:00.793"
+  },
+  {
+    "cve_id": "CVE-2010-1297",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe air",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2010-06-08T18:30:10.007"
+  },
+  {
+    "cve_id": "CVE-2010-1871",
+    "cwe_ids": [
+      "CWE-917"
+    ],
+    "product": "redhat jboss enterprise application platform 4.3.0",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2010-08-05T13:23:09.477"
+  },
+  {
+    "cve_id": "CVE-2010-2861",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "adobe coldfusion",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2010-08-11T18:47:51.157"
+  },
+  {
+    "cve_id": "CVE-2010-2883",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 7.3,
+    "severity": "HIGH",
+    "published": "2010-09-09T22:00:02.250"
+  },
+  {
+    "cve_id": "CVE-2010-3765",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "mozilla firefox 3.5",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2010-10-28T00:00:05.237"
+  },
+  {
+    "cve_id": "CVE-2010-3962",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 6",
+    "cvss_score": 8.1,
+    "severity": "HIGH",
+    "published": "2010-11-05T17:00:02.890"
+  },
+  {
+    "cve_id": "CVE-2010-2572",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "microsoft powerpoint 2002",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2010-11-10T03:00:01.850"
+  },
+  {
+    "cve_id": "CVE-2010-3333",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft office 2003",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2010-11-10T03:00:02.087"
+  },
+  {
+    "cve_id": "CVE-2010-4398",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2010-12-06T13:44:54.863"
+  },
+  {
+    "cve_id": "CVE-2010-3904",
+    "cwe_ids": [
+      "CWE-1284"
+    ],
+    "product": "linux linux kernel",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2010-12-06T20:13:00.513"
+  },
+  {
+    "cve_id": "CVE-2010-4344",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "exim exim",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2010-12-14T16:00:04.163"
+  },
+  {
+    "cve_id": "CVE-2010-4345",
+    "cwe_ids": [
+      "CWE-77"
+    ],
+    "product": "exim exim",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2010-12-14T16:00:04.257"
+  },
+  {
+    "cve_id": "CVE-2011-0611",
+    "cwe_ids": [
+      "CWE-843"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2011-04-13T14:55:01.217"
+  },
+  {
+    "cve_id": "CVE-2011-1823",
+    "cwe_ids": [
+      "CWE-190"
+    ],
+    "product": "google android",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2011-06-09T10:36:27.680"
+  },
+  {
+    "cve_id": "CVE-2011-1889",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "microsoft forefront threat management gateway 2010",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2011-06-16T20:55:02.543"
+  },
+  {
+    "cve_id": "CVE-2011-3544",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "oracle jdk",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2011-10-19T21:55:01.097"
+  },
+  {
+    "cve_id": "CVE-2011-2462",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2011-12-07T19:55:01.673"
+  },
+  {
+    "cve_id": "CVE-2011-4723",
+    "cwe_ids": [
+      "CWE-312"
+    ],
+    "product": "dlink dir-300 firmware",
+    "cvss_score": 5.7,
+    "severity": "MEDIUM",
+    "published": "2011-12-20T11:55:08.413"
+  },
+  {
+    "cve_id": "CVE-2012-0391",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "apache struts",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2012-01-08T15:55:01.217"
+  },
+  {
+    "cve_id": "CVE-2012-0754",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.1,
+    "severity": "HIGH",
+    "published": "2012-02-16T19:55:01.130"
+  },
+  {
+    "cve_id": "CVE-2012-0767",
+    "cwe_ids": [
+      "CWE-79"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 6.1,
+    "severity": "MEDIUM",
+    "published": "2012-02-16T19:55:01.303"
+  },
+  {
+    "cve_id": "CVE-2012-0151",
+    "cwe_ids": [
+      "CWE-20"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2012-04-10T21:55:01.597"
+  },
+  {
+    "cve_id": "CVE-2012-0158",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "microsoft office 2003",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2012-04-10T21:55:01.687"
+  },
+  {
+    "cve_id": "CVE-2012-1823",
+    "cwe_ids": [
+      "CWE-77"
+    ],
+    "product": "php php",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2012-05-11T10:15:48.043"
+  },
+  {
+    "cve_id": "CVE-2012-0507",
+    "cwe_ids": [
+      "CWE-843"
+    ],
+    "product": "sun jre 1.5.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2012-06-07T22:55:17.883"
+  },
+  {
+    "cve_id": "CVE-2012-2034",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2012-06-09T00:55:00.987"
+  },
+  {
+    "cve_id": "CVE-2012-1889",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft xml core services 3.0",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2012-06-13T04:46:46.190"
+  },
+  {
+    "cve_id": "CVE-2012-1723",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "oracle jdk",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2012-06-16T21:55:03.500"
+  },
+  {
+    "cve_id": "CVE-2012-1854",
+    "cwe_ids": [
+      "CWE-426"
+    ],
+    "product": "microsoft office 2003",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2012-07-10T21:55:05.587"
+  },
+  {
+    "cve_id": "CVE-2012-1535",
+    "cwe_ids": [
+      "CWE-20",
+      "CWE-94"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2012-08-15T10:31:40.677"
+  },
+  {
+    "cve_id": "CVE-2012-4681",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "oracle jdk 1.6.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2012-08-28T00:55:01.860"
+  },
+  {
+    "cve_id": "CVE-2012-4969",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 6",
+    "cvss_score": 8.1,
+    "severity": "HIGH",
+    "published": "2012-09-18T10:39:14.147"
+  },
+  {
+    "cve_id": "CVE-2012-5054",
+    "cwe_ids": [
+      "CWE-190"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2012-09-24T17:55:07.217"
+  },
+  {
+    "cve_id": "CVE-2012-5076",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "oracle jre 1.7.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2012-10-16T21:55:02.073"
+  },
+  {
+    "cve_id": "CVE-2012-0518",
+    "cwe_ids": [
+      "CWE-601"
+    ],
+    "product": "oracle fusion middleware 10.1.4.3",
+    "cvss_score": 4.7,
+    "severity": "MEDIUM",
+    "published": "2012-10-16T23:55:03.087"
+  },
+  {
+    "cve_id": "CVE-2012-2539",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft office compatibility pack",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2012-12-12T00:55:01.060"
+  },
+  {
+    "cve_id": "CVE-2012-4792",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 6",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2012-12-30T18:55:01.477"
+  },
+  {
+    "cve_id": "CVE-2013-0625",
+    "cwe_ids": [
+      "CWE-287"
+    ],
+    "product": "adobe coldfusion 9.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2013-01-09T01:55:00.803"
+  },
+  {
+    "cve_id": "CVE-2013-0422",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "oracle jdk 1.7.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2013-01-10T21:55:00.777"
+  },
+  {
+    "cve_id": "CVE-2013-0632",
+    "cwe_ids": [
+      "CWE-276"
+    ],
+    "product": "adobe coldfusion 9.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2013-01-17T00:55:01.200"
+  },
+  {
+    "cve_id": "CVE-2013-0431",
+    "cwe_ids": [
+      "CWE-693"
+    ],
+    "product": "oracle jre 1.7.0",
+    "cvss_score": 3.7,
+    "severity": "LOW",
+    "published": "2013-01-31T14:55:01.327"
+  },
+  {
+    "cve_id": "CVE-2013-0640",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2013-02-14T01:55:02.023"
+  },
+  {
+    "cve_id": "CVE-2013-0641",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2013-02-14T01:55:02.070"
+  },
+  {
+    "cve_id": "CVE-2013-0643",
+    "cwe_ids": [
+      "CWE-269"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-02-27T00:55:01.017"
+  },
+  {
+    "cve_id": "CVE-2013-2551",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 6",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-03-11T10:55:01.070"
+  },
+  {
+    "cve_id": "CVE-2013-2596",
+    "cwe_ids": [
+      "CWE-190"
+    ],
+    "product": "linux linux kernel",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2013-04-13T02:59:46.627"
+  },
+  {
+    "cve_id": "CVE-2013-2423",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "oracle jre 1.7.0",
+    "cvss_score": 3.7,
+    "severity": "LOW",
+    "published": "2013-04-17T18:55:07.087"
+  },
+  {
+    "cve_id": "CVE-2013-1347",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 8",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-05-05T11:07:00.527"
+  },
+  {
+    "cve_id": "CVE-2013-2094",
+    "cwe_ids": [
+      "CWE-189"
+    ],
+    "product": "linux linux kernel",
+    "cvss_score": 8.4,
+    "severity": "HIGH",
+    "published": "2013-05-14T20:55:01.527"
+  },
+  {
+    "cve_id": "CVE-2013-1675",
+    "cwe_ids": [
+      "CWE-665"
+    ],
+    "product": "mozilla firefox",
+    "cvss_score": 6.5,
+    "severity": "MEDIUM",
+    "published": "2013-05-16T11:45:30.877"
+  },
+  {
+    "cve_id": "CVE-2013-2729",
+    "cwe_ids": [
+      "CWE-190"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2013-05-16T11:45:31.263"
+  },
+  {
+    "cve_id": "CVE-2013-3660",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2013-05-24T20:55:01.903"
+  },
+  {
+    "cve_id": "CVE-2013-1331",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "microsoft office 2003",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2013-06-12T03:29:57.117"
+  },
+  {
+    "cve_id": "CVE-2013-2465",
+    "cwe_ids": [
+      "CWE-693"
+    ],
+    "product": "oracle jre 1.7.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2013-06-18T22:55:02.807"
+  },
+  {
+    "cve_id": "CVE-2013-1690",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "mozilla firefox",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-06-26T03:19:10.793"
+  },
+  {
+    "cve_id": "CVE-2013-3163",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft internet explorer 8",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-07-10T03:46:10.527"
+  },
+  {
+    "cve_id": "CVE-2013-2251",
+    "cwe_ids": [
+      "CWE-74"
+    ],
+    "product": "apache archiva",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2013-07-20T03:37:30.737"
+  },
+  {
+    "cve_id": "CVE-2013-3346",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2013-08-30T20:55:06.230"
+  },
+  {
+    "cve_id": "CVE-2013-4810",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "hp application lifecycle management",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2013-09-16T13:01:46.207"
+  },
+  {
+    "cve_id": "CVE-2013-3893",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 6",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-09-18T10:08:24.867"
+  },
+  {
+    "cve_id": "CVE-2013-3897",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 6",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-10-09T14:54:25.747"
+  },
+  {
+    "cve_id": "CVE-2013-3906",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "microsoft excel viewer",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2013-11-06T15:55:05.860"
+  },
+  {
+    "cve_id": "CVE-2013-3918",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-11-12T14:35:11.713"
+  },
+  {
+    "cve_id": "CVE-2013-5223",
+    "cwe_ids": [
+      "CWE-79"
+    ],
+    "product": "dlink dsl-2760u firmware",
+    "cvss_score": 5.4,
+    "severity": "MEDIUM",
+    "published": "2013-11-19T04:50:12.063"
+  },
+  {
+    "cve_id": "CVE-2013-6282",
+    "cwe_ids": [
+      "CWE-20"
+    ],
+    "product": "linux linux kernel",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2013-11-20T13:19:43.023"
+  },
+  {
+    "cve_id": "CVE-2013-3900",
+    "cwe_ids": [
+      "CWE-347"
+    ],
+    "product": "microsoft windows 10 1507",
+    "cvss_score": 5.5,
+    "severity": "MEDIUM",
+    "published": "2013-12-11T00:55:03.693"
+  },
+  {
+    "cve_id": "CVE-2014-0496",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "adobe acrobat",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2014-01-15T16:13:04.100"
+  },
+  {
+    "cve_id": "CVE-2014-0497",
+    "cwe_ids": [
+      "CWE-191"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2014-02-05T05:15:29.897"
+  },
+  {
+    "cve_id": "CVE-2014-0322",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 9",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2014-02-14T16:55:07.500"
+  },
+  {
+    "cve_id": "CVE-2014-0502",
+    "cwe_ids": [
+      "CWE-415"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2014-02-21T05:07:00.017"
+  },
+  {
+    "cve_id": "CVE-2013-7331",
+    "cwe_ids": [
+      "CWE-209"
+    ],
+    "product": "microsoft internet explorer 6",
+    "cvss_score": 6.5,
+    "severity": "MEDIUM",
+    "published": "2014-02-26T14:55:08.520"
+  },
+  {
+    "cve_id": "CVE-2014-2120",
+    "cwe_ids": [
+      "CWE-79"
+    ],
+    "product": "cisco adaptive security appliance software",
+    "cvss_score": 6.1,
+    "severity": "MEDIUM",
+    "published": "2014-03-19T01:15:04.007"
+  },
+  {
+    "cve_id": "CVE-2014-1761",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft office 2011",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2014-03-25T13:24:01.067"
+  },
+  {
+    "cve_id": "CVE-2014-0160",
+    "cwe_ids": [
+      "CWE-125"
+    ],
+    "product": "openssl openssl",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2014-04-07T22:55:03.893"
+  },
+  {
+    "cve_id": "CVE-2014-0780",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "indusoft web studio 7.1",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2014-04-25T05:12:07.787"
+  },
+  {
+    "cve_id": "CVE-2014-1776",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "microsoft internet explorer 6",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2014-04-27T10:55:03.340"
+  },
+  {
+    "cve_id": "CVE-2014-0130",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "redhat subscription asset manager",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2014-05-07T10:55:04.133"
+  },
+  {
+    "cve_id": "CVE-2014-0196",
+    "cwe_ids": [
+      "CWE-362"
+    ],
+    "product": "linux linux kernel",
+    "cvss_score": 5.5,
+    "severity": "MEDIUM",
+    "published": "2014-05-07T10:55:04.337"
+  },
+  {
+    "cve_id": "CVE-2014-1812",
+    "cwe_ids": [
+      "CWE-255",
+      "CWE-522"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2014-05-14T11:13:06.630"
+  },
+  {
+    "cve_id": "CVE-2013-3993",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "ibm infosphere biginsights",
+    "cvss_score": 6.5,
+    "severity": "MEDIUM",
+    "published": "2014-07-07T11:01:28.383"
+  },
+  {
+    "cve_id": "CVE-2014-3120",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "elastic elasticsearch",
+    "cvss_score": 8.1,
+    "severity": "HIGH",
+    "published": "2014-07-28T19:55:04.490"
+  },
+  {
+    "cve_id": "CVE-2013-2597",
+    "cwe_ids": [
+      "CWE-121"
+    ],
+    "product": "codeaurora android-msm 2.6.29",
+    "cvss_score": 8.4,
+    "severity": "HIGH",
+    "published": "2014-08-31T10:55:03.753"
+  },
+  {
+    "cve_id": "CVE-2014-4404",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "apple iphone os",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2014-09-18T10:55:09.827"
+  },
+  {
+    "cve_id": "CVE-2014-6271",
+    "cwe_ids": [
+      "CWE-78"
+    ],
+    "product": "gnu bash",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2014-09-24T18:48:04.477"
+  },
+  {
+    "cve_id": "CVE-2014-7169",
+    "cwe_ids": [
+      "CWE-78"
+    ],
+    "product": "gnu bash",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2014-09-25T01:55:04.367"
+  },
+  {
+    "cve_id": "CVE-2014-6278",
+    "cwe_ids": [
+      "CWE-78"
+    ],
+    "product": "gnu bash 1.14.0",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2014-09-30T10:55:04.723"
+  },
+  {
+    "cve_id": "CVE-2014-6287",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "rejetto http file server",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2014-10-07T10:55:04.493"
+  },
+  {
+    "cve_id": "CVE-2014-4148",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2014-10-15T10:55:08.693"
+  },
+  {
+    "cve_id": "CVE-2014-6332",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2014-11-11T22:55:05.200"
+  },
+  {
+    "cve_id": "CVE-2014-8439",
+    "cwe_ids": [
+      "CWE-119",
+      "CWE-416"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2014-11-25T23:59:00.053"
+  },
+  {
+    "cve_id": "CVE-2014-9163",
+    "cwe_ids": [
+      "CWE-121"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2014-12-10T21:59:35.163"
+  },
+  {
+    "cve_id": "CVE-2014-100005",
+    "cwe_ids": [
+      "CWE-352"
+    ],
+    "product": "dlink dir-600 firmware",
+    "cvss_score": 8.0,
+    "severity": "HIGH",
+    "published": "2015-01-13T11:59:04.477"
+  },
+  {
+    "cve_id": "CVE-2015-0016",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2015-01-13T22:59:07.190"
+  },
+  {
+    "cve_id": "CVE-2015-0310",
+    "cwe_ids": [
+      "CWE-200"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2015-01-23T21:59:00.050"
+  },
+  {
+    "cve_id": "CVE-2015-0313",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-02-02T19:59:00.053"
+  },
+  {
+    "cve_id": "CVE-2015-2051",
+    "cwe_ids": [
+      "CWE-77"
+    ],
+    "product": "dlink dir-645 firmware",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-02-23T17:59:08.320"
+  },
+  {
+    "cve_id": "CVE-2015-0666",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "cisco prime data center network manager",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2015-04-03T10:59:04.290"
+  },
+  {
+    "cve_id": "CVE-2015-1130",
+    "cwe_ids": [
+      "CWE-59"
+    ],
+    "product": "apple mac os x",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2015-04-10T14:59:43.073"
+  },
+  {
+    "cve_id": "CVE-2015-1635",
+    "cwe_ids": [
+      "CWE-94"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-04-14T20:59:01.263"
+  },
+  {
+    "cve_id": "CVE-2015-1641",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft office 2010",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2015-04-14T20:59:05.250"
+  },
+  {
+    "cve_id": "CVE-2015-3043",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-04-14T22:59:21.323"
+  },
+  {
+    "cve_id": "CVE-2015-3035",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "tp-link tl-wr741nd firmware",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2015-04-22T01:59:02.553"
+  },
+  {
+    "cve_id": "CVE-2015-3306",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "fedoraproject fedora 20",
+    "cvss_score": 10.0,
+    "severity": "CRITICAL",
+    "published": "2015-05-18T15:59:10.743"
+  },
+  {
+    "cve_id": "CVE-2015-4068",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "arcserve udp",
+    "cvss_score": 9.1,
+    "severity": "CRITICAL",
+    "published": "2015-05-29T15:59:23.327"
+  },
+  {
+    "cve_id": "CVE-2015-1770",
+    "cwe_ids": [
+      "CWE-824"
+    ],
+    "product": "microsoft office 2013",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-06-10T01:59:36.483"
+  },
+  {
+    "cve_id": "CVE-2015-2360",
+    "cwe_ids": [
+      "CWE-119",
+      "CWE-416"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-06-10T01:59:38.890"
+  },
+  {
+    "cve_id": "CVE-2015-3113",
+    "cwe_ids": [
+      "CWE-787",
+      "CWE-122"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-06-23T21:59:01.960"
+  },
+  {
+    "cve_id": "CVE-2015-5119",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-07-08T14:59:05.677"
+  },
+  {
+    "cve_id": "CVE-2015-5122",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-07-14T10:59:00.213"
+  },
+  {
+    "cve_id": "CVE-2015-5123",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "redhat enterprise linux desktop 5.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-07-14T10:59:01.337"
+  },
+  {
+    "cve_id": "CVE-2015-2419",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft internet explorer 10",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-07-14T21:59:33.283"
+  },
+  {
+    "cve_id": "CVE-2015-2424",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft excel viewer 2007",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-07-14T21:59:35.987"
+  },
+  {
+    "cve_id": "CVE-2015-2425",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft internet explorer 11",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-07-14T21:59:36.813"
+  },
+  {
+    "cve_id": "CVE-2015-2387",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft windows 7",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2015-07-14T22:59:08.103"
+  },
+  {
+    "cve_id": "CVE-2015-2426",
+    "cwe_ids": [
+      "CWE-119",
+      "CWE-124"
+    ],
+    "product": "microsoft windows 10",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-07-20T18:59:01.210"
+  },
+  {
+    "cve_id": "CVE-2015-5477",
+    "cwe_ids": [
+      "CWE-19",
+      "CWE-617"
+    ],
+    "product": "juniper junos",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2015-07-29T14:59:05.397"
+  },
+  {
+    "cve_id": "CVE-2015-4495",
+    "cwe_ids": [
+      "CWE-346"
+    ],
+    "product": "mozilla firefox",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-08-08T00:59:04.597"
+  },
+  {
+    "cve_id": "CVE-2015-3246",
+    "cwe_ids": [
+      "CWE-264",
+      "CWE-367"
+    ],
+    "product": "redhat enterprise linux 5.0",
+    "cvss_score": 7.4,
+    "severity": "HIGH",
+    "published": "2015-08-11T14:59:07.040"
+  },
+  {
+    "cve_id": "CVE-2015-1642",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft office 2007",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2015-08-15T00:59:00.110"
+  },
+  {
+    "cve_id": "CVE-2015-1769",
+    "cwe_ids": [
+      "CWE-264"
+    ],
+    "product": "microsoft windows 10",
+    "cvss_score": 6.6,
+    "severity": "MEDIUM",
+    "published": "2015-08-15T00:59:01.467"
+  },
+  {
+    "cve_id": "CVE-2015-2502",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft internet explorer 7",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-08-19T10:59:00.090"
+  },
+  {
+    "cve_id": "CVE-2015-2546",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "microsoft windows 10 1507",
+    "cvss_score": 8.2,
+    "severity": "HIGH",
+    "published": "2015-09-09T00:59:53.207"
+  },
+  {
+    "cve_id": "CVE-2015-4902",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "oracle jdk 1.6.0",
+    "cvss_score": 5.3,
+    "severity": "MEDIUM",
+    "published": "2015-10-22T00:00:03.093"
+  },
+  {
+    "cve_id": "CVE-2015-4852",
+    "cwe_ids": [
+      "CWE-502"
+    ],
+    "product": "oracle virtual desktop infrastructure",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-11-18T15:59:00.133"
+  },
+  {
+    "cve_id": "CVE-2015-5317",
+    "cwe_ids": [
+      "CWE-200"
+    ],
+    "product": "jenkins jenkins",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2015-11-25T20:59:07.680"
+  },
+  {
+    "cve_id": "CVE-2015-5287",
+    "cwe_ids": [
+      "CWE-59"
+    ],
+    "product": "redhat automatic bug reporting tool",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2015-12-07T18:59:02.230"
+  },
+  {
+    "cve_id": "CVE-2015-7755",
+    "cwe_ids": [
+      "CWE-287"
+    ],
+    "product": "juniper screenos 6.3.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2015-12-19T14:59:01.453"
+  },
+  {
+    "cve_id": "CVE-2015-8651",
+    "cwe_ids": [
+      "CWE-190"
+    ],
+    "product": "adobe air sdk",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2015-12-28T23:59:19.050"
+  },
+  {
+    "cve_id": "CVE-2015-7450",
+    "cwe_ids": [
+      "CWE-502"
+    ],
+    "product": "ibm sterling b2b integrator 5.2",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2016-01-02T21:59:15.800"
+  },
+  {
+    "cve_id": "CVE-2016-0984",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-02-10T20:59:32.563"
+  },
+  {
+    "cve_id": "CVE-2016-0752",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "rubyonrails rails",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2016-02-16T02:59:06.783"
+  },
+  {
+    "cve_id": "CVE-2016-2386",
+    "cwe_ids": [
+      "CWE-89"
+    ],
+    "product": "sap netweaver application server java 7.40",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2016-02-16T15:59:00.133"
+  },
+  {
+    "cve_id": "CVE-2016-2388",
+    "cwe_ids": [
+      "CWE-200"
+    ],
+    "product": "sap netweaver application server java",
+    "cvss_score": 5.3,
+    "severity": "MEDIUM",
+    "published": "2016-02-16T15:59:02.103"
+  },
+  {
+    "cve_id": "CVE-2016-0099",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "microsoft windows 10 1507",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2016-03-09T11:59:09.590"
+  },
+  {
+    "cve_id": "CVE-2016-1010",
+    "cwe_ids": [
+      "CWE-190"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-03-12T15:59:25.090"
+  },
+  {
+    "cve_id": "CVE-2016-1646",
+    "cwe_ids": [
+      "CWE-125"
+    ],
+    "product": "debian debian linux 8.0",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-03-29T10:59:00.160"
+  },
+  {
+    "cve_id": "CVE-2016-3976",
+    "cwe_ids": [
+      "CWE-22"
+    ],
+    "product": "sap netweaver application server java",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2016-04-07T23:59:10.797"
+  },
+  {
+    "cve_id": "CVE-2016-0151",
+    "cwe_ids": [
+      "CWE-269"
+    ],
+    "product": "microsoft windows 10 1507",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2016-04-12T23:59:15.890"
+  },
+  {
+    "cve_id": "CVE-2016-3427",
+    "cwe_ids": [
+      "CWE-284"
+    ],
+    "product": "oracle jdk 1.6.0",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2016-04-21T11:00:21.667"
+  },
+  {
+    "cve_id": "CVE-2016-3081",
+    "cwe_ids": [
+      "CWE-77"
+    ],
+    "product": "huawei agile controller-campus firmware v100r002c00",
+    "cvss_score": 8.1,
+    "severity": "HIGH",
+    "published": "2016-04-26T14:59:02.207"
+  },
+  {
+    "cve_id": "CVE-2016-3714",
+    "cwe_ids": [
+      "CWE-20"
+    ],
+    "product": "imagemagick imagemagick",
+    "cvss_score": 8.4,
+    "severity": "HIGH",
+    "published": "2016-05-05T18:59:03.273"
+  },
+  {
+    "cve_id": "CVE-2016-3715",
+    "cwe_ids": [
+      "CWE-552"
+    ],
+    "product": "redhat enterprise linux desktop 6.0",
+    "cvss_score": 5.5,
+    "severity": "MEDIUM",
+    "published": "2016-05-05T18:59:04.727"
+  },
+  {
+    "cve_id": "CVE-2016-3718",
+    "cwe_ids": [
+      "CWE-918"
+    ],
+    "product": "redhat enterprise linux desktop 6.0",
+    "cvss_score": 5.5,
+    "severity": "MEDIUM",
+    "published": "2016-05-05T18:59:08.960"
+  },
+  {
+    "cve_id": "CVE-2016-0189",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft jscript 5.8",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2016-05-11T01:59:30.537"
+  },
+  {
+    "cve_id": "CVE-2010-5326",
+    "cwe_ids": [
+      "CWE-306"
+    ],
+    "product": "sap netweaver application server java",
+    "cvss_score": 10.0,
+    "severity": "CRITICAL",
+    "published": "2016-05-13T10:59:00.173"
+  },
+  {
+    "cve_id": "CVE-2016-3088",
+    "cwe_ids": [
+      "CWE-434"
+    ],
+    "product": "apache activemq",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2016-06-01T20:59:04.123"
+  },
+  {
+    "cve_id": "CVE-2016-4437",
+    "cwe_ids": [
+      "CWE-321"
+    ],
+    "product": "apache aurora",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2016-06-07T14:06:13.247"
+  },
+  {
+    "cve_id": "CVE-2016-4523",
+    "cwe_ids": [
+      "CWE-125"
+    ],
+    "product": "trihedral vtscada",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2016-06-09T10:59:04.073"
+  },
+  {
+    "cve_id": "CVE-2016-3643",
+    "cwe_ids": [
+      "CWE-264"
+    ],
+    "product": "solarwinds virtualization manager",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2016-06-17T15:59:02.257"
+  },
+  {
+    "cve_id": "CVE-2016-6366",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "cisco pix firewall software",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-08-18T18:59:00.117"
+  },
+  {
+    "cve_id": "CVE-2016-6367",
+    "cwe_ids": [
+      "CWE-77"
+    ],
+    "product": "cisco adaptive security appliance software",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2016-08-18T18:59:01.463"
+  },
+  {
+    "cve_id": "CVE-2016-4656",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "apple iphone os",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2016-08-25T21:59:01.087"
+  },
+  {
+    "cve_id": "CVE-2016-4657",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "apple iphone os",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-08-25T21:59:02.150"
+  },
+  {
+    "cve_id": "CVE-2016-6415",
+    "cwe_ids": [
+      "CWE-200"
+    ],
+    "product": "cisco ios",
+    "cvss_score": 7.5,
+    "severity": "HIGH",
+    "published": "2016-09-19T01:59:06.167"
+  },
+  {
+    "cve_id": "CVE-2016-7193",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "microsoft office 2007",
+    "cvss_score": 7.8,
+    "severity": "HIGH",
+    "published": "2016-10-14T02:59:38.013"
+  },
+  {
+    "cve_id": "CVE-2016-7855",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "adobe flash player",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-11-01T22:59:00.167"
+  },
+  {
+    "cve_id": "CVE-2016-7200",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "microsoft edge",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-11-10T06:59:15.733"
+  },
+  {
+    "cve_id": "CVE-2016-7201",
+    "cwe_ids": [
+      "CWE-843"
+    ],
+    "product": "microsoft edge",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-11-10T06:59:16.810"
+  },
+  {
+    "cve_id": "CVE-2016-5195",
+    "cwe_ids": [
+      "CWE-362"
+    ],
+    "product": "canonical ubuntu linux 12.04",
+    "cvss_score": 7.0,
+    "severity": "HIGH",
+    "published": "2016-11-10T21:59:00.197"
+  },
+  {
+    "cve_id": "CVE-2016-9563",
+    "cwe_ids": [
+      "CWE-611"
+    ],
+    "product": "sap netweaver application server java 7.50",
+    "cvss_score": 6.5,
+    "severity": "MEDIUM",
+    "published": "2016-11-23T02:59:06.370"
+  },
+  {
+    "cve_id": "CVE-2016-6277",
+    "cwe_ids": [
+      "CWE-352"
+    ],
+    "product": "netgear d6220 firmware",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-12-14T16:59:00.350"
+  },
+  {
+    "cve_id": "CVE-2016-7892",
+    "cwe_ids": [
+      "CWE-416"
+    ],
+    "product": "adobe flash player desktop runtime",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2016-12-15T06:59:56.313"
+  },
+  {
+    "cve_id": "CVE-2016-10033",
+    "cwe_ids": [
+      "CWE-88"
+    ],
+    "product": "phpmailer project phpmailer",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2016-12-30T19:59:00.137"
+  },
+  {
+    "cve_id": "CVE-2016-5198",
+    "cwe_ids": [
+      "CWE-787"
+    ],
+    "product": "google chrome",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2017-01-19T05:59:00.213"
+  },
+  {
+    "cve_id": "CVE-2016-10174",
+    "cwe_ids": [
+      "CWE-120"
+    ],
+    "product": "netgear d6100 firmware",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2017-01-30T04:59:00.157"
+  },
+  {
+    "cve_id": "CVE-2017-6077",
+    "cwe_ids": [
+      "CWE-78"
+    ],
+    "product": "netgear dgn2200 firmware",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2017-02-22T23:59:00.190"
+  },
+  {
+    "cve_id": "CVE-2017-0037",
+    "cwe_ids": [
+      "CWE-843"
+    ],
+    "product": "microsoft edge",
+    "cvss_score": 8.1,
+    "severity": "HIGH",
+    "published": "2017-02-26T23:59:00.150"
+  },
+  {
+    "cve_id": "CVE-2017-6334",
+    "cwe_ids": [
+      "CWE-78"
+    ],
+    "product": "netgear dgn2200 series firmware",
+    "cvss_score": 8.8,
+    "severity": "HIGH",
+    "published": "2017-03-06T02:59:00.433"
+  },
+  {
+    "cve_id": "CVE-2017-5638",
+    "cwe_ids": [
+      "CWE-755"
+    ],
+    "product": "apache struts",
+    "cvss_score": 9.8,
+    "severity": "CRITICAL",
+    "published": "2017-03-11T02:59:00.150"
+  },
+  {
+    "cve_id": "CVE-2017-0022",
+    "cwe_ids": [
+      "CWE-119"
+    ],
+    "product": "microsoft xml core services 3.0",
+    "cvss_score": 6.5,
+    "severity": "MEDIUM",
+    "published": "2017-03-17T00:59:00.680"
+  }
+]
