@@ -1,0 +1,106 @@
+{
+  "company": "(주)누리시스템",
+  "note": "교육용 가상 자산 인벤토리입니다. 담당자 이메일은 모두 가상 주소(example.com)입니다.",
+  "assets": [
+    {
+      "id": "web-nginx-01",
+      "name": "대외 웹 프론트",
+      "product": "nginx",
+      "version": "1.24.0",
+      "owner": "김인프라",
+      "owner_email": "infra.kim@example.com",
+      "criticality": "상",
+      "internet_facing": true
+    },
+    {
+      "id": "web-ssl-02",
+      "name": "TLS 종단 게이트웨이",
+      "product": "OpenSSL",
+      "version": "3.0.11",
+      "owner": "김인프라",
+      "owner_email": "infra.kim@example.com",
+      "criticality": "상",
+      "internet_facing": true
+    },
+    {
+      "id": "was-tc-03",
+      "name": "고객포털 WAS",
+      "product": "Apache Tomcat",
+      "version": "9.0.71",
+      "owner": "김인프라",
+      "owner_email": "infra.kim@example.com",
+      "criticality": "상",
+      "internet_facing": true
+    },
+    {
+      "id": "api-node-04",
+      "name": "주문 API 서버",
+      "product": "Node.js",
+      "version": "18.17.1",
+      "owner": "박백엔드",
+      "owner_email": "backend.park@example.com",
+      "criticality": "상",
+      "internet_facing": true
+    },
+    {
+      "id": "cache-rd-05",
+      "name": "세션 캐시",
+      "product": "Redis",
+      "version": "7.0.12",
+      "owner": "박백엔드",
+      "owner_email": "backend.park@example.com",
+      "criticality": "중",
+      "internet_facing": false
+    },
+    {
+      "id": "db-pg-06",
+      "name": "결제 원장 DB",
+      "product": "PostgreSQL",
+      "version": "15.4",
+      "owner": "이디비",
+      "owner_email": "dba.lee@example.com",
+      "criticality": "상",
+      "internet_facing": false
+    },
+    {
+      "id": "ci-jk-07",
+      "name": "빌드 서버",
+      "product": "Jenkins",
+      "version": "2.414.1",
+      "owner": "최데브옵스",
+      "owner_email": "devops.choi@example.com",
+      "criticality": "중",
+      "internet_facing": false
+    },
+    {
+      "id": "scm-gl-08",
+      "name": "소스 저장소",
+      "product": "GitLab",
+      "version": "16.3.1",
+      "owner": "최데브옵스",
+      "owner_email": "devops.choi@example.com",
+      "criticality": "상",
+      "internet_facing": false
+    },
+    {
+      "id": "mon-graf-09",
+      "name": "모니터링 대시보드",
+      "product": "Grafana",
+      "version": "10.1.2",
+      "owner": "최데브옵스",
+      "owner_email": "devops.choi@example.com",
+      "criticality": "하",
+      "internet_facing": true
+    },
+    {
+      "id": "legacy-st-10",
+      "name": "사내 전자결재 (교체 예정)",
+      "product": "Apache Struts",
+      "version": "2.5.30",
+      "owner": "정레거시",
+      "owner_email": "legacy.jung@example.com",
+      "criticality": "중",
+      "internet_facing": false
+    }
+  ]
+}
