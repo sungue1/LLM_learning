@@ -1,0 +1,2192 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=e2] [cursor=pointer]:
+      - /url: "#lnb"
+    - link "본문 영역으로 바로가기" [ref=e4] [cursor=pointer]:
+      - /url: "#content"
+  - generic [ref=e6]:
+    - generic [ref=e8]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - text: 현재 PC에 최적화된 브라우저
+          - strong [ref=e13]: 웨일을 설치하세요
+          - link "다운로드" [ref=e14] [cursor=pointer]:
+            - /url: https://whale.naver.com/ko/?wpid=search_theme1
+        - link "7일 내 다시보지 않기" [ref=e16] [cursor=pointer]:
+          - /url: "#"
+        - button "닫기" [ref=e17] [cursor=pointer]
+      - generic [ref=e21]:
+        - heading [level=1] [ref=e22]:
+          - link "NAVER" [ref=e23] [cursor=pointer]:
+            - /url: https://www.naver.com
+        - search [ref=e25]:
+          - group "검색" [ref=e26]:
+            - combobox "검색어를 입력해 주세요." [ref=e28]: 바람떡 조리법
+            - button "한글 입력기" [ref=e30] [cursor=pointer]
+            - button "검색" [ref=e32] [cursor=pointer]
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - tab "AI new" [ref=e39] [cursor=pointer]:
+              - text: AI
+              - generic [ref=e40]: new
+            - tab "블로그" [ref=e43] [cursor=pointer]
+            - tab "카페" [ref=e45] [cursor=pointer]
+            - tab "클립" [ref=e47] [cursor=pointer]
+            - tab "이미지" [ref=e49] [cursor=pointer]
+            - tab "지식iN" [ref=e51] [cursor=pointer]
+            - tab "동영상" [ref=e53] [cursor=pointer]
+            - tab "쇼핑 새 창 열림" [ref=e55] [cursor=pointer]:
+              - text: 쇼핑
+              - generic [ref=e56]: 새 창 열림
+            - tab "뉴스" [ref=e58] [cursor=pointer]
+            - tab "어학사전 새 창 열림" [ref=e60] [cursor=pointer]:
+              - text: 어학사전
+              - generic [ref=e61]: 새 창 열림
+          - button "더보기" [ref=e63] [cursor=pointer]
+        - list [ref=e66]:
+          - listitem [ref=e67]:
+            - button "공유" [ref=e68] [cursor=pointer]
+    - main [ref=e69]:
+      - generic [ref=e70]:
+        - heading "바람떡 조리법 검색 결과" [level=1] [ref=e71]
+        - generic [ref=e72]:
+          - generic [ref=e84]:
+            - heading "AI 브리핑" [level=2] [ref=e92]
+            - button "Feedback 박스 열기" [ref=e95] [cursor=pointer]
+          - generic [ref=e138]:
+            - generic [ref=e139]:
+              - generic [ref=e140]:
+                - heading "바람떡조리법 관련 광고" [level=2] [ref=e141]:
+                  - generic [ref=e142]: 바람떡조리법
+                  - generic [ref=e143]: 관련 광고
+                - button "이 광고가 표시된 이유" [ref=e144] [cursor=pointer]
+              - link "등록 안내" [ref=e147] [cursor=pointer]:
+                - /url: //saedu.naver.com/adbiz/searchad/clickChoice.naver
+            - generic [ref=e148]:
+              - list [ref=e149]:
+                - listitem [ref=e150]:
+                  - generic [ref=e151]:
+                    - generic [ref=e152]:
+                      - generic [ref=e153]:
+                        - link [ref=e154] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/2rARLwguviSvE3bU9Fu4cAQH2lU0nhIJ4o96-m6xQV8lDYsDJrBpE6_W9HiQHKRqaEm-T4eGCg8gC9hsa1Qc8mswFqRCYQNlwef1R9HeKBaewwukgOnMscquESJUUhQxYjjb-oBY0KlYrAHEzbf5zSfu1tQ1QrJ23VuSN-CFqZm7DrYVhrS6ZTRLHvRAlHGIVDv9vD6_9wbLytnE7NkDZeRulWpZgwNLiGyh4zxqZbx-jOeL_FHaTbmeuqvTQNETUHnCtydwA1uxX2ttyOoUspayI44nL8oAfhq6lra6te7X7bO1yWL0M1t5mZYl9XQ6_yOed14RR5bNGbCnDc6nkzLsY94GysUtAe1Geks6rPnyzoJda6AkuE-C-W-XHx2FiV0EwY6eJ8WSQ8NAELc3JJI_uTNZUnTY6uqv8zbW9wCQeVL_LpjNFBHfPPFyiZuv2E4XO9zd8zIvw5-mFNom1jdWa2Ep9aLTjFeJRELSjzw8VoA15eK3-FZnXmCcRrFJoy6YXPOHhaQofURNvJqIuA==?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e155]
+                        - img "광고" [ref=e156]
+                        - link "쿠팡" [ref=e160] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/2rARLwguviSvE3bU9Fu4cAQH2lU0nhIJ4o96-m6xQV8lDYsDJrBpE6_W9HiQHKRqaEm-T4eGCg8gC9hsa1Qc8mswFqRCYQNlwef1R9HeKBaewwukgOnMscquESJUUhQxYjjb-oBY0KlYrAHEzbf5zSfu1tQ1QrJ23VuSN-CFqZm7DrYVhrS6ZTRLHvRAlHGIVDv9vD6_9wbLytnE7NkDZeRulWpZgwNLiGyh4zxqZbx-jOeL_FHaTbmeuqvTQNETUHnCtydwA1uxX2ttyOoUspayI44nL8oAfhq6lra6te7X7bO1yWL0M1t5mZYl9XQ6_yOed14RR5bNGbCnDc6nkzLsY94GysUtAe1Geks6rPnyzoJda6AkuE-C-W-XHx2FiV0EwY6eJ8WSQ8NAELc3JJI_uTNZUnTY6uqv8zbW9wCQeVL_LpjNFBHfPPFyiZuv2E4XO9zd8zIvw5-mFNom1jdWa2Ep9aLTjFeJRELSjzw8VoA15eK3-FZnXmCcRrFJoy6YXPOHhaQofURNvJqIuA==?c=naver.search.pc.plsearch&t=0
+                        - link "coupang.com" [ref=e162] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/2rARLwguviSvE3bU9Fu4cAQH2lU0nhIJ4o96-m6xQV8lDYsDJrBpE6_W9HiQHKRqaEm-T4eGCg8gC9hsa1Qc8mswFqRCYQNlwef1R9HeKBaewwukgOnMscquESJUUhQxYjjb-oBY0KlYrAHEzbf5zSfu1tQ1QrJ23VuSN-CFqZm7DrYVhrS6ZTRLHvRAlHGIVDv9vD6_9wbLytnE7NkDZeRulWpZgwNLiGyh4zxqZbx-jOeL_FHaTbmeuqvTQNETUHnCtydwA1uxX2ttyOoUspayI44nL8oAfhq6lra6te7X7bO1yWL0M1t5mZYl9XQ6_yOed14RR5bNGbCnDc6nkzLsY94GysUtAe1Geks6rPnyzoJda6AkuE-C-W-XHx2FiV0EwY6eJ8WSQ8NAELc3JJI_uTNZUnTY6uqv8zbW9wCQeVL_LpjNFBHfPPFyiZuv2E4XO9zd8zIvw5-mFNom1jdWa2Ep9aLTjFeJRELSjzw8VoA15eK3-FZnXmCcRrFJoy6YXPOHhaQofURNvJqIuA==?c=naver.search.pc.plsearch&t=0
+                      - link [ref=e163] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/2rARLwguviSvE3bU9Fu4cAQH2lU0nhIJ4o96-m6xQV8lDYsDJrBpE6_W9HiQHKRqaEm-T4eGCg8gC9hsa1Qc8mswFqRCYQNlwef1R9HeKBaewwukgOnMscquESJUUhQxYjjb-oBY0KlYrAHEzbf5zSfu1tQ1QrJ23VuSN-CFqZm7DrYVhrS6ZTRLHvRAlHGIVDv9vD6_9wbLytnE7NkDZeRulWpZgwNLiGyh4zxqZbx-jOeL_FHaTbmeuqvTQNETUHnCtydwA1uxX2ttyOoUspayI44nL8oAfhq6lra6te7X7bO1yWL0M1t5mZYl9XQ6_yOed14RR5bNGbCnDc6nkzLsY94GysUtAe1Geks6rPnyzoJda6AkuE-C-W-XHx2FiV0EwY6eJ8WSQ8NAELc3JJI_uTNZUnTY6uqv8zbW9wCQeVL_LpjNFBHfPPFyiZuv2E4XO9zd8zIvw5-mFNom1jdWa2Ep9aLTjFeJRELSjzw8VoA15eK3-FZnXmCcRrFJoy6YXPOHhaQofURNvJqIuA==?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e164]:
+                          - text: 달항아리
+                          - strong [ref=e165]: 바람떡
+                          - text: 쿠팡
+                        - text: 오늘 주문 내일 도착 취향저격 귀여운 모양틀
+                    - generic [ref=e166]:
+                      - generic [ref=e167]:
+                        - link [ref=e168] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/aHlT3nzUs_slvYtPaGGGnFguIxa40vUBQ7dacnsEXEuJCB2Bu8d6fdqcdLHYQIcwK8otvxgmLwLA-W3hfO4DB5cIKPc6wPeFcGcutxH9yQ4m0h2QjPJkb7cam0sLCLPRZ4fRYZ3EqjixgzQzhioAf3Y0EmJgUiK6X_hQ_IbQf7vXj8BcrMInOqR0UEbwRXkBBUeTagOJr-3ESYdZ48Kit1NdcmgN4yhJsRbp1NSN43TUdC6MZFq8F1nxMk0-YN8GRSE3wjG8YgIv3IbwgTZJu05F_USd5A-pIeIoFS4bGWS2ek1r-77-AUp2Um7yC2pceZF7i03aadytmrBpbY3IlN1fuli-fF_rgc3MmmMAAWfD0clmYvPJneYbaHOLr7Gh-Bz1rXMNH3VeKxmCF_qVoDix1iURvKTveNvezxu4g-llBZAnDCuLsBa_QR0717b8pvtpaEOymbTbwSFc4-mJdm-WtmLUqr6VNuFeFoiugZY29TZefW1ETvuimJ6NQEgY2Hhx0aq3HexBxLNZJRFyFS-8y2r85Bs22rsWQVh8qjNsAcE06XijDHnNNKth5k1jgdwLHt7vLzObjRLEfnn-Wg==?c=naver.search.pc.plsearch&t=0
+                          - generic [ref=e171]:
+                            - strong [ref=e172]: 14,130
+                            - text: 원
+                        - link [ref=e173] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/1ZZRHTvxGTZK3L5UyjNP2rxUrMGeoC54s29KfTmHX8aczAFhbKY8JidXF4qB08iIbjd-D0Vk3z9aShUPJCRtyA9IP-s5UeEvOXIxdbSrl3TQI7e9o1LdUZ7gqLci4bWVT9yoMQJGMfNAC6xHDhrer01TMSw-OZlEWRtjwftmc5a0LazOQAV6WIZD8SbSAi1MUkSwdhz2eLNshkzVrxfOrnXARGyBef9yUPd0c4-udKBeeB7qVVsz5l0txBVcD-cnSVau6_Whh6iraXAIZPOvJYerlsb0VaMjllOI-JAteTSH6fUXfrog9EGRLMmRyO6hHHxX8MyO0kIiNb2lOvWo3ekDbcR8HP_K8WLdtIWi70Ku57S3Z0xqWGUytx9FGoXnq3ktB-7S_8FOl1hmVaNb2wRsVFSSoiiwK5Wnt274ZrhZONiiekdNBmk5ae-ce0EDUJx64-eGdzNL85O-UTLuMnfH-wuteDQTlbLZd_dzsnmUCbiYJAX5DWLDMI83Ruz08rbJvTUm7G9OTV4akp7VDE-eBfWxkZZXbI8EXFXpj6zyLpYOeD3t-Oy_eOftqSNQJRI75Lb1wr0HTc7wCSUn1A==?c=naver.search.pc.plsearch&t=0
+                          - generic [ref=e176]:
+                            - strong [ref=e177]: 15,880
+                            - text: 원
+                        - link [ref=e178] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/1ZZRHTvxGTZK3L5UyjNP2rRuIFQiQuaXRAN4k9JtH2v6cupTQgNG6-zTWX7GhLWMeEf9q64yH_nlygY7e9YUKjLta6bSNes29CDyTAQdme2XofnUdtwtveiWusI5xJ0nh2Ww9n1mVi6Fsu2H8MurL1kP-87AtdruoP2w-zy21D5tZt6eMR8IJGCdjOhdr9ipaeriXtXXGYz8mbEAtpcdot8kWqMY7RpNMDOyHN4QCr6VC0Snd5_OFMrEuiyraQZMBHuMgocNWFX5czH3_7KXwrNhEvG_qLfS3loq1o64m9G6zTxxg6WcBPrvXj5D8h254iehmv5dsMqHHZoNKwT3U4-q1G4XUw1Bg5Z3UVQYzSKVkjjCiNomHJb-9uGPhGnb6vGNrrWtn6jTyqR_ny2n7vWMkg5_IDJjX_gngf65wHpQwgpDuqw8YUAHHOl_wonFo65x7f1pOMmp47AY_ck_UXLOtiLJosHrW3njbzTI7aguRKf5cJ4EGq46GzxACiZRzzklxD-PvlAye-EUwCzWbcvs2etu-45_d-WESqOxSmLhqgf2c0gV0NxHYzWx54mdcBEIdjj43ub9iHaCWXS8gA==?c=naver.search.pc.plsearch&t=0
+                          - generic [ref=e181]:
+                            - strong [ref=e182]: 14,890
+                            - text: 원
+                        - link [ref=e183] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9GhvVTY67VrvhMWqoH00iIgDX_AKbGspnOZmFLMco2FnOzJfTfgyT3266tR95R4aEvxq6grAgR7j-PxyBpyY3raTQ3VATPnTAdIFcmMzqS7TlMB3aAq4O8maEq4omo0dFvMOxUFF4mqYu6pwCLOlRcWDP3eC2mOLrqIQBDbwho18a8xL2cPsT9uo31JIUL93ZNIwfu0hLb7QF-iyRTuiaS45JEr7ZdV2hvO1ujCknC_h-Iufxd-37j5cApanjkvoZy6Yoe6uevS42kln3s-693K6ut_pjRoI7K_sgXmJWaItPf2B9Btd9G0BpqbwltLyE0z6L0RQrQwtxwleYzIzmM1BYdSxydCPveGFrBHIo94c5-wGtGFAPBBFiqVq14t9efMonNjWhXKb8iW13nquXBy7JKWrPPy91oqY5JFC3zZ4xd8aRwBW2fc9SoV2gPj3qQEi08bOjhK8oxKEipw-t0XKjXuV2OoCKXF-8VVT4X4SeeJvwf3sxkScOxSUozoGOxR0lhw_zqfQs12-JXFiAl5u0QKfyMAJu0DmfLkUiGQmezB9Qu_sViJ81a2aX1_MOG8t1iRK_V2z124-SyoyCvyZMReiPqucTbLvDJFKhnc=?c=naver.search.pc.plsearch&t=0
+                          - generic [ref=e186]:
+                            - strong [ref=e187]: 14,890
+                            - text: 원
+                        - link [ref=e188] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/aRZuN3rwcOMuRfqr8YvM-4DFY10z7sn7MtkBwH6kFJsu4cUpyze1od7SWByGNNEekQ_nlyCAkhRaK99z-LayxObZjsBstVRLPdC7kE4MYuxK25UMj0tMQDQ9iwRm2Nj8ohAiCJxHBYk3rkt2yVYJIYgPyNk5yKvkUA7V-amjPQWYWDXO3-D5X30XrkB4K__Bs4Vk1B6w8-YbFUmNnPqvCtyvQ1-_xEui9LddF8zZOBFSL_i4GgSJm5wx-NJZNwNHFDA7WI8s1SHqsCfaoT7YEzS1cthQElaTwz7-ySAbK_krLUV0UCg1Jk5t4WJquzOwoEuv76k4cmNRh6tYGNXpbmMFTeSZ3Hj2BpMRzQAex8Nb2RitpplBIa2jBY9pjVrlGp_B39D6S3tFbfgzkgIqCAZyi84wEQREYZmeoltErblAj7TjvEgDdDlJFFw2NwszDgeIiWrXO3qOi5fm7XGNvMS8rjVx9udi7RlQxym1oH1XdflnFFaxHlcrkkCPaPD1HQn8Qvt7rOlB8LKXr2PKYDF7R9nrak5L6DJPi-t-lnNLNT11xhWOXASokwfXSjcLRD67gwmoQ0yBhnd249f1xw==?c=naver.search.pc.plsearch&t=0
+                          - generic [ref=e191]:
+                            - strong [ref=e192]: 14,130
+                            - text: 원
+                        - link [ref=e193] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/MKqkPUsQ5nfaBxi5GEZ90I2-aAZKYZr5WT7XODxu337SIWNRKHRLHX0UoiwOXY9iRzvic_VtmX-BR6PaYQSYuEGa3LPYoPXbB4DKUyNwRFYsKj4OMcUMBIPVZ584Pei45IWMdhWv6AccSP1H9EEc0l0tXD8GNTvRSWC_1FARgXGi93bs3inb33RPYzqd0fuKSLit_3sgCv0sZ2vO2lbSwTCEUxSeE34RV1dnAC3-Bn7UbKVFtLrxjbdHHI4EquqfO-bbqgnxsmbZaY6UqfRZBLsMYA0_AyeCSZBNnMu-6Fb5JCFtDoghrLZNjqlnDqsJpN30kDvI2S5sfpAWENK85n2wyBeo3CHSZN8ZfDwgsVkXhP75wSGIppDYBUKJlqGmEwBSlRIRVGn6dH8GPYwOYyVNeuDeql4RlTIfXt89_l-uAGFEnST7MnEE_jreE-6MVTj3LIoIAu2abZLh3GTGJZovj-4K_On0-d9foHCEtuTTHGViTCvvHH26Th-K8yY42ANrHuGagF6jgnFA3iMUfhWIdEhK39Fb8E5LH7oitoiKNVlS-ZPt1EqLrFeWdwPOS0tjtvPchnnI1bg4G72vHA==?c=naver.search.pc.plsearch&t=0
+                          - generic [ref=e196]:
+                            - strong [ref=e197]: 14,130
+                            - text: 원
+                        - link [ref=e198] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/S1lbtkG89_uk6oz4vWrB0Uc043U0-CbRa8TWOzgHAhIr3RpMaG0I6RVsRsCXK77cw1QbP-u9e0m5RdX7hQ23GV5kwMzqR_Usqhnd9s0nslZM4Xfoss0f9QXfnDlSqeEp_mHPy1K-fYU2UP9bhz-knBWmY-BgTXOtt87PceyC27sKzvgqb8UyX_vZZ-lVrfErX4DDQw-VYdyuPYVa2wpwPr6CNuphg4ZbbEUna1l5SujkPlZoLKAJcXohJx1LwN2mB0YbqOv6NGkpLGdJZeBiOrtJBwVYypRUcQTRud1_U12nNvsOKUo_n71z0pHaLU45alBE13KenhsQ0IenYVYvrDK16NTYi2rebseLlqfJS_nBzE3nSY2bwggMSmNpaEQ_Ui-7ExflQBat7CHseAGcLMAUAE4pcTOKqCpxDrWAO3E4qsAZE3uGqI0VJjl8GnfG3rhjggzk_ZWTqNGHP-4Zj-wnJ-x2PLQQ2hJHNkwIFTBgZbBzjJhU826_nT5NYtzspUvfIf_ZMYXB-fFkehfswke06TxI8nQfZBNC_K6w8Hlfca9o06grWiLOVzY6ToYGjjFObOrbbPzatlqOld_bqQ==?c=naver.search.pc.plsearch&t=0
+                          - generic [ref=e201]:
+                            - strong [ref=e202]: 16,900
+                            - text: 원
+                        - link [ref=e203] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/aHlT3nzUs_slvYtPaGGGnKKrUM1RfC7ZYKxhCnZtScPokLumifSBPbJb4ToXP5w_sJqZ1BWz8De2hkVEFeWRMS6yNHsSzMkhsxXUyeCfjpe6X7YjGDLZwcv4kG6p77CEnHGW9HV0d42U_l2W1kQNQGiUGXtOKB2_39ztcilgOvAolH7N4lmi5eqR1vzTUGeAQ_NTUz_JKH2phZiquTu9pXrD4s0x2QNwQMzputYug8I83B0vHWAnDbeG22ADWMSzlj6QSGxkA0GjS0TUNDu5ayKrv7sptqeQiZNitlo-PUdY5-s2anO2GtjFopCYBb8cVSLei8uRoodq78cAkpn20M-g2k3gP4N5NtQ5r88HuKXR7wTsWQ0PMbk7y3zvu-SjzYvNl6JLEF4Kq5SdfHzkuPHbvhDoW08QXGCfu7TOaosveSJxWMrcoD7u7g_DC3AQMwJSz1LtAZgL6y8Cs0nOkQuLxjwSj6TvFBi08UvAkB0_IivPlV6moc6NUFo_JGKajjLmEhKGfGpok4ysmm8XY3RrFDluQrGNvBenA8PIII7_7NEhT7F67k-_oWi8rNnv2kUzGF5HaZE3N9Pej00GOg==?c=naver.search.pc.plsearch&t=0
+                          - generic [ref=e206]:
+                            - strong [ref=e207]: 20,400
+                            - text: 원
+                      - button "다음으로 이동" [ref=e208] [cursor=pointer]
+                    - link [ref=e212] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/2rARLwguviSvE3bU9Fu4cAQH2lU0nhIJ4o96-m6xQV8lDYsDJrBpE6_W9HiQHKRqaEm-T4eGCg8gC9hsa1Qc8mswFqRCYQNlwef1R9HeKBaewwukgOnMscquESJUUhQxYjjb-oBY0KlYrAHEzbf5zSfu1tQ1QrJ23VuSN-CFqZm7DrYVhrS6ZTRLHvRAlHGIVDv9vD6_9wbLytnE7NkDZeRulWpZgwNLiGyh4zxqZbx-jOeL_FHaTbmeuqvTQNETUHnCtydwA1uxX2ttyOoUspayI44nL8oAfhq6lra6te7X7bO1yWL0M1t5mZYl9XQ6_yOed14RR5bNGbCnDc6nkzLsY94GysUtAe1Geks6rPnyzoJda6AkuE-C-W-XHx2FiV0EwY6eJ8WSQ8NAELc3JJI_uTNZUnTY6uqv8zbW9wCQeVL_LpjNFBHfPPFyiZuv2E4XO9zd8zIvw5-mFNom1jdWa2Ep9aLTjFeJRELSjzw8VoA15eK3-FZnXmCcRrFJoy6YXPOHhaQofURNvJqIuA==?c=naver.search.pc.plsearch&t=0
+                      - text: 다양한 달항아리
+                      - strong [ref=e213]: 바람떡
+                      - text: 모양으로 홈베이킹의 즐거움을 더하세요. 쿠키는 물론, 야채 도시락 꾸미기도 쿠키커터 하나로!
+                    - list [ref=e214]:
+                      - listitem [ref=e215]:
+                        - link "와우회원혜택" [ref=e216] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/XzskGVyIlGHjJudwHKtaiLTxmerGyWDM_vTJ2ezLdWZ6LIHVruEYVTopmHdjWPdmuRjBOhIKKitJCxn5O4cRo-WDrDcaRgc4uRishXMi4kt2KDJdlILiC2BsgY43b6M_1dVansbLXUCU9PLVDdP82uom4GJpnAgf0fwv1s_zgLJ_B7yr6v0FM-teon4aI1Ce9gfK_mYifSNCxXyoT_fUNWepIAKb0-bBQzoVlUvXzFyR8zerr3R4U3CPfyCBOt6bud9XGoIqHmu5_sGdbzXLrJ9ZIPFN7qU1HSvMzAkhQheet6wEx8mLAyJuyo92cqnWmJtsDNSA8PgNcKzPDdLPiLDtmCfIJWddonU5y65mj7sOuo5zYhtpasC3F61tcmVfHXQHtRNcfC71QzxGoZoWvVJQXT2Y7aC3i6D2e6tf_oO719pK6cs4RTx2WQVk_WFVTpTE4CQEKMdVLeAWouZgocL4poVyzSmXDs3pwuoO2KKeaHGRbMjoUvSD4RLPGGpT2RCg5ExXC7szYs2kVHB-8PasJ73uhmobCs3DfUMS-Hs=?c=naver.search.pc.plsearch&t=0
+                      - listitem [ref=e217]:
+                        - link "첫구매할인" [ref=e218] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/dQnFeIr8H7G9s1Gk2JdItUwLJvj_PXZGNkl5aUYMZy8EzjHURr4w2jFjz9_P-2G_V4uMolmW_-BPDG_H4ZuoMabEdsPRU5SAdUpTdaTPluDg8vyRXjk-iIZ5FMrLzmEizy4ErNzaANkHlxDRSX5cjWWmSe0m5tiNReEZLe8tsDSrVyOsgWM_WIkp1L2lbwIdM-N8_Gr5vM9YpMpVyqpdLPViyUe2tqIuihrI7nV1wT6ytvi8qXmB6uWOlRIEGLZYFVBrCg1cCjsIraah0RD-hPcQbykKIyYTZfw-HE6lLIRpkmljNBy3aptzSqulFfbwgZJziRHGi15Il9-BgRQnszye_mGCR3rW-dahYDAJYz7EOrwSqYYF5oLhnGHzYbmSM4-pXI0EwGgVQtICJ84iKoY-jCBSEk50YbTOOaOeIfTujNnHiVsriUPb434z6MoXS5Aj0r9uTNahxR0N-4UtamSbIF45OSoMeIxb9ID3VWJnd0O8iBMOKF0-o8WHFePKAGxyJnsEjHjZ5TCnzGX9a1lBqZl8eVqyXneVMR7YVsU=?c=naver.search.pc.plsearch&t=0
+                      - listitem [ref=e219]:
+                        - link "로켓배송" [ref=e220] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/ZkQWSdwfbXVTyidroYAe2WSu47XzmjZ_0an03wE4D5yac0C55XkTUUFUZr3c0R9X86nD5GNPQI8EGRXUMnGZZ9RZwJ_wcyPPRWDmTZiopA0_V9FYTmm1z_3Nx-ybnzH6h7FqKfthjMF9MmkNR5ZAldGhVvRx76IG5E1m4WUhgyglCw5OuBQwJKri51oSgEhuQVTG_6GPHgN269UpmXIx_Vz_c1e44cBU3RDgaiINADZ81aSBuHk2EXXJIHT2mUSw36C_-lzem2hE2KfpMp4QhQTSQMalAlQRzr4O4L-OQuxoaF0FjRkjcOhrepYXWQluP91OkR5sTr6h6AurP_Cx-p5PP-oq63ZMembwl8mm5Ow1dh9yF7he24xhZBCVJauJ3ZeXPmgvi87le9l4sGT8C3TUDwt_cklOWYoRxrHjajATMKaA1e1G7Bz7bHEZooVglp88E7GJ9QpnuyjMtnZAQA2fVBJLFHcmUyM96PmyEyyHx8i51ShES9ecpRVkWXLizlhYHdeRN0zc1BS6zm94PA==?c=naver.search.pc.plsearch&t=0
+                      - listitem [ref=e221]:
+                        - link "로켓프레시" [ref=e222] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/NwuvkBBMHO5sNfaFkXqAzq67SSpSTfZjBpZPnoP7UVQuSlr3Q2VWp-lfQZD6TXtVQ0OEfpT_od-ZaufCHcGw40EdXNjAF61NeFtoYi2lI0eQgbumNmfI4LZVP-WHqdWd3voigBYWWfTkMSfxGJU0-4B02tqf0kUTlhVBxbCjb5A9XHeUXr5wsL9kCxSaaM6g6OznVv3ctlMXJtFz0dpgEyU3m8CfVt-GIPIJLjq4Y9Kn0CQO6S-5mlQhsLseAvKMDdoj0kzqjUUjhzZeRYoLCfBOuo756AiRUhAW_rbcw4-b5Nkwe66coVRfJykxqoiI1O2HS_ZwBh9CbaURWZj8I8wCZZzuH5Ize0RQNSK4-4nSHoZr6YZDn2Dxwd_gdqvXpuT9VxAVFqEFyOEN8pNf6_3sxNLbNAmg3ZMeJyGrmB-bB9OLw-lt3-J9mgZZ06QdngrN5xypz2mtJ9GMpXqSIK8haJrIw0on1QJaf8qAGf-vpPBo-su99ogv1lVZBxsyuwPKsW_xhZtVHzWGKZw9H8Oivu63HmtR5aP4UfwxYqM=?c=naver.search.pc.plsearch&t=0
+                - listitem [ref=e223]:
+                  - generic [ref=e224]:
+                    - generic [ref=e225]:
+                      - generic [ref=e226]:
+                        - link [ref=e227] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/ohsvoxdvHfSnf-BNU8Ag-q2nEdnXiUNW_RoPZvjJ7VhojwFatGVLGzZ4ESY4eyjaiYDi5eqK3kpg0MW3n7y2s_ldtNbAn-W14NUC8WXM-DSezuaU265neBQRN7SZocR9TUbF7TjHSorRqvja252HqYodIUQ42kBB3j0lIY6Rb_SHY9uHcEO0FSlOqorSViYC1qqQxf6LgRVc7sppWPVdi9J8QWhYfRS7Ad9pQ5VewOYDL-Astgl1hlxb1T_ooz8mmv5aWwEnA-kFe-LN3D4Axg9tcSXf1e7ozTNcsc5xia4=?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e228]
+                        - img "광고" [ref=e229]
+                        - link "드리다떡집" [ref=e233] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/ohsvoxdvHfSnf-BNU8Ag-q2nEdnXiUNW_RoPZvjJ7VhojwFatGVLGzZ4ESY4eyjaiYDi5eqK3kpg0MW3n7y2s_ldtNbAn-W14NUC8WXM-DSezuaU265neBQRN7SZocR9TUbF7TjHSorRqvja252HqYodIUQ42kBB3j0lIY6Rb_SHY9uHcEO0FSlOqorSViYC1qqQxf6LgRVc7sppWPVdi9J8QWhYfRS7Ad9pQ5VewOYDL-Astgl1hlxb1T_ooz8mmv5aWwEnA-kFe-LN3D4Axg9tcSXf1e7ozTNcsc5xia4=?c=naver.search.pc.plsearch&t=0
+                        - link "drida6628.co.kr/" [ref=e235] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/ohsvoxdvHfSnf-BNU8Ag-q2nEdnXiUNW_RoPZvjJ7VhojwFatGVLGzZ4ESY4eyjaiYDi5eqK3kpg0MW3n7y2s_ldtNbAn-W14NUC8WXM-DSezuaU265neBQRN7SZocR9TUbF7TjHSorRqvja252HqYodIUQ42kBB3j0lIY6Rb_SHY9uHcEO0FSlOqorSViYC1qqQxf6LgRVc7sppWPVdi9J8QWhYfRS7Ad9pQ5VewOYDL-Astgl1hlxb1T_ooz8mmv5aWwEnA-kFe-LN3D4Axg9tcSXf1e7ozTNcsc5xia4=?c=naver.search.pc.plsearch&t=0
+                      - link [ref=e236] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/ohsvoxdvHfSnf-BNU8Ag-q2nEdnXiUNW_RoPZvjJ7VhojwFatGVLGzZ4ESY4eyjaiYDi5eqK3kpg0MW3n7y2s_ldtNbAn-W14NUC8WXM-DSezuaU265neBQRN7SZocR9TUbF7TjHSorRqvja252HqYodIUQ42kBB3j0lIY6Rb_SHY9uHcEO0FSlOqorSViYC1qqQxf6LgRVc7sppWPVdi9J8QWhYfRS7Ad9pQ5VewOYDL-Astgl1hlxb1T_ooz8mmv5aWwEnA-kFe-LN3D4Axg9tcSXf1e7ozTNcsc5xia4=?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e237]:
+                          - text: 드리다
+                          - strong [ref=e238]: 떡
+                          - text: 집
+                    - link [ref=e241] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/ohsvoxdvHfSnf-BNU8Ag-q2nEdnXiUNW_RoPZvjJ7VhojwFatGVLGzZ4ESY4eyjaiYDi5eqK3kpg0MW3n7y2s_ldtNbAn-W14NUC8WXM-DSezuaU265neBQRN7SZocR9TUbF7TjHSorRqvja252HqYodIUQ42kBB3j0lIY6Rb_SHY9uHcEO0FSlOqorSViYC1qqQxf6LgRVc7sppWPVdi9J8QWhYfRS7Ad9pQ5VewOYDL-Astgl1hlxb1T_ooz8mmv5aWwEnA-kFe-LN3D4Axg9tcSXf1e7ozTNcsc5xia4=?c=naver.search.pc.plsearch&t=0
+                      - text: 무지개
+                      - strong [ref=e242]: 바람떡
+                      - text: 으로 감사한 마음을 전해보세요 천연가루로 만들어 건강하고 예쁜
+                      - strong [ref=e243]: 떡
+                      - text: 입니다.
+                  - generic [ref=e244]:
+                    - link "광고 무지개바람떡" [ref=e245] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/ohsvoxdvHfSnf-BNU8Ag-q2nEdnXiUNW_RoPZvjJ7ViI4uYfVm2HrHYoAcYf1XzECpksSha4UTlMaaA_y3y4up5Ce8rr0_moQBiSGXQGY5VuTq8mr6k_kpiHbCBgG9oIly4dwf7m_p2haEhbxMGf8APj_JBNY8BUN8WxtvN2zOw5WEujerJZ1S3sizVKM4KKEUkzj_rCHpddYgEU32Zgowgfy8iHYKJkRctA9RNsonFBNWzJ3UejYmNSQgvMfJGI2rhjmuQVlQI4Z-69GZNIAB8uQQoF0EepPkWmjLmew32EOQEkiU42RUx99RReRV0I4HkMmvIuIZIgWmEEWguUBs-w692ukSxMC8PSWunc6vQERA2fpeDa0qYmjIYz0vIW?c=naver.search.pc.plsearch&t=0
+                      - img "광고" [ref=e247]
+                      - generic [ref=e248]: 무지개바람떡
+                    - link "광고 무지개꿀떡" [ref=e249] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/ohsvoxdvHfSnf-BNU8Ag-q2nEdnXiUNW_RoPZvjJ7VgDbErkLL_bYiJ_co1sB2oPHecsXiuZIGOc9Nzg-hz-WJ5tC3i0WvTBAV3a9sBY2KO9ljC19_aUciXfHVgvzfQzDs2Xr7pj1wMiKI8ZsMHnvYotmn9hGcVh0RF1KEHurpApmfJX1XETV415TNpNKVZ_pNzwu6ithI0CKz0nwKu1c5bk6SoYWoC3_ta3HLrD-TIaKezpDHfYlpwsfF3b9zuqNT0jHMITfSmi5N2UqnbTFN4LoTn4DaaoH0yiH9-fXYmM-XGyvwRPRpaqJ4Q5_Ny0gTEAAQ0hBd5w5vyIEcJxhBi5TteXJ1HD9kjej-EhnwJRVgskmCqStXsEEXvocofH?c=naver.search.pc.plsearch&t=0
+                      - img "광고" [ref=e251]
+                      - generic [ref=e252]: 무지개꿀떡
+                    - link "광고 반반" [ref=e253] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/ohsvoxdvHfSnf-BNU8Ag-q2nEdnXiUNW_RoPZvjJ7VjCnutDpBvK-rK_E5tD8_DHQQUO1dKkBLdXWPnDXL8bvqQOyjBEVRZg7hZYMC3FSTnP1L6hewwzUKDc3YX9iQyAbOFb4geBkuZNi8OA6D9ds7G-_I5VuKsSdDFt_jRaevRFi-TNiOo_NbP5AmEQIJJqCIPAlJ-GiaOid9Oip3QjxOiGtBcBR6-KlYqTjGhp7AnWkGicIuisaXEYC4JQKZmOsSoO4iGGcWakEuY9GTEYruM_uEtlmWTHTd90uSMZ80dnZ4jWNZo7ihC1jf46SBz-GD6mUR6ii_5IurqoT5aoyAHgFmiNXBoFTotaqAlRHl8=?c=naver.search.pc.plsearch&t=0
+                      - img "광고" [ref=e255]
+                      - generic [ref=e256]: 반반
+                - listitem [ref=e257]:
+                  - link [ref=e258] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/0YKci_c5MmNJHu4i2PAlz5z6nP0w99i2Zzlk-nyemUb2giu6cUkMZPVMibw3RwE_ejy9wj-GVbCxjFh0NyOG0OoEchC7pDJkgZtgntvrF2mbuLtmxY3MWjxnn-8UQmN8Gk4LWEkdMrix-OTWvZCB5a7By8ZrhP9PXk9TBlE7mrrPchDHIfOlbOca7bS0F93A4cMESTBBE1ILBZdkLIjak40Q9lmf3YZJrWTW6UcvPEwWDFXdGlhbyQXxqJvQm4QCzilxEdOPJS_DSfjcsM27ta1SOOvXQzITqkvWXdF9oT4iob2NO4nFZCPDRcAVgSBVcV9jpr8GZgFFeGFeClU5vfrfC72m0cyCvpGnM7r-AOivAuZXvniqGObHqm9QTFL6qbfWQSOFQkEGpF_OPuM_-q_4DyBIYVluMUU_QQ1K389zCVur8WEns-s4yhrhTN5mEEZop45OmZpKFNi_NPA6322r6YlGIBRDTiy9oVjHo3OplsQPJ0TL9sjYWqJOBoSz?c=naver.search.pc.plsearch&t=0
+                    - img "링크이미지" [ref=e259]
+                  - generic [ref=e260]:
+                    - generic [ref=e261]:
+                      - generic [ref=e262]:
+                        - link [ref=e263] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/rH8Ya28v7uU-LmnMaCiB8NjKbk80IpoukYTIAaygeUObSRf3vfizFTAHZNunSdXBnEYKw1mDfgd2NV_CQ4pjOi8y9tlKYOcNxmMKJO0hgvrk5QaBV9WVdPFEoUa1wJ9UjZm29w6QxmOETrKrGTwJkK_PJNHfMnpdRkazv9RmK0vWRGLFct9hAcsCyG-WMRQDB9RFy8Focb-1WjqN2NJRi5lLJWEqfWRD3WcWZ2Czo8qW5zmaxBiQTvb55NndSeuMgahJa-JYpHP5SqjrngfmNN1dvBLi9YhI5313RxfQ3aY4JgB3DQtwhNt9Fkh96_lDi3JXxBWWhPMbp1F9SF3zjm1VH_pRYc5ML7ZHRU0E8JVrHA96sGW_IsEerFL-1PPReDhQ22uStj6kJXeMcKZsHEupHU-tqBZn9IEJB6YSYjN0G-LHSUyYFaDsqqwDjYjzxDAz9ixSSD9SdtZkCD0VLrsxpYmZSM4m9fiT9bE7SEQ=?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e264]
+                        - img "광고" [ref=e265]
+                        - button "네이버페이" [ref=e271]
+                        - link "은영이떡볶이" [ref=e273] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/rH8Ya28v7uU-LmnMaCiB8NjKbk80IpoukYTIAaygeUObSRf3vfizFTAHZNunSdXBnEYKw1mDfgd2NV_CQ4pjOi8y9tlKYOcNxmMKJO0hgvrk5QaBV9WVdPFEoUa1wJ9UjZm29w6QxmOETrKrGTwJkK_PJNHfMnpdRkazv9RmK0vWRGLFct9hAcsCyG-WMRQDB9RFy8Focb-1WjqN2NJRi5lLJWEqfWRD3WcWZ2Czo8qW5zmaxBiQTvb55NndSeuMgahJa-JYpHP5SqjrngfmNN1dvBLi9YhI5313RxfQ3aY4JgB3DQtwhNt9Fkh96_lDi3JXxBWWhPMbp1F9SF3zjm1VH_pRYc5ML7ZHRU0E8JVrHA96sGW_IsEerFL-1PPReDhQ22uStj6kJXeMcKZsHEupHU-tqBZn9IEJB6YSYjN0G-LHSUyYFaDsqqwDjYjzxDAz9ixSSD9SdtZkCD0VLrsxpYmZSM4m9fiT9bE7SEQ=?c=naver.search.pc.plsearch&t=0
+                        - link "brand.naver.com/s2" [ref=e275] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/rH8Ya28v7uU-LmnMaCiB8NjKbk80IpoukYTIAaygeUObSRf3vfizFTAHZNunSdXBnEYKw1mDfgd2NV_CQ4pjOi8y9tlKYOcNxmMKJO0hgvrk5QaBV9WVdPFEoUa1wJ9UjZm29w6QxmOETrKrGTwJkK_PJNHfMnpdRkazv9RmK0vWRGLFct9hAcsCyG-WMRQDB9RFy8Focb-1WjqN2NJRi5lLJWEqfWRD3WcWZ2Czo8qW5zmaxBiQTvb55NndSeuMgahJa-JYpHP5SqjrngfmNN1dvBLi9YhI5313RxfQ3aY4JgB3DQtwhNt9Fkh96_lDi3JXxBWWhPMbp1F9SF3zjm1VH_pRYc5ML7ZHRU0E8JVrHA96sGW_IsEerFL-1PPReDhQ22uStj6kJXeMcKZsHEupHU-tqBZn9IEJB6YSYjN0G-LHSUyYFaDsqqwDjYjzxDAz9ixSSD9SdtZkCD0VLrsxpYmZSM4m9fiT9bE7SEQ=?c=naver.search.pc.plsearch&t=0
+                      - link [ref=e276] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/rH8Ya28v7uU-LmnMaCiB8NjKbk80IpoukYTIAaygeUObSRf3vfizFTAHZNunSdXBnEYKw1mDfgd2NV_CQ4pjOi8y9tlKYOcNxmMKJO0hgvrk5QaBV9WVdPFEoUa1wJ9UjZm29w6QxmOETrKrGTwJkK_PJNHfMnpdRkazv9RmK0vWRGLFct9hAcsCyG-WMRQDB9RFy8Focb-1WjqN2NJRi5lLJWEqfWRD3WcWZ2Czo8qW5zmaxBiQTvb55NndSeuMgahJa-JYpHP5SqjrngfmNN1dvBLi9YhI5313RxfQ3aY4JgB3DQtwhNt9Fkh96_lDi3JXxBWWhPMbp1F9SF3zjm1VH_pRYc5ML7ZHRU0E8JVrHA96sGW_IsEerFL-1PPReDhQ22uStj6kJXeMcKZsHEupHU-tqBZn9IEJB6YSYjN0G-LHSUyYFaDsqqwDjYjzxDAz9ixSSD9SdtZkCD0VLrsxpYmZSM4m9fiT9bE7SEQ=?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e277]:
+                          - text: 생밀
+                          - strong [ref=e278]: 떡
+                          - text: 쫀득함, 은영이
+                          - strong [ref=e279]: 떡
+                          - text: 볶이
+                        - text: 입안 가득 퍼지는 매콤함
+                    - link [ref=e282] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/rH8Ya28v7uU-LmnMaCiB8NjKbk80IpoukYTIAaygeUObSRf3vfizFTAHZNunSdXBnEYKw1mDfgd2NV_CQ4pjOi8y9tlKYOcNxmMKJO0hgvrk5QaBV9WVdPFEoUa1wJ9UjZm29w6QxmOETrKrGTwJkK_PJNHfMnpdRkazv9RmK0vWRGLFct9hAcsCyG-WMRQDB9RFy8Focb-1WjqN2NJRi5lLJWEqfWRD3WcWZ2Czo8qW5zmaxBiQTvb55NndSeuMgahJa-JYpHP5SqjrngfmNN1dvBLi9YhI5313RxfQ3aY4JgB3DQtwhNt9Fkh96_lDi3JXxBWWhPMbp1F9SF3zjm1VH_pRYc5ML7ZHRU0E8JVrHA96sGW_IsEerFL-1PPReDhQ22uStj6kJXeMcKZsHEupHU-tqBZn9IEJB6YSYjN0G-LHSUyYFaDsqqwDjYjzxDAz9ixSSD9SdtZkCD0VLrsxpYmZSM4m9fiT9bE7SEQ=?c=naver.search.pc.plsearch&t=0
+                      - text: 매일 먹고 싶은 그 맛, 생밀
+                      - strong [ref=e283]: 떡
+                      - text: 사용 온 가족이 즐기는 행복한 한 끼, 생밀
+                      - strong [ref=e284]: 떡
+                      - text: 의 쫀득함은 따라올 수 없다
+                    - link "사은품 5개 이상 구매시 쫄면증정 더보기" [ref=e285] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/XRaFIJ0fRAkjjZpYK4u5ocqpnSvsQLTtL_Bd_TqCC9-bqNLmj0olnn4-OC4qbFtWww7qcHJRP5aHfzMvshl2wfrl9lySU_ZFzre91s2O39cOvD_f5yKQorg9bXGl4qEoGF0ARocmqmwQnvE-kkAlgtewz4sbcQHlN-FQsL8AfdtG0nWk1KEshSmZUgv-_urSSql9_cMBzQKJS8n9yQEsuR2YWGTnGesYmNovRluAGxc4aJQmCfRKkLmI9HRjcxRxqhFbFl1-G06SpCYxVjRvpvGE8q8PKhPK6oz7_nBVR8XWu4Ts2b40fccChtE3ge4egJZrKnrBUysbKC9nRRS4qa7UzjVBuUajMBJEGag0pIGbBk-L2hLtJrrLjP_a-CFrRGLx8b3-xoMh0cM1eMdpiwK9NS_bTqm1O_Hi5XVekUHTUc13pDGw6Fq7uswK0G_3p_i24dca62Il61A0rA5kn3U0xPNKJVtrb20OHKKYOuOLhHmGaQrZyaFsPB1-D-wX?c=naver.search.pc.plsearch&t=0
+                      - generic [ref=e294]: 사은품
+                      - generic [ref=e295]: 5개 이상 구매시 쫄면증정
+                      - img "더보기" [ref=e296]
+              - link "더보기" [ref=e300] [cursor=pointer]:
+                - /url: https://ad.search.naver.com/search.naver?where=ad&query=%EB%B0%94%EB%9E%8C%EB%96%A1%EC%A1%B0%EB%A6%AC%EB%B2%95&referenceId=jWbu5wqXKZJZq29DSnK-319896&buckets=impression-neo-SA_SERVING-1119%5E5
+          - generic [ref=e305]:
+            - generic [ref=e308]:
+              - heading "레시피 주제 네이버 메이트" [level=2] [ref=e310]
+              - button "정보 확인 도움말" [ref=e317] [cursor=pointer]
+            - generic [ref=e322]:
+              - generic [ref=e323]:
+                - link "프로필 이미지 떡을사랑하는사람들 [떡사사,떡재료,떡만들기,전통떡,떡집창업] 카페 63만 인용 설기, 송편, 모찌 등 다양한 떡 제조 과정에서의 기술적 문제 해결과 노하우를 공유하는 전문 질의응답 공간 새 창 열림" [ref=e324] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/dduck05
+                  - generic [ref=e325]:
+                    - img "프로필 이미지" [ref=e327]
+                    - generic [ref=e328]:
+                      - generic [ref=e329]:
+                        - generic [ref=e330]: 떡을사랑하는사람들 [떡사사,떡재료,떡만들기,전통떡,떡집창업]
+                        - generic [ref=e335]:
+                          - generic [ref=e336]: 카페
+                          - generic [ref=e338]: 63만 인용
+                      - generic [ref=e343]: 설기, 송편, 모찌 등 다양한 떡 제조 과정에서의 기술적 문제 해결과 노하우를 공유하는 전문 질의응답 공간
+                  - generic [ref=e344]: 새 창 열림
+                - link "프로필 이미지 꼬마츄츄 블로그 2,536만 인용 다양한 요리 레시피와 간단한 가정 요리, 제품 리뷰를 공유하는 블로그입니다. 새 창 열림" [ref=e345] [cursor=pointer]:
+                  - /url: https://blog.naver.com/baby0817
+                  - generic [ref=e346]:
+                    - img "프로필 이미지" [ref=e348]
+                    - generic [ref=e349]:
+                      - generic [ref=e350]:
+                        - generic [ref=e351]: 꼬마츄츄
+                        - generic [ref=e353]:
+                          - generic [ref=e354]: 블로그
+                          - generic [ref=e356]: 2,536만 인용
+                      - generic [ref=e361]: 다양한 요리 레시피와 간단한 가정 요리, 제품 리뷰를 공유하는 블로그입니다.
+                  - generic [ref=e362]: 새 창 열림
+                - link "프로필 이미지 요리조리너구리 블로그 209만 인용 요리조리너구리의 편식토랑은 간단집밥, 한식, 홈파티, 홈브런치, 간식, 술안주, 음료 등 다양한 요리 정보를 제공하는 블로그입니다. 새 창 열림" [ref=e363] [cursor=pointer]:
+                  - /url: https://blog.naver.com/fantasticpanda
+                  - generic [ref=e364]:
+                    - img "프로필 이미지" [ref=e366]
+                    - generic [ref=e367]:
+                      - generic [ref=e368]:
+                        - generic [ref=e369]: 요리조리너구리
+                        - generic [ref=e371]:
+                          - generic [ref=e372]: 블로그
+                          - generic [ref=e374]: 209만 인용
+                      - generic [ref=e379]: 요리조리너구리의 편식토랑은 간단집밥, 한식, 홈파티, 홈브런치, 간식, 술안주, 음료 등 다양한 요리 정보를 제공하는 블로그입니다.
+                  - generic [ref=e380]: 새 창 열림
+                - link "프로필 이미지 레이 블로그 192만 인용 다양한 요리 레시피와 가정에서의 식사 경험을 공유하는 블로그입니다. 새 창 열림" [ref=e381] [cursor=pointer]:
+                  - /url: https://blog.naver.com/unmix
+                  - generic [ref=e382]:
+                    - img "프로필 이미지" [ref=e384]
+                    - generic [ref=e385]:
+                      - generic [ref=e386]:
+                        - generic [ref=e387]: 레이
+                        - generic [ref=e389]:
+                          - generic [ref=e390]: 블로그
+                          - generic [ref=e392]: 192만 인용
+                      - generic [ref=e397]: 다양한 요리 레시피와 가정에서의 식사 경험을 공유하는 블로그입니다.
+                  - generic [ref=e398]: 새 창 열림
+                - link "프로필 이미지 haru 블로그 706만 인용 다양한 요리 레시피와 간단한 요리법을 소개하는 블로그입니다. 새 창 열림" [ref=e399] [cursor=pointer]:
+                  - /url: https://blog.naver.com/handa2006
+                  - generic [ref=e400]:
+                    - img "프로필 이미지" [ref=e402]
+                    - generic [ref=e403]:
+                      - generic [ref=e404]:
+                        - generic [ref=e405]: haru
+                        - generic [ref=e407]:
+                          - generic [ref=e408]: 블로그
+                          - generic [ref=e410]: 706만 인용
+                      - generic [ref=e415]: 다양한 요리 레시피와 간단한 요리법을 소개하는 블로그입니다.
+                  - generic [ref=e416]: 새 창 열림
+                - link "프로필 이미지 MJ의후다닥레시피 블로그 3,489만 인용 다양한 요리 레시피와 조리법을 소개하는 블로그입니다. 새 창 열림" [ref=e417] [cursor=pointer]:
+                  - /url: https://blog.naver.com/mj_hudadak
+                  - generic [ref=e418]:
+                    - img "프로필 이미지" [ref=e420]
+                    - generic [ref=e421]:
+                      - generic [ref=e422]:
+                        - generic [ref=e423]: MJ의후다닥레시피
+                        - generic [ref=e425]:
+                          - generic [ref=e426]: 블로그
+                          - generic [ref=e428]: 3,489만 인용
+                      - generic [ref=e433]: 다양한 요리 레시피와 조리법을 소개하는 블로그입니다.
+                  - generic [ref=e434]: 새 창 열림
+                - link "프로필 이미지 토방마님 서향희 블로그 161만 인용 토방이네는 지금..먹고 사는 이야기는 다양한 요리 레시피와 일상생활 정보를 공유하는 블로그입니다. 새 창 열림" [ref=e435] [cursor=pointer]:
+                  - /url: https://blog.naver.com/torbangmalim
+                  - generic [ref=e436]:
+                    - img "프로필 이미지" [ref=e438]
+                    - generic [ref=e439]:
+                      - generic [ref=e440]:
+                        - generic [ref=e441]: 토방마님 서향희
+                        - generic [ref=e443]:
+                          - generic [ref=e444]: 블로그
+                          - generic [ref=e446]: 161만 인용
+                      - generic [ref=e451]: 토방이네는 지금..먹고 사는 이야기는 다양한 요리 레시피와 일상생활 정보를 공유하는 블로그입니다.
+                  - generic [ref=e452]: 새 창 열림
+                - link "프로필 이미지 오븐엔조이 - 365일 즐거운 홈베이킹 카페 678만 인용 베이킹 재료 선택부터 레시피 교정, 도구 사용법까지 홈베이킹의 모든 궁금증을 해결하는 소통 공간 새 창 열림" [ref=e453] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/delonghi
+                  - generic [ref=e454]:
+                    - img "프로필 이미지" [ref=e456]
+                    - generic [ref=e457]:
+                      - generic [ref=e458]:
+                        - generic [ref=e459]: 오븐엔조이 - 365일 즐거운 홈베이킹
+                        - generic [ref=e464]:
+                          - generic [ref=e465]: 카페
+                          - generic [ref=e467]: 678만 인용
+                      - generic [ref=e472]: 베이킹 재료 선택부터 레시피 교정, 도구 사용법까지 홈베이킹의 모든 궁금증을 해결하는 소통 공간
+                  - generic [ref=e473]: 새 창 열림
+                - link "프로필 이미지 레지나 블로그 734만 인용 레지나의 라라~쿠치나는 다양한 요리 레시피와 조리법을 소개하는 블로그입니다. 새 창 열림" [ref=e474] [cursor=pointer]:
+                  - /url: https://blog.naver.com/lalacucina
+                  - generic [ref=e475]:
+                    - img "프로필 이미지" [ref=e477]
+                    - generic [ref=e478]:
+                      - generic [ref=e479]:
+                        - generic [ref=e480]: 레지나
+                        - generic [ref=e482]:
+                          - generic [ref=e483]: 블로그
+                          - generic [ref=e485]: 734만 인용
+                      - generic [ref=e490]: 레지나의 라라~쿠치나는 다양한 요리 레시피와 조리법을 소개하는 블로그입니다.
+                  - generic [ref=e491]: 새 창 열림
+                - link "프로필 이미지 각설탕식구들 블로그 365만 인용 각설탕식구들 블로그는 다양한 요리 레시피와 간단한 조리법을 공유하는 블로그입니다. 새 창 열림" [ref=e492] [cursor=pointer]:
+                  - /url: https://blog.naver.com/sunwly
+                  - generic [ref=e493]:
+                    - img "프로필 이미지" [ref=e495]
+                    - generic [ref=e496]:
+                      - generic [ref=e497]:
+                        - generic [ref=e498]: 각설탕식구들
+                        - generic [ref=e500]:
+                          - generic [ref=e501]: 블로그
+                          - generic [ref=e503]: 365만 인용
+                      - generic [ref=e508]: 각설탕식구들 블로그는 다양한 요리 레시피와 간단한 조리법을 공유하는 블로그입니다.
+                  - generic [ref=e509]: 새 창 열림
+              - button "다음" [ref=e510] [cursor=pointer]
+            - link "네이버 메이트 창작자 더보기" [ref=e515] [cursor=pointer]:
+              - /url: "#lb_api=https%3A%2F%2Fs.search.naver.com%2Fp%2Finfluencer%2F47%2Fapi%2Fv2%2Fai-pick%3Fquery%3D%25EB%25B0%2594%25EB%259E%258C%25EB%2596%25A1%2B%25EC%25A1%25B0%25EB%25A6%25AC%25EB%25B2%2595%26query_analysis%3DKLUv%252FWCFG61lAOq%252BiCJDMGm4ObQeBgYG8SAqC3jVrbKfTpzXtvLSN0RqIuomav9s25bea6OlqMMYxmjxh3hFHdwGhhuTTFKmlDLbn8PFg4JCwV4ChALNAQ8PGuWphCaQqE2aSueiKB7sorC4TRYlY4oSclkflQpE5tG0TQQRbTgRc3UuCYuXTAO6REy0rGlDSVJWhcRoEq0qEzFMFKk4Uwe7Kk2FXRo1ZT4uzZRlsbOfhytiqi3iANKmmJE%252BI1AVcjJPJnvHTuNG83ww2t4UflhKPvjucw83YU5QwQUOGNChAAg6PFanq64tOCADBQjAYAAGOjCHtPVkf%252F%252FOCyOYoEODDCMjnahpl6ZxQFnEQFlWNUTUwa7MwwWLHEl5PJWVSRvPhGkmbPJwMJCUTZtoktXl0eJl2ng4k6WpInZlpKziXJdOKJOyKpow6KKkK2NVkhQpa7KqzGSkIsEDHSKIKIqIIgkekDDWhF0wUzQZ0UxazCZs44kmGjqaLOKAga5MihlnymhWjCYRhGkQEUVZ0STSQqLmiZR1UdEkykjygC5MI1lY1LTJI2HRahA%252FpA4WtWgyoszXRgNN0YThulKySsOiJyRGk3%252F91imc6lJhIkZxpoqqMpkrmow8z8ykJOcC8iREZMWIabC4xZBWYROn6lSpTRjp0iQPKJpQsfJk2cShpLhVWpVZMZNip9KkLIvWJotYJppwOCALItKsuEUJmzggTQaIKNMs7CNxJuzydKL2wSYOJ2oZFjWriiYjIxpGViGi6KmoiHG4NFGbKClqVSZlIhZNNIz8PyUhoohdVBZNIsx1ZSIOGSAiLas4ElV5Lk2aRFvESFp2YZnqEkFEsTNZEhYzUDSJEKCggwQPdJigAQwaNJBAhwIW6HDABB0iiCiERdAH9JEuESTiABFhKs6VSZmIQ%252F%252FZwA5TTLQIhRALY7GAeCoJKMRC90FHaCgDVCGCx18a1ndxwaA6NgVB6EgieHBYISIfETCzcYRCKqE%252BLkIpsqEDgTMyrI7nO1O4mKWRsLE4wPCxvKbCqmgsAwT6WD5kCoEWHhlBE1kJvNiwC6EM%252F1SQsPyimagoy8XzZB8xDjLfoKDoyCwWFwQKEgsVtExvbDARoE0jC5GQWER8ePAGEQuhD0uFxkLHuU2KOEQcOtWDy5kUCRMzz8SJ0SQpChE5rGSVDYVNUcMT44OKxqo2lDZN4EwYKGJk14dVcaTqowKJJlGIZV2UilZALk4mXkAfFY3yZDBvH1w%252BuM2NICIpahPGc1UZFknYhWExmkQAABCxhSQRJBJKQiUyhjl4m6XiqOiQTISEMDJso2Gx2TYVHwp%252FYWB2lwoUImBYnARD%252FYSIDUeIyMflQm0XHhu213weTLzhWTY0iwWFDo9EgojLQljHAQfDtpFReF5SISlU5AKR0DYKDcWRWIB8WCBYSMjb2DYo0uIdgEio8AsNixALlguzwL%252BZJPtyAUJhwyIJaWB8Z%252BPahEQujAsXtk5mwyBptYCkR%252Fg4Chsmwfj4BdJIaJGOysJmqUxk2scNenmYBMhGZ5s0kAvMPDiibnwECR2WCBER0K%252BlNSHemejAYKG4IJHxFIiDSszDoGnT%252BGB4fBUh0eGwCRKuymIBI4T5CoLFAXJRSUh0MiBAoNYzGnTxjQqPCh2Lti%252BCa1SAKpxL%252BEwbm8eEWIkgIqlfzKZLNNEQt2iSDBF1QJak4UGEJYNlQiPDJNKgceEgQ2TFj%252BVgTFgyAPBcAWCTRuntAft4qERs2mQVrJq0SkW3SpbBbC4RpEJV2XQJsPkT7st2yMzpr13%252BP2R1%252Fn5PW%252BF76Zz%252Buu3OYS%252F8fL4Pwt30XX1d%252BHbzabb789xc3naPNdNZNVWf5%252F6q%252FlNd6O%252F%252F%252Fe3J2b4P6oO7r2Hm8ntvK3%252Fm%252FmZnul1%252BdZlO3d%252FxOlZ16bzbwXSqrg8m%252F7p0CRe6ZNWXrS%252F%252FOb9%252FLx8%252F53wwoXPpzr3lfXX17XStnt6unWuo6rQ9nfO%252Bfp6akNn1O%252BZ8%252BVAZvnanudybq%252B79uXzfcBNCfqn9vPoP%252Btz5VR98%252Fqnu%252FS7zvd271sxOdatQ3THs5Hy6DtddOperu7wPbiuvP%252B7O%252Fd2n368z3T5P92C%252FfOc4uVX%252Fu59LmP7%252F6zwpOVnVXn715ne3z5k32dnBpeSkofs%252F9w9mP3RQ%252B3m61wvf%252B4e9m5R8mHCuez%252F992zdVEpOnPtXX9d85l6YlIzYBPpkFOTddY7dczbzu82H5wCgsHVgQBVgxG8ZiT1qQwJajA0bn7BswzrIp6Nje%252FABYUIy8eGxwRtENCym7YKjIuInYFyW5x9P0BaRGSUWIQkK3rh0XgTLxyVmvITqePDlwoQNZrPAkaHhExIuUHqxwCy1XZ4YH2pccLAbIhtax0axWTwf2lhQhEQ4Kkh8Nowj0eo3U7JBf2sCQG3oFG3wDFU1AZ6yDZz7VU2ApWwDhnA1AR5lG0B2F0FEGWbieDIpYleuPsB8cO2eru9BZXWs69nb7PQpJR36W4bQZecnu75Xtwzz2Z97qS%252Bfk5LO9T%252BHvJ7679rVU7XbKXy3uqv%252FCWF%252Bv%252Ftk5%252F667u2%252B43TX3P3yvda3%252Fq9farvOhvnaWx8er2u%252FTt7Hj9sf9Mxf7XxLyYcOnbsnzH3ux7%252Ba%252Fv3%252B7N6pg95OdbXVPXthvyaEv%252Br7mbv6%252Fl5Df8pwnf5zScls9k24q8vwpWcyfC%252BhOu7c19ewHUOl5MNr57jVf9U9Zd%252BGzwx%252F4eNPdejKEDrk91w%252FtfmhNTyo6dzrZwc1v6GyZ759%252Bf%252BWM7VhN0yHcFVffd%252Bxryts6Pu0n8Lmhq5fw2%252F%252F7U%252Fed89fpmfmP4WZ7vm2pst3CV3n7j5W9XyG7926hdms3gu1HbvP9%252B9OVcfv3FU5V%252FuV9ZWh5tPt9G1O15ou3zn3v27mdq%252Fd%252BSHDdfC9frj%252B3P9uv9cd%252B7eD7ZydU3dwIXTOmd8yJz%252Fo3ttnx88l93uXqu7cYSb8F4G7qOGgUgohZGZGRISkIElrUQQEQRiknNoNEkBFKUVyijkiMiIiIoFIIJKUJClJIcMBSKsaiKr2ZsYKnSOrg1nn9B5rvZCuBvo3vdXOOxXttkqmU%252FmIB%252FpCZTFqBuGBAioKj%252FJSo736QnO3uplAi3eftxGbsPdwTBANI1qkF2rvbF7jU8qLV1hZDBqnwb%252BQLQCB8H32o4Ri2rXKEc%252BA5zs2MN3rkT1kCmQ9ChPxFpZ2CAJ69yqIWpoQ1aAcsRd8aYFZgqL1IOLY0NqUWM6j0bH06tKKPyzRU5NUtLUXPeuxdtGAK68kU%252BOS94jzr5R%252Bh2ZcSoOlMLoPG%252BOzlpj%252BR2usoaEOENFo4w7yzhJldM4ylN7wyMVqS03mtQaNkepNTiGdFLPs9FEzFpw0Wi2zTSgZH5WQ9zi3oES347iHXtObx3eQClokPIFyayA7LJgZpII4LXYzSmr%252Bqlv30QieTDTu3gQD4gRIvV57kLqzcimMtxzaCSB5iGwvHJT1lMzmKAw6FPz1I24JrVKYMDrma4FZS%252F8U1agQV5WI9WkJaaelBrFbsQJBBjQEvuEGEuyR%252B9sq7zlSkqJwo%252FyDTkcP1L2Eljy4DexZ4KP67QaFSxqtmH8BZU49JculvcMr%252Fxqq0Bxf00JOK3mCT5LYUOtNUihFC4MHrHd02Kc%252FEjQkNUqH%252BDaK73oz8PMZWZxbD1K%252Fs1V38y2LOK%252B2GeMMXxahrvAFBgFBcUwMioMC0A6q9wqg%252B4XWJj6RSiPTgtRUHZY1FJUJTONv4CowIHNnk90tHvPz29iN0zjxKIp%252FF%252FLYWdl2Uno%252B%252BQzYhnpN7GohawHhwga83eBG3fjiUK6wdwR4yXrwqCdLtEvVmBUIJXXbqWlEfRClVJ%252B%252BXk94fMj3gMaogmtsTLWhl4N19DBU0e%252FwQNAnev6G6bMKLgaRYaxujCwTOHTfd0KuussclMXiAeLhxTnNjjdBm3kvx%252BGeTt8e13xGIsMprJmDsklMG62xRuynsRFqcm8bT4poVk1E8HXKH22RrXKWIb1r4guhiIwq7sSADFOsxvlD%252BQ23Bd0pN8Zi8u3bDEcCSjqkN6slmDHE6EvHSN1TzL7Gw1G9NxqiARgHH8TNWZR2wDYMYGoo0TYeAA5vmMsZchpfwScQHN%252F7qHm3tTkpdzxg5vwR7ImXij7LK7romnAmPH119Z1iFzcW6sfWBQrAx8%252FwEU4Vdz2GujenBoqm7S9goRAR6Btt6yMcjGNxoLFBIXBM3YtwEK%252Fgk0DJrLDKtgOV4%252BQo%252F4kBPNnFySTQDyhobROSUK27i9mglFI7kQ8M7%252Bg2Y1vx9%252FZVUolOZCERgHb2ItYmcQXDIqZUOWhm3WMhYu4GW%252FmOeDA8oE5thnlP2d63B9QNXmg%253D%26ssc%3Dtab.nmate.lit%26start%3D1%26where%3Dapi"
+              - generic [ref=e520]:
+                - generic [ref=e521]: 네이버 메이트 창작자
+                - generic [ref=e522]: 더보기
+          - generic [ref=e528]:
+            - generic [ref=e531]:
+              - heading "네이버 클립" [level=2] [ref=e532]
+              - button "정보 확인 도움말" [ref=e533] [cursor=pointer]
+            - generic [ref=e538]:
+              - generic [ref=e539]:
+                - generic [ref=e540]:
+                  - generic [ref=e542]:
+                    - link "클립 이미지 새 창 열림" [ref=e543] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%221%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=FD3D7B2234A585715B38BB16F34AC9175D92&serviceType=CLIP
+                      - img "클립 이미지" [ref=e545]
+                      - generic [ref=e547]: 새 창 열림
+                    - 'link "👇아래 제품명 누르세요👇추석엔 송편이죠~~ #추석음식#송편#바람떡 새 창 열림" [ref=e548] [cursor=pointer]':
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%221%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=FD3D7B2234A585715B38BB16F34AC9175D92&serviceType=CLIP
+                      - generic [ref=e550]:
+                        - text: "👇아래 제품명 누르세요👇추석엔 송편이죠~~ #추석음식#송편#"
+                        - mark [ref=e551]: 바람떡
+                      - generic [ref=e552]: 새 창 열림
+                  - link "프로필 이미지 tipmarket4949 3주 전 조회 77 새 창 열림" [ref=e553] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@tipmarket1234
+                    - generic [ref=e554]:
+                      - img "프로필 이미지" [ref=e556]
+                      - generic [ref=e557]:
+                        - generic [ref=e558]: tipmarket4949
+                        - generic [ref=e560]:
+                          - generic [ref=e561]: 3주 전
+                          - generic [ref=e563]: 조회 77
+                    - generic [ref=e564]: 새 창 열림
+                - generic [ref=e565]:
+                  - generic [ref=e567]:
+                    - link "클립 이미지 새 창 열림" [ref=e568] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?blogId=ilovecooking2&docNo=7063714&mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%222%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=EBFC8E7AB1DE362FE31356C6A3282113CD28&serviceType=MOMENT
+                      - img "클립 이미지" [ref=e570]
+                      - generic [ref=e572]: 새 창 열림
+                    - link "떡제조기능사실기 바람떡 만들기 새 창 열림" [ref=e573] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?blogId=ilovecooking2&docNo=7063714&mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%222%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=EBFC8E7AB1DE362FE31356C6A3282113CD28&serviceType=MOMENT
+                      - generic [ref=e575]:
+                        - text: 떡제조기능사실기
+                        - mark [ref=e576]: 바람떡
+                        - text: 만들기
+                      - generic [ref=e577]: 새 창 열림
+                  - link "프로필 이미지 아이러브쿠킹 25.01.02 조회 120 새 창 열림" [ref=e578] [cursor=pointer]:
+                    - /url: https://m.blog.naver.com/ilovecooking2
+                    - generic [ref=e579]:
+                      - img "프로필 이미지" [ref=e581]
+                      - generic [ref=e582]:
+                        - generic [ref=e583]: 아이러브쿠킹
+                        - generic [ref=e585]:
+                          - generic [ref=e586]: 25.01.02
+                          - generic [ref=e588]: 조회 120
+                    - generic [ref=e589]: 새 창 열림
+                - generic [ref=e590]:
+                  - generic [ref=e592]:
+                    - link "클립 이미지 새 창 열림" [ref=e593] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=0DF06F6C5A6B4621121DA6173005782BACE7&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22chaihyoun%22%2C%22open%22%3Atrue%7D
+                      - img "클립 이미지" [ref=e595]
+                      - generic [ref=e597]: 새 창 열림
+                    - link "이거 예술이에요🐻 곰돌이 바람떡 만들기 레시피 자세한 레시피는... 새 창 열림" [ref=e598] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=0DF06F6C5A6B4621121DA6173005782BACE7&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22chaihyoun%22%2C%22open%22%3Atrue%7D
+                      - generic [ref=e600]:
+                        - text: 이거 예술이에요🐻 곰돌이
+                        - mark [ref=e601]: 바람떡
+                        - text: 만들기 레시피 자세한 레시피는...
+                      - generic [ref=e602]: 새 창 열림
+                  - link "프로필 이미지 단디의 부엌 25.06.25 조회 2.4천 새 창 열림" [ref=e603] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@thekitchendandy
+                    - generic [ref=e604]:
+                      - img "프로필 이미지" [ref=e606]
+                      - generic [ref=e607]:
+                        - generic [ref=e608]: 단디의 부엌
+                        - generic [ref=e610]:
+                          - generic [ref=e611]: 25.06.25
+                          - generic [ref=e613]: 조회 2.4천
+                    - generic [ref=e614]: 새 창 열림
+                - generic [ref=e615]:
+                  - generic [ref=e617]:
+                    - link "클립 이미지 새 창 열림" [ref=e618] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%224%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=B2A49F9D1236515788EA7935D6E6AD9D3F78&serviceType=NTV
+                      - img "클립 이미지" [ref=e620]
+                      - generic [ref=e622]: 새 창 열림
+                    - link "바람떡, 계피떡 아닌 ‘개피떡’ 새 창 열림" [ref=e623] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%224%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=B2A49F9D1236515788EA7935D6E6AD9D3F78&serviceType=NTV
+                      - generic [ref=e625]:
+                        - mark [ref=e626]: 바람떡
+                        - text: ", 계피떡 아닌 ‘개피떡’"
+                      - generic [ref=e627]: 새 창 열림
+                  - link "dailianofficial 25.05.14 조회 8.2천 새 창 열림" [ref=e628] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@dailian_official
+                    - generic [ref=e634]:
+                      - generic [ref=e635]: dailianofficial
+                      - generic [ref=e637]:
+                        - generic [ref=e638]: 25.05.14
+                        - generic [ref=e640]: 조회 8.2천
+                    - generic [ref=e641]: 새 창 열림
+                - generic [ref=e642]:
+                  - generic [ref=e644]:
+                    - link "클립 이미지 새 창 열림" [ref=e645] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=A1F238C31AC43DC1B5DB909DE1F3D56A1DE7&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22hD7ayWT8pZtstCYn1Qmw%22%2C%22open%22%3Atrue%7D
+                      - img "클립 이미지" [ref=e647]
+                      - generic [ref=e649]: 새 창 열림
+                    - 'link "#협찬 #아리울떡공방 #삼색모듬바람떡 #굳지않는떡 100% 국내산 쌀에... 새 창 열림" [ref=e650] [cursor=pointer]':
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=A1F238C31AC43DC1B5DB909DE1F3D56A1DE7&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22hD7ayWT8pZtstCYn1Qmw%22%2C%22open%22%3Atrue%7D
+                      - generic [ref=e652]:
+                        - text: "#협찬 #아리울떡공방 #삼색모듬"
+                        - mark [ref=e653]: 바람떡
+                        - text: "#굳지않는떡 100% 국내산 쌀에..."
+                      - generic [ref=e654]: 새 창 열림
+                  - link "프로필 이미지 파파야 07.12 조회 95 새 창 열림" [ref=e655] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@ybwkor87su
+                    - generic [ref=e656]:
+                      - img "프로필 이미지" [ref=e658]
+                      - generic [ref=e659]:
+                        - generic [ref=e660]: 파파야
+                        - generic [ref=e662]:
+                          - generic [ref=e663]: "07.12"
+                          - generic [ref=e665]: 조회 95
+                    - generic [ref=e666]: 새 창 열림
+                - generic [ref=e667]:
+                  - generic [ref=e669]:
+                    - link "클립 이미지 새 창 열림" [ref=e670] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=4595F3F417821C00A8B39108ACCDFDA8B268&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%226ENnLzp2prbtqfQ6dttE%22%2C%22open%22%3Atrue%7D
+                      - img "클립 이미지" [ref=e672]
+                      - generic [ref=e674]: 새 창 열림
+                    - link "특히 떡 좋아하는 집이라면 마음이가 바람떡 한번 찾아보세요.... 새 창 열림" [ref=e675] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=4595F3F417821C00A8B39108ACCDFDA8B268&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%226ENnLzp2prbtqfQ6dttE%22%2C%22open%22%3Atrue%7D
+                      - generic [ref=e677]:
+                        - text: 특히
+                        - mark [ref=e678]: 떡
+                        - text: 좋아하는 집이라면 마음이가
+                        - mark [ref=e679]: 바람떡
+                        - text: 한번 찾아보세요....
+                      - generic [ref=e680]: 새 창 열림
+                  - link "프로필 이미지 까딱살림 09.08 조회 21.6만 새 창 열림" [ref=e681] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@kkattak_salrim
+                    - generic [ref=e682]:
+                      - img "프로필 이미지" [ref=e684]
+                      - generic [ref=e685]:
+                        - generic [ref=e686]: 까딱살림
+                        - generic [ref=e688]:
+                          - generic [ref=e689]: "09.08"
+                          - generic [ref=e691]: 조회 21.6만
+                    - generic [ref=e692]: 새 창 열림
+                - generic [ref=e693]:
+                  - generic [ref=e695]:
+                    - link "클립 이미지 새 창 열림" [ref=e696] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%227%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=7E243C62235AE98E8372880AE4DB2F78ED65&serviceType=CLIP
+                      - img "클립 이미지" [ref=e698]
+                      - generic [ref=e700]: 새 창 열림
+                    - link "\"이 떡 몇시에 나와요?? 👀\" 사실... 빵실빵실 바람떡 ⏰️ 9:00... 새 창 열림" [ref=e701] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%227%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=7E243C62235AE98E8372880AE4DB2F78ED65&serviceType=CLIP
+                      - generic [ref=e703]:
+                        - text: "\"이"
+                        - mark [ref=e704]: 떡
+                        - text: 몇시에 나와요?? 👀" 사실... 빵실빵실
+                        - mark [ref=e705]: 바람떡
+                        - text: ⏰️ 9:00...
+                      - generic [ref=e706]: 새 창 열림
+                  - link "프로필 이미지 떡더쿠떡에진심미친자 07.31 조회 4.3천 새 창 열림" [ref=e707] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@tteokdukku
+                    - generic [ref=e708]:
+                      - img "프로필 이미지" [ref=e710]
+                      - generic [ref=e711]:
+                        - generic [ref=e712]: 떡더쿠떡에진심미친자
+                        - generic [ref=e714]:
+                          - generic [ref=e715]: "07.31"
+                          - generic [ref=e717]: 조회 4.3천
+                    - generic [ref=e718]: 새 창 열림
+                - generic [ref=e719]:
+                  - generic [ref=e721]:
+                    - link "클립 이미지 새 창 열림" [ref=e722] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=F4B76C00D6A5CD035D66095512D2A79F16E6&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22YV_KT5MqD2-WuoymsosY%22%2C%22open%22%3Atrue%7D
+                      - img "클립 이미지" [ref=e724]
+                      - generic [ref=e726]: 새 창 열림
+                    - 'link "#개피떡 #바람떡 #떡제조자격증국비지원 #조리기능사한식양식중식일식... 새 창 열림" [ref=e727] [cursor=pointer]':
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=F4B76C00D6A5CD035D66095512D2A79F16E6&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22YV_KT5MqD2-WuoymsosY%22%2C%22open%22%3Atrue%7D
+                      - generic [ref=e729]:
+                        - text: "#개피떡 #"
+                        - mark [ref=e730]: 바람떡
+                        - text: "#떡제조자격증국비지원 #"
+                        - mark [ref=e731]: 조리
+                        - text: 기능사한식양식중식일식...
+                      - generic [ref=e732]: 새 창 열림
+                  - link "프로필 이미지 옥쌤식탁 25.10.29 조회 124 새 창 열림" [ref=e733] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@food3113
+                    - generic [ref=e734]:
+                      - img "프로필 이미지" [ref=e736]
+                      - generic [ref=e737]:
+                        - generic [ref=e738]: 옥쌤식탁
+                        - generic [ref=e740]:
+                          - generic [ref=e741]: 25.10.29
+                          - generic [ref=e743]: 조회 124
+                    - generic [ref=e744]: 새 창 열림
+                - generic [ref=e745]:
+                  - generic [ref=e747]:
+                    - link "클립 이미지 새 창 열림" [ref=e748] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=B9655C20AB745A57FB58525A1028F1C7199E&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22humandocumentary%22%2C%22open%22%3Atrue%7D
+                      - img "클립 이미지" [ref=e750]
+                      - generic [ref=e752]: 새 창 열림
+                    - link "경기 광주시에 위치한 떡... 알록달록한 바람떡을 판매하는... 새 창 열림" [ref=e753] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=B9655C20AB745A57FB58525A1028F1C7199E&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22humandocumentary%22%2C%22open%22%3Atrue%7D
+                      - generic [ref=e755]:
+                        - text: 경기 광주시에 위치한
+                        - mark [ref=e756]: 떡
+                        - text: ... 알록달록한
+                        - mark [ref=e757]: 바람떡
+                        - text: 을 판매하는...
+                      - generic [ref=e758]: 새 창 열림
+                  - link "프로필 이미지 먹세권 24.08.15 조회 5.5만 새 창 열림" [ref=e759] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@muksegwon
+                    - generic [ref=e760]:
+                      - img "프로필 이미지" [ref=e762]
+                      - generic [ref=e763]:
+                        - generic [ref=e764]: 먹세권
+                        - generic [ref=e766]:
+                          - generic [ref=e767]: 24.08.15
+                          - generic [ref=e769]: 조회 5.5만
+                    - generic [ref=e770]: 새 창 열림
+                - generic [ref=e771]:
+                  - generic [ref=e773]:
+                    - link "클립 이미지 새 창 열림" [ref=e774] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?blogId=soso1_1b&docNo=10953975&mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2210%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=FC5F070CDC16AF46283607EA0611D6D4B2D5&serviceType=MOMENT
+                      - img "클립 이미지" [ref=e776]
+                      - generic [ref=e778]: 새 창 열림
+                    - 'link "답례품 바람떡만들기 #김해답례떡... 김해바람떡 #창원바람떡... 새 창 열림" [ref=e779] [cursor=pointer]':
+                      - /url: https://m.naver.com/shorts/?blogId=soso1_1b&docNo=10953975&mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2210%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=FC5F070CDC16AF46283607EA0611D6D4B2D5&serviceType=MOMENT
+                      - generic [ref=e781]:
+                        - text: 답례품
+                        - mark [ref=e782]: 바람떡
+                        - text: "만들기 #김해답례떡... 김해"
+                        - mark [ref=e783]: 바람떡
+                        - text: "#창원"
+                        - mark [ref=e784]: 바람떡
+                        - text: ...
+                      - generic [ref=e785]: 새 창 열림
+                  - link "프로필 이미지 니호떡케이크앤풍선 25.07.30 조회 1.5천 새 창 열림" [ref=e786] [cursor=pointer]:
+                    - /url: https://m.blog.naver.com/soso1_1b
+                    - generic [ref=e787]:
+                      - img "프로필 이미지" [ref=e789]
+                      - generic [ref=e790]:
+                        - generic [ref=e791]: 니호떡케이크앤풍선
+                        - generic [ref=e793]:
+                          - generic [ref=e794]: 25.07.30
+                          - generic [ref=e796]: 조회 1.5천
+                    - generic [ref=e797]: 새 창 열림
+                - generic [ref=e798]:
+                  - generic [ref=e800]:
+                    - link "클립 이미지 새 창 열림" [ref=e801] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=1D86F1462312E5233A5CE300A9B7110B6DD1&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22qSnNosB07jj30t7yMKh-%22%2C%22open%22%3Atrue%7D
+                      - img "클립 이미지" [ref=e803]
+                      - generic [ref=e805]: 새 창 열림
+                    - 'link "간편한 밀키트 꿍스 떡볶이 세트 #꿍스상회 새 창 열림" [ref=e806] [cursor=pointer]':
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=1D86F1462312E5233A5CE300A9B7110B6DD1&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22qSnNosB07jj30t7yMKh-%22%2C%22open%22%3Atrue%7D
+                      - generic [ref=e807]: "간편한 밀키트 꿍스 떡볶이 세트 #꿍스상회"
+                      - generic [ref=e809]: 새 창 열림
+                  - link "프로필 이미지 이바구캠핑 2주 전 조회 61 새 창 열림" [ref=e810] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@0kwgj0h9pm
+                    - generic [ref=e811]:
+                      - img "프로필 이미지" [ref=e813]
+                      - generic [ref=e814]:
+                        - generic [ref=e815]: 이바구캠핑
+                        - generic [ref=e817]:
+                          - generic [ref=e818]: 2주 전
+                          - generic [ref=e820]: 조회 61
+                    - generic [ref=e821]: 새 창 열림
+                - generic [ref=e822]:
+                  - generic [ref=e824]:
+                    - link "클립 이미지 새 창 열림" [ref=e825] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?blogId=heavenbornmk&docNo=16005177&mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2212%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=7ED79328879F9385B383E02F448C29271F60&serviceType=MOMENT
+                      - img "클립 이미지" [ref=e827]
+                      - generic [ref=e829]: 새 창 열림
+                    - link "떡볶이, 물만 넣고 끓이면 끝! 냄비에 넣고 보글보글 끓여주면 완성되는... 새 창 열림" [ref=e830] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?blogId=heavenbornmk&docNo=16005177&mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2212%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=7ED79328879F9385B383E02F448C29271F60&serviceType=MOMENT
+                      - generic [ref=e831]: 떡볶이, 물만 넣고 끓이면 끝! 냄비에 넣고 보글보글 끓여주면 완성되는...
+                      - generic [ref=e833]: 새 창 열림
+                  - link "프로필 이미지 구름바람별 4주 전 조회 39 새 창 열림" [ref=e834] [cursor=pointer]:
+                    - /url: https://m.blog.naver.com/heavenbornmk
+                    - generic [ref=e835]:
+                      - img "프로필 이미지" [ref=e837]
+                      - generic [ref=e838]:
+                        - generic [ref=e839]: 구름바람별
+                        - generic [ref=e841]:
+                          - generic [ref=e842]: 4주 전
+                          - generic [ref=e844]: 조회 39
+                    - generic [ref=e845]: 새 창 열림
+                - generic [ref=e846]:
+                  - generic [ref=e848]:
+                    - link "클립 이미지 새 창 열림" [ref=e849] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2213%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=9C79DE8F44A46D406A2D0911B1A8BFA391D4&serviceType=CLIP
+                      - img "클립 이미지" [ref=e851]
+                      - generic [ref=e853]: 새 창 열림
+                    - link "[광고]오늘은 요리하기 귀찮은 날! 😅 후라이팬에 떡갈비만 몇 분... 새 창 열림" [ref=e854] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2213%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=9C79DE8F44A46D406A2D0911B1A8BFA391D4&serviceType=CLIP
+                      - generic [ref=e855]: "[광고]오늘은 요리하기 귀찮은 날! 😅 후라이팬에 떡갈비만 몇 분..."
+                      - generic [ref=e857]: 새 창 열림
+                  - link "프로필 이미지 바람타고쇼핑 06.27 조회 31 새 창 열림" [ref=e858] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@barampicks
+                    - generic [ref=e859]:
+                      - img "프로필 이미지" [ref=e861]
+                      - generic [ref=e862]:
+                        - generic [ref=e863]: 바람타고쇼핑
+                        - generic [ref=e865]:
+                          - generic [ref=e866]: "06.27"
+                          - generic [ref=e868]: 조회 31
+                    - generic [ref=e869]: 새 창 열림
+                - generic [ref=e870]:
+                  - generic [ref=e872]:
+                    - link "클립 이미지 새 창 열림" [ref=e873] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=E9C07DD1C46326831DC9994D9E29BBA102C3&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22Ncr7ZA-kmUdKYmtsUVS3%22%2C%22open%22%3Atrue%7D
+                      - img "클립 이미지" [ref=e875]
+                      - generic [ref=e877]: 새 창 열림
+                    - link "[광고] 삼진어묵 어묵듬북 떡볶이 밀키트는 쌀떡 좋아하시는분들 밀떡... 새 창 열림" [ref=e878] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts?serviceType=MOMENT&mediaType=VOD&seedMediaId=E9C07DD1C46326831DC9994D9E29BBA102C3&recType=CLIP_PC&recId=%7B%22targetProfileId%22%3A%22Ncr7ZA-kmUdKYmtsUVS3%22%2C%22open%22%3Atrue%7D
+                      - generic [ref=e879]: "[광고] 삼진어묵 어묵듬북 떡볶이 밀키트는 쌀떡 좋아하시는분들 밀떡..."
+                      - generic [ref=e881]: 새 창 열림
+                  - link "프로필 이미지 햇살바람 07.16 조회 45 새 창 열림" [ref=e882] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@lotusms12
+                    - generic [ref=e883]:
+                      - img "프로필 이미지" [ref=e885]
+                      - generic [ref=e886]:
+                        - generic [ref=e887]: 햇살바람
+                        - generic [ref=e889]:
+                          - generic [ref=e890]: "07.16"
+                          - generic [ref=e892]: 조회 45
+                    - generic [ref=e893]: 새 창 열림
+                - generic [ref=e894]:
+                  - generic [ref=e896]:
+                    - link "클립 이미지 새 창 열림" [ref=e897] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2215%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=372683127FCB0EAF981249F32E4E1EBED00A&serviceType=CLIP
+                      - img "클립 이미지" [ref=e899]
+                      - generic [ref=e901]: 새 창 열림
+                    - link "40초) 떡·스프 넣고 뜨거운 물 붓기 전자레인지 1분 20초 조리 후... 새 창 열림" [ref=e902] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2215%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=372683127FCB0EAF981249F32E4E1EBED00A&serviceType=CLIP
+                      - generic [ref=e904]:
+                        - text: 40초)
+                        - mark [ref=e905]: 떡
+                        - text: ·스프 넣고 뜨거운 물 붓기 전자레인지 1분 20초
+                        - mark [ref=e906]: 조리
+                        - text: 후...
+                      - generic [ref=e907]: 새 창 열림
+                  - link "프로필 이미지 sdwind 4주 전 조회 44 새 창 열림" [ref=e908] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@sd-wind
+                    - generic [ref=e909]:
+                      - img "프로필 이미지" [ref=e911]
+                      - generic [ref=e912]:
+                        - generic [ref=e913]: sdwind
+                        - generic [ref=e915]:
+                          - generic [ref=e916]: 4주 전
+                          - generic [ref=e918]: 조회 44
+                    - generic [ref=e919]: 새 창 열림
+                - generic [ref=e920]:
+                  - generic [ref=e922]:
+                    - link "클립 이미지 새 창 열림" [ref=e923] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?blogId=dajeongsulgi&docNo=15660865&mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2216%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=B9B3AB630605A026D0550E798E7B382BB0E8&serviceType=MOMENT
+                      - img "클립 이미지" [ref=e925]
+                      - generic [ref=e927]: 새 창 열림
+                    - link "다정설기 호두정과가 바삭한 이유🤎 다정설기 호두정과는 최상급... 새 창 열림" [ref=e928] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?blogId=dajeongsulgi&docNo=15660865&mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2216%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=B9B3AB630605A026D0550E798E7B382BB0E8&serviceType=MOMENT
+                      - generic [ref=e929]: 다정설기 호두정과가 바삭한 이유🤎 다정설기 호두정과는 최상급...
+                      - generic [ref=e931]: 새 창 열림
+                  - link "프로필 이미지 다정설기 08.19 조회 229 새 창 열림" [ref=e932] [cursor=pointer]:
+                    - /url: https://m.blog.naver.com/dajeongsulgi
+                    - generic [ref=e933]:
+                      - img "프로필 이미지" [ref=e935]
+                      - generic [ref=e936]:
+                        - generic [ref=e937]: 다정설기
+                        - generic [ref=e939]:
+                          - generic [ref=e940]: "08.19"
+                          - generic [ref=e942]: 조회 229
+                    - generic [ref=e943]: 새 창 열림
+                - generic [ref=e944]:
+                  - generic [ref=e946]:
+                    - link "클립 이미지 새 창 열림" [ref=e947] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2217%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=88B70A3A2841E5A8DCA9EC952117AB6EE88A&serviceType=NTV
+                      - img "클립 이미지" [ref=e949]
+                      - generic [ref=e951]: 새 창 열림
+                    - link "에어컨 바람에 뺏긴 음식의 온기 찾는 방법 새 창 열림" [ref=e952] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2217%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=88B70A3A2841E5A8DCA9EC952117AB6EE88A&serviceType=NTV
+                      - generic [ref=e954]:
+                        - text: 에어컨
+                        - mark [ref=e955]: 바람
+                        - text: 에 뺏긴 음식의 온기 찾는 방법
+                      - generic [ref=e956]: 새 창 열림
+                  - link "프로필 이미지 살림구조대 25.07.06 조회 191 새 창 열림" [ref=e957] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@rescuesalim
+                    - generic [ref=e958]:
+                      - img "프로필 이미지" [ref=e960]
+                      - generic [ref=e961]:
+                        - generic [ref=e962]: 살림구조대
+                        - generic [ref=e964]:
+                          - generic [ref=e965]: 25.07.06
+                          - generic [ref=e967]: 조회 191
+                    - generic [ref=e968]: 새 창 열림
+                - generic [ref=e969]:
+                  - generic [ref=e971]:
+                    - link "클립 이미지 새 창 열림" [ref=e972] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2218%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=471F3A753494E98BB5AA1AEC7FC67DCED3E8&serviceType=CLIP
+                      - img "클립 이미지" [ref=e974]
+                      - generic [ref=e976]: 새 창 열림
+                    - 'link "#43년전통 군산백년가게 장미칼국수 밀키트 멸치칼국수 #군산 맛집... 새 창 열림" [ref=e977] [cursor=pointer]':
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2218%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=471F3A753494E98BB5AA1AEC7FC67DCED3E8&serviceType=CLIP
+                      - generic [ref=e978]: "#43년전통 군산백년가게 장미칼국수 밀키트 멸치칼국수 #군산 맛집..."
+                      - generic [ref=e980]: 새 창 열림
+                  - link "프로필 이미지 봄햇살가을바람 03.04 조회 1.2천 새 창 열림" [ref=e981] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@asashahaha
+                    - generic [ref=e982]:
+                      - img "프로필 이미지" [ref=e984]
+                      - generic [ref=e985]:
+                        - generic [ref=e986]: 봄햇살가을바람
+                        - generic [ref=e988]:
+                          - generic [ref=e989]: "03.04"
+                          - generic [ref=e991]: 조회 1.2천
+                    - generic [ref=e992]: 새 창 열림
+                - generic [ref=e993]:
+                  - generic [ref=e995]:
+                    - link "클립 이미지 새 창 열림" [ref=e996] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2219%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=5E1A443D6C322CD38B465508428F425CE66C&serviceType=NTV
+                      - img "클립 이미지" [ref=e998]
+                      - generic [ref=e1000]: 새 창 열림
+                    - link "엄마가 먹는 장어덮밥 만들기 새 창 열림" [ref=e1001] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2219%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=5E1A443D6C322CD38B465508428F425CE66C&serviceType=NTV
+                      - generic [ref=e1002]: 엄마가 먹는 장어덮밥 만들기
+                      - generic [ref=e1004]: 새 창 열림
+                  - link "프로필 이미지 하얀쿡 24.07.29 조회 3.0만 새 창 열림" [ref=e1005] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@cookhayan
+                    - generic [ref=e1006]:
+                      - img "프로필 이미지" [ref=e1008]
+                      - generic [ref=e1009]:
+                        - generic [ref=e1010]: 하얀쿡
+                        - generic [ref=e1012]:
+                          - generic [ref=e1013]: 24.07.29
+                          - generic [ref=e1015]: 조회 3.0만
+                    - generic [ref=e1016]: 새 창 열림
+                - generic [ref=e1017]:
+                  - generic [ref=e1019]:
+                    - link "클립 이미지 새 창 열림" [ref=e1020] [cursor=pointer]:
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2220%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=E007BAEB03DAD4F5F03EFDA80827B45E09AF&serviceType=CLIP
+                      - img "클립 이미지" [ref=e1022]
+                      - generic [ref=e1024]: 새 창 열림
+                    - 'link "#가을감성 #천안샤브샤브맛집 #편백가든 바람이 제법... 새 창 열림" [ref=e1025] [cursor=pointer]':
+                      - /url: https://m.naver.com/shorts/?mediaType=VOD&recId=%7B%22query%22%3A%22%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95%22%2C%22seedIndex%22%3A%2220%22%2C%22type%22%3A%22ALL%22%2C%22order%22%3A%22RELATED%22%2C%22filter%22%3A%22LOW_QUALITY_LEVEL_3%22%2C%22theme%22%3A%22food%22%2C%22now%22%3A%220%22%7D&recType=CLIP_SEARCH&seedMediaId=E007BAEB03DAD4F5F03EFDA80827B45E09AF&serviceType=CLIP
+                      - generic [ref=e1027]:
+                        - text: "#가을감성 #천안샤브샤브맛집 #편백가든"
+                        - mark [ref=e1028]: 바람
+                        - text: 이 제법...
+                      - generic [ref=e1029]: 새 창 열림
+                  - link "프로필 이미지 yunhee80 4주 전 조회 113 새 창 열림" [ref=e1030] [cursor=pointer]:
+                    - /url: https://clip.naver.com/@yunhee-80
+                    - generic [ref=e1031]:
+                      - img "프로필 이미지" [ref=e1033]
+                      - generic [ref=e1034]:
+                        - generic [ref=e1035]: yunhee80
+                        - generic [ref=e1037]:
+                          - generic [ref=e1038]: 4주 전
+                          - generic [ref=e1040]: 조회 113
+                    - generic [ref=e1041]: 새 창 열림
+              - button "다음" [ref=e1042] [cursor=pointer]
+            - link "클립 더보기" [ref=e1047] [cursor=pointer]:
+              - /url: "?nso=&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_smr&sort=rel&ssc=tab.clip.all"
+              - generic [ref=e1052]:
+                - generic [ref=e1053]: 클립
+                - generic [ref=e1054]: 더보기
+          - generic [ref=e1058]:
+            - generic [ref=e1063]:
+              - generic [ref=e1064]:
+                - generic [ref=e1065]:
+                  - link "네이버 지식백과 terms.naver.com 새 창 열림" [ref=e1066] [cursor=pointer]:
+                    - /url: https://terms.naver.com/
+                    - generic [ref=e1072]:
+                      - generic [ref=e1073]: 네이버 지식백과
+                      - generic [ref=e1075]: terms.naver.com
+                    - generic [ref=e1079]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=e1081] [cursor=pointer]
+                - generic [ref=e1086]:
+                  - link "바람떡 조리법 - 문화원형백과 재미있는 세시음식 이야기 새 창 열림" [ref=e1088] [cursor=pointer]:
+                    - /url: https://terms.naver.com/%ED%95%9C%EA%B5%AD-%EC%97%AD%EC%82%AC-%EB%AC%B8%ED%99%94/%EB%B0%94%EB%9E%8C%EB%96%A1-%EC%A1%B0%EB%A6%AC%EB%B2%95-31DwFyOEfNKwZLFaxR5wpq
+                    - generic [ref=e1089]:
+                      - mark [ref=e1090]: 바람떡 조리법
+                      - text: "- 문화원형백과 재미있는 세시음식 이야기"
+                    - generic [ref=e1091]: 새 창 열림
+                  - generic [ref=e1092]:
+                    - link "바람떡은 개피떡이라고 하며, 멥쌀가루를 쪄서 친 다음 얇게 밀어 소를 넣고 반달모양으로 접어 만든 떡이다. 떡 속에 공기가 가득 차도록 하여 반달모양으로 만든다고 하여 일명 ‘바람떡’이라고도 한다. 「음식방문」(1800년대 중엽)에 ‘개피떡은 흰떡치고 푸른 것은 쑥 넣어 절편 쳐서 만들되 팥거피고물하여 소 넣어, 탕기 뚜껑 같은 것으로 떠내고’라고 하여... 새 창 열림" [ref=e1093] [cursor=pointer]:
+                      - /url: https://terms.naver.com/%ED%95%9C%EA%B5%AD-%EC%97%AD%EC%82%AC-%EB%AC%B8%ED%99%94/%EB%B0%94%EB%9E%8C%EB%96%A1-%EC%A1%B0%EB%A6%AC%EB%B2%95-31DwFyOEfNKwZLFaxR5wpq
+                      - generic [ref=e1094]:
+                        - mark [ref=e1095]: 바람떡
+                        - text: 은 개피떡이라고 하며, 멥쌀가루를 쪄서 친 다음 얇게 밀어 소를 넣고 반달모양으로 접어 만든 떡이다.
+                        - mark [ref=e1096]: 떡
+                        - text: 속에 공기가 가득 차도록 하여 반달모양으로 만든다고 하여 일명 ‘
+                        - mark [ref=e1097]: 바람떡
+                        - text: ’이라고도 한다. 「음식방문」(1800년대 중엽)에 ‘개피떡은 흰떡치고 푸른 것은 쑥 넣어 절편 쳐서 만들되 팥거피고물하여 소 넣어, 탕기 뚜껑 같은 것으로 떠내고’라고 하여...
+                      - generic [ref=e1098]: 새 창 열림
+                    - generic [ref=e1099]:
+                      - generic [ref=e1100]:
+                        - link "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지 새 창 열림" [ref=e1101] [cursor=pointer]:
+                          - /url: https://terms.naver.com/%ED%95%9C%EA%B5%AD-%EC%97%AD%EC%82%AC-%EB%AC%B8%ED%99%94/%EB%B0%94%EB%9E%8C%EB%96%A1-%EC%A1%B0%EB%A6%AC%EB%B2%95-31DwFyOEfNKwZLFaxR5wpq
+                          - img "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지" [ref=e1103]
+                          - generic [ref=e1105]: 새 창 열림
+                        - link "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지 새 창 열림" [ref=e1106] [cursor=pointer]:
+                          - /url: https://terms.naver.com/%ED%95%9C%EA%B5%AD-%EC%97%AD%EC%82%AC-%EB%AC%B8%ED%99%94/%EB%B0%94%EB%9E%8C%EB%96%A1-%EC%A1%B0%EB%A6%AC%EB%B2%95-31DwFyOEfNKwZLFaxR5wpq
+                          - img "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지" [ref=e1108]
+                          - generic [ref=e1110]: 새 창 열림
+                        - link "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지 새 창 열림" [ref=e1111] [cursor=pointer]:
+                          - /url: https://terms.naver.com/%ED%95%9C%EA%B5%AD-%EC%97%AD%EC%82%AC-%EB%AC%B8%ED%99%94/%EB%B0%94%EB%9E%8C%EB%96%A1-%EC%A1%B0%EB%A6%AC%EB%B2%95-31DwFyOEfNKwZLFaxR5wpq
+                          - img "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지" [ref=e1113]
+                          - generic [ref=e1115]: 새 창 열림
+                        - link "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지 새 창 열림" [ref=e1116] [cursor=pointer]:
+                          - /url: https://terms.naver.com/%ED%95%9C%EA%B5%AD-%EC%97%AD%EC%82%AC-%EB%AC%B8%ED%99%94/%EB%B0%94%EB%9E%8C%EB%96%A1-%EC%A1%B0%EB%A6%AC%EB%B2%95-31DwFyOEfNKwZLFaxR5wpq
+                          - img "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지" [ref=e1118]
+                          - generic [ref=e1120]: 새 창 열림
+                        - link "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지 새 창 열림" [ref=e1121] [cursor=pointer]:
+                          - /url: https://terms.naver.com/%ED%95%9C%EA%B5%AD-%EC%97%AD%EC%82%AC-%EB%AC%B8%ED%99%94/%EB%B0%94%EB%9E%8C%EB%96%A1-%EC%A1%B0%EB%A6%AC%EB%B2%95-31DwFyOEfNKwZLFaxR5wpq
+                          - img "<mark>바람떡 조리법</mark> - 문화원형백과 재미있는 세시음식 이야기의 이미지" [ref=e1123]
+                          - generic [ref=e1125]: 새 창 열림
+                      - button "다음"
+              - generic [ref=e1126]:
+                - link "완성사진 새 창 열림" [ref=e1127] [cursor=pointer]:
+                  - /url: https://terms.naver.com/한국-역사-문화/바람떡-조리법-31DwFyOEfNKwZLFaxR5wpq#완성사진
+                  - generic [ref=e1128]: 완성사진
+                  - generic [ref=e1129]: 새 창 열림
+                - link "유래설명 새 창 열림" [ref=e1130] [cursor=pointer]:
+                  - /url: https://terms.naver.com/한국-역사-문화/바람떡-조리법-31DwFyOEfNKwZLFaxR5wpq#유래설명
+                  - generic [ref=e1131]: 유래설명
+                  - generic [ref=e1132]: 새 창 열림
+                - link "재료 및 분량 새 창 열림" [ref=e1133] [cursor=pointer]:
+                  - /url: https://terms.naver.com/한국-역사-문화/바람떡-조리법-31DwFyOEfNKwZLFaxR5wpq#재료-및-분량
+                  - generic [ref=e1134]: 재료 및 분량
+                  - generic [ref=e1135]: 새 창 열림
+                - link "만드는 방법 새 창 열림" [ref=e1136] [cursor=pointer]:
+                  - /url: https://terms.naver.com/한국-역사-문화/바람떡-조리법-31DwFyOEfNKwZLFaxR5wpq#만드는-방법
+                  - generic [ref=e1137]: 만드는 방법
+                  - generic [ref=e1138]: 새 창 열림
+            - generic [ref=e1142]:
+              - generic [ref=e1144]:
+                - generic [ref=e1145]:
+                  - link "새 창 열림" [ref=e1147] [cursor=pointer]:
+                    - /url: https://blog.naver.com/lyr828
+                  - generic [ref=e1151]:
+                    - link "웰니스룸 새 창 열림" [ref=e1154] [cursor=pointer]:
+                      - /url: https://blog.naver.com/lyr828
+                      - generic [ref=e1155]: 웰니스룸
+                      - generic [ref=e1156]: 새 창 열림
+                    - generic [ref=e1157]: 2026.07.29.
+                - button "옵션 메뉴 열기" [ref=e1160] [cursor=pointer]
+              - generic [ref=e1165]:
+                - generic [ref=e1166]:
+                  - link "예쁘고 쫄깃한 바람떡 만드는 법 (단호박 딸기 흑미 천연 색소 비율과 성형 팁) 새 창 열림" [ref=e1167] [cursor=pointer]:
+                    - /url: https://blog.naver.com/lyr828/224361648833
+                    - generic [ref=e1168]:
+                      - text: 예쁘고 쫄깃한
+                      - mark [ref=e1169]: 바람떡
+                      - text: 만드는 법 (단호박 딸기 흑미 천연 색소 비율과 성형 팁)
+                    - generic [ref=e1170]: 새 창 열림
+                  - 'link "5cm 크기) 단계별 바람떡 조리 과정 [1단계] 색상별 반죽 및 체치기 가루 섞기: 노란색(단호박), 분홍색(딸기), 보라색(찰흑미) 반죽 재료를 각 비율에 맞게 각각의 볼에 담아줍니다.... 치대기: 다 쪄진 떡 반죽을 뜨거울 때 매끄럽고 쫄깃한 식감이 살아나도록 충분히 치대어 뭉쳐줍니다. [3단계] 소 넣기 및 바람떡 성형하기 반죽 밀기: 치댄 반죽을 밀대로 얇고 균일하게... 새 창 열림" [ref=e1171] [cursor=pointer]':
+                    - /url: https://blog.naver.com/lyr828/224361648833
+                    - generic [ref=e1172]:
+                      - text: 5cm 크기) 단계별
+                      - mark [ref=e1173]: 바람떡 조리
+                      - text: "과정 [1단계] 색상별 반죽 및 체치기 가루 섞기: 노란색(단호박), 분홍색(딸기), 보라색(찰흑미) 반죽 재료를 각 비율에 맞게 각각의 볼에 담아줍니다.... 치대기: 다 쪄진"
+                      - mark [ref=e1174]: 떡
+                      - text: 반죽을 뜨거울 때 매끄럽고 쫄깃한 식감이 살아나도록 충분히 치대어 뭉쳐줍니다. [3단계] 소 넣기 및
+                      - mark [ref=e1175]: 바람떡
+                      - text: "성형하기 반죽 밀기: 치댄 반죽을 밀대로 얇고 균일하게..."
+                    - generic [ref=e1176]: 새 창 열림
+                - generic [ref=e1177]:
+                  - generic [ref=e1178]:
+                    - link "새 창 열림" [ref=e1179] [cursor=pointer]:
+                      - /url: https://blog.naver.com/lyr828/224361648833
+                    - link "새 창 열림" [ref=e1184] [cursor=pointer]:
+                      - /url: https://blog.naver.com/lyr828/224361648833
+                    - link "새 창 열림" [ref=e1189] [cursor=pointer]:
+                      - /url: https://blog.naver.com/lyr828/224361648833
+                    - link "새 창 열림" [ref=e1194] [cursor=pointer]:
+                      - /url: https://blog.naver.com/lyr828/224361648833
+                    - link "새 창 열림" [ref=e1199] [cursor=pointer]:
+                      - /url: https://blog.naver.com/lyr828/224361648833
+                    - link "새 창 열림" [ref=e1204] [cursor=pointer]:
+                      - /url: https://blog.naver.com/lyr828/224361648833
+                  - button "다음"
+            - generic [ref=e1212]:
+              - generic [ref=e1214]:
+                - generic [ref=e1215]:
+                  - link "새 창 열림" [ref=e1217] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jaemk
+                  - generic [ref=e1221]:
+                    - link "쭤메이 Blog 새 창 열림" [ref=e1224] [cursor=pointer]:
+                      - /url: https://blog.naver.com/jaemk
+                      - generic [ref=e1225]: 쭤메이 Blog
+                      - generic [ref=e1226]: 새 창 열림
+                    - generic [ref=e1227]: 2026.08.18.
+                - button "옵션 메뉴 열기" [ref=e1230] [cursor=pointer]
+              - generic [ref=e1235]:
+                - link "집에서 바람떡 만들기, 쫄깃한 반달 떡 레시피 새 창 열림" [ref=e1236] [cursor=pointer]:
+                  - /url: https://blog.naver.com/jaemk/224382197367
+                  - generic [ref=e1237]:
+                    - text: 집에서
+                    - mark [ref=e1238]: 바람떡
+                    - text: 만들기, 쫄깃한 반달
+                    - mark [ref=e1239]: 떡
+                    - text: 레시피
+                  - generic [ref=e1240]: 새 창 열림
+                - 'link "쫄깃한 떡 안에 달콤한 팥앙금이 들어간 바람떡. ⠀ 떡집에서 자주 볼 수 있지만 집에서도 만들 수 있습니다. ⠀ 재료가... ⠀ 오늘은 건식 멥쌀가루를 이용해 집에서 바람떡 만드는 방법을 알아보겠습니다. ⠀ 바람떡은 어떤 떡일까? ⠀ 바람떡은... ⠀ 자료 출처: 바람떡 조리법 관련 공개 레시피 종합 ⠀ #바람떡 #바람떡만들기 #개피떡 #떡만들기 #홈베이킹 #전통떡... 새 창 열림" [ref=e1241] [cursor=pointer]':
+                  - /url: https://blog.naver.com/jaemk/224382197367
+                  - generic [ref=e1242]:
+                    - text: 쫄깃한
+                    - mark [ref=e1243]: 떡
+                    - text: 안에 달콤한 팥앙금이 들어간
+                    - mark [ref=e1244]: 바람떡
+                    - text: . ⠀ 떡집에서 자주 볼 수 있지만 집에서도 만들 수 있습니다. ⠀ 재료가... ⠀ 오늘은 건식 멥쌀가루를 이용해 집에서
+                    - mark [ref=e1245]: 바람떡
+                    - text: 만드는
+                    - mark [ref=e1246]: 방법
+                    - text: 을 알아보겠습니다. ⠀
+                    - mark [ref=e1247]: 바람떡
+                    - text: 은 어떤 떡일까? ⠀
+                    - mark [ref=e1248]: 바람떡
+                    - text: "은... ⠀ 자료 출처:"
+                    - mark [ref=e1249]: 바람떡 조리법
+                    - text: "관련 공개 레시피 종합 ⠀ #"
+                    - mark [ref=e1250]: 바람떡
+                    - text: "#"
+                    - mark [ref=e1251]: 바람떡
+                    - text: "만들기 #개피떡 #떡만들기 #홈베이킹 #전통떡..."
+                  - generic [ref=e1252]: 새 창 열림
+            - generic [ref=e1257]:
+              - generic [ref=e1258]:
+                - generic [ref=e1259]:
+                  - link "나무위키 namu.wiki›개피떡 새 창 열림" [ref=e1260] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8
+                    - generic [ref=e1266]:
+                      - generic [ref=e1267]: 나무위키
+                      - generic [ref=e1269]: namu.wiki›개피떡
+                    - generic [ref=e1273]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=e1275] [cursor=pointer]
+                - generic [ref=e1280]:
+                  - link "개피떡 - 나무위키의 이미지 새 창 열림" [ref=e1281] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EA%B0%9C%ED%94%BC%EB%96%A1
+                    - img "개피떡 - 나무위키의 이미지" [ref=e1283]
+                    - generic [ref=e1285]: 새 창 열림
+                  - link "개피떡 - 나무위키 새 창 열림" [ref=e1287] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EA%B0%9C%ED%94%BC%EB%96%A1
+                    - generic [ref=e1288]: 개피떡 - 나무위키
+                    - generic [ref=e1289]: 새 창 열림
+                  - 'link "그 과정에서 떡 안에 공기가 안에 차기 때문에 바람떡이라고도 부르며, 바람 피우지 말라고 결혼식 때에는 하지 않는 떡이기도 하다. 공정상 빚는방식보단 대량생산에 유리하기... 조리법 * 흰개피떡: 멥쌀가루 75g, 소금 0.8g, 물 2큰술 * 쑥개피떡: 멥쌀가루 75g, 소금 0.8g, 쑥가루 2g, 물 3큰술 * 소양념: 거피팥 40g, 소금 ¼작은술, 설탕 ½큰술, 꿀 2작은술, 계핏가루 0.2g... 새 창 열림" [ref=e1291] [cursor=pointer]':
+                    - /url: https://namu.wiki/w/%EA%B0%9C%ED%94%BC%EB%96%A1
+                    - generic [ref=e1292]:
+                      - text: 그 과정에서
+                      - mark [ref=e1293]: 떡
+                      - text: 안에 공기가 안에 차기 때문에
+                      - mark [ref=e1294]: 바람떡
+                      - text: 이라고도 부르며,
+                      - mark [ref=e1295]: 바람
+                      - text: 피우지 말라고 결혼식 때에는 하지 않는 떡이기도 하다. 공정상 빚는방식보단 대량생산에 유리하기...
+                      - mark [ref=e1296]: 조리법
+                      - text: "* 흰개피떡: 멥쌀가루 75g, 소금 0.8g, 물 2큰술 * 쑥개피떡: 멥쌀가루 75g, 소금 0.8g, 쑥가루 2g, 물 3큰술 * 소양념: 거피팥 40g, 소금 ¼작은술, 설탕 ½큰술, 꿀 2작은술, 계핏가루 0.2g..."
+                    - generic [ref=e1297]: 새 창 열림
+              - generic [ref=e1298]:
+                - link "개요 새 창 열림" [ref=e1299] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EA%B0%9C%ED%94%BC%EB%96%A1#s-1
+                  - generic [ref=e1300]: 개요
+                  - generic [ref=e1301]: 새 창 열림
+                - link "조리법 새 창 열림" [ref=e1302] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EA%B0%9C%ED%94%BC%EB%96%A1#s-2
+                  - generic [ref=e1303]: 조리법
+                  - generic [ref=e1304]: 새 창 열림
+                - link "보쌈떡 새 창 열림" [ref=e1305] [cursor=pointer]:
+                  - /url: https://namu.wiki/w/%EA%B0%9C%ED%94%BC%EB%96%A1#s-3
+                  - generic [ref=e1306]: 보쌈떡
+                  - generic [ref=e1307]: 새 창 열림
+          - generic [ref=e1308]:
+            - generic [ref=e1314]:
+              - generic [ref=e1315]:
+                - generic [ref=e1322]:
+                  - generic [ref=e1323]: auction.co.kr
+                  - generic [ref=e1325]: itempage3.auction.co.kr›DetailView
+                - button "옵션 메뉴 열기" [ref=e1330] [cursor=pointer]
+              - generic [ref=e1335]:
+                - link "바람떡틀 원형 떡만들기 도구 소형 떡케이크만들기 떡도구 떡도장 플리스틱떡틀 바람떡조리법 - .... 새 창 열림" [ref=e1337] [cursor=pointer]:
+                  - /url: https://itempage3.auction.co.kr/DetailView.aspx?itemno=F518440585
+                  - generic [ref=e1338]:
+                    - mark [ref=e1339]: 바람떡
+                    - text: 틀 원형 떡만들기 도구 소형 떡케이크만들기 떡도구 떡도장 플리스틱떡틀
+                    - mark [ref=e1340]: 바람떡조리법
+                    - text: "- ...."
+                  - generic [ref=e1341]: 새 창 열림
+                - generic [ref=e1342]:
+                  - link "14,510원할인가 새 창 열림" [ref=e1343] [cursor=pointer]:
+                    - /url: https://itempage3.auction.co.kr/DetailView.aspx?itemno=F518440585
+                    - generic [ref=e1344]: 14,510원할인가
+                    - generic [ref=e1345]: 새 창 열림
+                  - link "최대 5% 추가 적립 · 725원 · 시작하기 최대 7% 추가 적립 · 1,015원 · 혜택받기 새 창 열림" [ref=e1346] [cursor=pointer]:
+                    - /url: https://itempage3.auction.co.kr/DetailView.aspx?itemno=F518440585
+                    - generic [ref=e1347]:
+                      - generic [ref=e1348]: 최대 5% 추가 적립 · 725원 · 시작하기
+                      - generic [ref=e1352]: 최대 7% 추가 적립 · 1,015원 · 혜택받기
+                    - generic [ref=e1356]: 새 창 열림
+            - generic [ref=e1360]:
+              - generic [ref=e1362]:
+                - generic [ref=e1363]:
+                  - link "새 창 열림" [ref=e1365] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/koreancook
+                  - generic [ref=e1369]:
+                    - link "<조리모카페> 조리기능사 자격증의 모든 것 새 창 열림" [ref=e1372] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/koreancook
+                      - generic [ref=e1373]: <조리모카페> 조리기능사 자격증의 모든 것
+                      - generic [ref=e1374]: 새 창 열림
+                    - generic [ref=e1378]: 2025.02.07.
+                - button "옵션 메뉴 열기" [ref=e1381] [cursor=pointer]
+              - generic [ref=e1387]:
+                - generic [ref=e1388]:
+                  - link "바람떡 연습 새 창 열림" [ref=e1389] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/koreancook/354044?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhbmNvb2siLCJhcnRpY2xlSWQiOjM1NDA0NCwiaXNzdWVkQXQiOjE3OTIxMTUyMzk2NDl9.pGrJDlb2c4N4cam7hewQx7UCow_KWy0bz4Ph5GSjsfA
+                    - generic [ref=e1390]:
+                      - mark [ref=e1391]: 바람떡
+                      - text: 연습
+                    - generic [ref=e1392]: 새 창 열림
+                  - link "학원에서 제대로 배우고나서 시험 볼려고 학원 등록 했지만 사람 모이지 않아서 그런지 첫수업 날짜가 몇일 늦어진다는 연락 왔어요ㅠㅠ 월요일에 실기 접수 해야하는데... 집에서 콩설기를 2번 연습하고 오늘 유튜브 보고 바람떡을 해봤어요 처음 만든거라 미숙 하네요 12개 만들고 떡이 남아서 어제밤 만든 카스타드 크림을 넣었어요 새 창 열림" [ref=e1393] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/koreancook/354044?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhbmNvb2siLCJhcnRpY2xlSWQiOjM1NDA0NCwiaXNzdWVkQXQiOjE3OTIxMTUyMzk2NDl9.pGrJDlb2c4N4cam7hewQx7UCow_KWy0bz4Ph5GSjsfA
+                    - generic [ref=e1394]:
+                      - text: 학원에서 제대로 배우고나서 시험 볼려고 학원 등록 했지만 사람 모이지 않아서 그런지 첫수업 날짜가 몇일 늦어진다는 연락 왔어요ㅠㅠ 월요일에 실기 접수 해야하는데... 집에서 콩설기를 2번 연습하고 오늘 유튜브 보고
+                      - mark [ref=e1395]: 바람떡
+                      - text: 을 해봤어요 처음 만든거라 미숙 하네요 12개 만들고 떡이 남아서 어제밤 만든 카스타드 크림을 넣었어요
+                    - generic [ref=e1396]: 새 창 열림
+                - link "새 창 열림" [ref=e1397] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/koreancook/354044?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImtvcmVhbmNvb2siLCJhcnRpY2xlSWQiOjM1NDA0NCwiaXNzdWVkQXQiOjE3OTIxMTUyMzk2NDl9.pGrJDlb2c4N4cam7hewQx7UCow_KWy0bz4Ph5GSjsfA
+            - generic [ref=e1407]:
+              - generic [ref=e1408]:
+                - link "고용24 www.work24.go.kr›hr 새 창 열림" [ref=e1409] [cursor=pointer]:
+                  - /url: https://www.work24.go.kr/cm/main.do
+                  - generic [ref=e1415]:
+                    - generic [ref=e1416]: 고용24
+                    - generic [ref=e1418]: www.work24.go.kr›hr
+                  - generic [ref=e1422]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=e1424] [cursor=pointer]
+              - generic [ref=e1429]:
+                - link "답례떡 패키지 (백일떡세트,바람떡,절편플라워,꽃송편 포함 전통떡,퓨전떡) 새 창 열림" [ref=e1431] [cursor=pointer]:
+                  - /url: https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20250000523857&tracseTme=12&crseTracseSe=C0061
+                  - generic [ref=e1432]:
+                    - text: 답례떡 패키지 (백일떡세트,
+                    - mark [ref=e1433]: 바람떡
+                    - text: ",절편플라워,꽃송편 포함 전통떡,퓨전떡)"
+                  - generic [ref=e1434]: 새 창 열림
+                - 'link "기본정보 ; 성과 및 운영 정보 ; NCS 및 자격정보 ; 훈련실시장소 및 담당자 ; 훈련기관 안내사항 ※ 타 국비기관의 과정 카피 방지를 위해 법적 처리가 가능한 비밀유지 보안 서약서를 작성합니다. ▶품목 : 시간표 이미지파일 확인해주세요 창업 시 가장 먼저 세팅해야하는 기본메뉴 풀 구성! 창업 목표가 아니더라도 활용도 높은 메뉴들만 있어 쓰임 좋구요 초보도 재밌게 배울 ...... 새 창 열림" [ref=e1436] [cursor=pointer]':
+                  - /url: https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20250000523857&tracseTme=12&crseTracseSe=C0061
+                  - generic [ref=e1437]: "기본정보 ; 성과 및 운영 정보 ; NCS 및 자격정보 ; 훈련실시장소 및 담당자 ; 훈련기관 안내사항 ※ 타 국비기관의 과정 카피 방지를 위해 법적 처리가 가능한 비밀유지 보안 서약서를 작성합니다. ▶품목 : 시간표 이미지파일 확인해주세요 창업 시 가장 먼저 세팅해야하는 기본메뉴 풀 구성! 창업 목표가 아니더라도 활용도 높은 메뉴들만 있어 쓰임 좋구요 초보도 재밌게 배울 ......"
+                  - generic [ref=e1438]: 새 창 열림
+            - generic [ref=e1444]:
+              - generic [ref=e1445]:
+                - link "떡사세요 tteokzip.com›recipes 새 창 열림" [ref=e1446] [cursor=pointer]:
+                  - /url: https://tteokzip.com/
+                  - generic [ref=e1452]:
+                    - generic [ref=e1453]: 떡사세요
+                    - generic [ref=e1455]: tteokzip.com›recipes
+                  - generic [ref=e1459]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=e1461] [cursor=pointer]
+              - generic [ref=e1466]:
+                - link "앙금 가득 <mark>바람떡</mark>(개피떡) 만들기 — 레시피의 이미지 새 창 열림" [ref=e1467] [cursor=pointer]:
+                  - /url: https://tteokzip.com/recipes/8
+                  - img "앙금 가득 <mark>바람떡</mark>(개피떡) 만들기 — 레시피의 이미지" [ref=e1469]
+                  - generic [ref=e1471]: 새 창 열림
+                - link "앙금 가득 바람떡(개피떡) 만들기 — 레시피 새 창 열림" [ref=e1473] [cursor=pointer]:
+                  - /url: https://tteokzip.com/recipes/8
+                  - generic [ref=e1474]:
+                    - text: 앙금 가득
+                    - mark [ref=e1475]: 바람떡
+                    - text: (개피떡) 만들기 — 레시피
+                  - generic [ref=e1476]: 새 창 열림
+                - link "바람떡은 얇게 민 떡에 팥앙금을 넣고 반달로 찍어 낸 떡입니다. 찍을 때 안에 공기가 들어가 볼록해진다고 해서 바람떡이라는 이름이 붙었습니다. 개피떡이라고도 부릅니다. 모양 찍기 전용 틀이 없다면… 새 창 열림" [ref=e1478] [cursor=pointer]:
+                  - /url: https://tteokzip.com/recipes/8
+                  - generic [ref=e1479]:
+                    - mark [ref=e1480]: 바람떡
+                    - text: 은 얇게 민 떡에 팥앙금을 넣고 반달로 찍어 낸 떡입니다. 찍을 때 안에 공기가 들어가 볼록해진다고 해서
+                    - mark [ref=e1481]: 바람떡
+                    - text: 이라는 이름이 붙었습니다. 개피떡이라고도 부릅니다. 모양 찍기 전용 틀이 없다면…
+                  - generic [ref=e1482]: 새 창 열림
+          - generic [ref=e1486]:
+            - generic [ref=e1488]:
+              - heading "이미지" [level=2] [ref=e1490]
+              - button "이미지 신고하기" [ref=e1493] [cursor=pointer]
+            - generic [ref=e1496]:
+              - generic:
+                - button "팥앙금 바람떡 만들기와 보관, 결혼식 금기 음식이래요. 개피떡 조리법":
+                  - img "팥앙금 바람떡 만들기와 보관, 결혼식 금기 음식이래요. 개피떡 조리법"
+              - generic:
+                - button "아이들간식 쫀득쫀득 팥앙금가득 손쉽게 바람떡":
+                  - img "아이들간식 쫀득쫀득 팥앙금가득 손쉽게 바람떡"
+              - generic:
+                - button "e-요리 - 이마트몰, 당신과 가장 가까운 이마트 [오늘은e-요리]바람떡 만들기/ 바람떡 집에서만들기":
+                  - img "e-요리 - 이마트몰, 당신과 가장 가까운 이마트 [오늘은e-요리]바람떡 만들기/ 바람떡 집에서만들기"
+              - generic:
+                - 'button "떡만들기 플라스틱 원형 바람떡틀 (소) 원형떡틀 플리스틱떡틀 떡케이크 모양틀 만들기 떡만들기 떡도구 : 행밤"':
+                  - 'img "떡만들기 플라스틱 원형 바람떡틀 (소) 원형떡틀 플리스틱떡틀 떡케이크 모양틀 만들기 떡만들기 떡도구 : 행밤"'
+              - generic:
+                - button "떡케이크의 기본은 떡! 떡만들기 도구":
+                  - img "떡케이크의 기본은 떡! 떡만들기 도구"
+              - generic:
+                - button "4월26일 판매떡 안내드립니다 / 울산 당일 떡구매 가능한 곳":
+                  - img "4월26일 판매떡 안내드립니다 / 울산 당일 떡구매 가능한 곳"
+              - generic:
+                - button "[브런치&떡] 개피떡(바람떡) 만들기 후기":
+                  - img "[브런치&떡] 개피떡(바람떡) 만들기 후기"
+              - generic:
+                - 'button "바람떡틀 떡도구 떡틀 모양틀 떡도장 : 데이차차"':
+                  - 'img "바람떡틀 떡도구 떡틀 모양틀 떡도장 : 데이차차"'
+              - generic:
+                - button "삼덕쿠키 바람떡틀로 구름바람떡만들기":
+                  - img "삼덕쿠키 바람떡틀로 구름바람떡만들기"
+              - generic:
+                - button "바람떡":
+                  - img "바람떡"
+            - link "이미지 더보기" [ref=e1498] [cursor=pointer]:
+              - /url: "?nso=so%3Ar%2Cp%3Aall&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_nmr&ssc=tab.image.all&where=image"
+              - generic [ref=e1503]:
+                - generic [ref=e1504]: 이미지
+                - generic [ref=e1505]: 더보기
+          - generic [ref=e1511]:
+            - generic [ref=e1513]:
+              - heading "네이버 가격비교" [level=2] [ref=e1514]
+              - button "이 정보가 표시된 이유" [ref=e1516] [cursor=pointer]
+              - generic [ref=e1523]:
+                - text: 다른 사이트를 보시려면
+                - link "클릭" [ref=e1524] [cursor=pointer]:
+                  - /url: https://search.naver.com/search.naver?sm=tab_clk.shpftc&qvt=0&query=%EA%B0%80%EA%B2%A9%EB%B9%84%EA%B5%90%EC%82%AC%EC%9D%B4%ED%8A%B8%20nsite%3Anaver.com&ssc=tab.ur.all
+                - text: 하세요
+            - generic [ref=e1525]:
+              - text: 찾으시는 상품과 유사한 상품도 함께 노출합니다.
+              - link "'바람떡 조리법'으로만 검색하기" [ref=e1526] [cursor=pointer]:
+                - /url: https://search.shopping.naver.com/search/all?query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&frm=NVSCPRO&fo=true
+            - generic [ref=e1528]:
+              - generic [ref=e1529]:
+                - generic [ref=e1531]:
+                  - checkbox "N배송 빠르게 받기" [ref=e1532] [cursor=pointer]
+                  - generic [ref=e1533]: N배송
+                  - generic [ref=e1535]: 빠르게 받기
+                - generic [ref=e1538]:
+                  - checkbox "빠른배송" [ref=e1539] [cursor=pointer]
+                  - generic [ref=e1540]: 빠른배송
+              - button "배송지 설정 새 창으로 열기" [ref=e1542] [cursor=pointer]:
+                - text: 배송지 설정
+                - generic [ref=e1543]: 새 창으로 열기
+            - list [ref=e1545]:
+              - listitem [ref=e1546]:
+                - generic [ref=e1547]:
+                  - link "굳지않는 <mark>떡</mark> 흰<mark>바람떡</mark>1kg+ 쑥<mark>바람떡</mark>1kg 개별포장" [ref=e1548] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/cGTI-_o3fQzsqrX0nKEsGNu5KW3DOZGSpPDXzGLUhK91xU49m_YQzrnrq7DTIgINq1DxBVqhIKt3LdNyXI_fCnHHeSFAyxuplmodX6AtMe5iZRG-mrpiWX4zeWNTcZfRyT2yiNNGY0c5mh26cWcs3j-wcBmgiZBg4wEvY1LT1kt_6hlybeOxm0E4xi1SW_avSRlfEF9f5Oe-IUUgzExQI_FZYGunLJXFJHYO4ePL8vL9o88d5G61tMMuPO_Y2D4FUAxvmCe-g8X6NJw62T8lXJq-3FjtzXnt9o1kuAILKqkfcugLwOw49NengQB-hDxK?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                    - img "굳지않는 <mark>떡</mark> 흰<mark>바람떡</mark>1kg+ 쑥<mark>바람떡</mark>1kg 개별포장"
+                  - generic [ref=e1550]:
+                    - link [ref=e1551] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/cGTI-_o3fQzsqrX0nKEsGNu5KW3DOZGSpPDXzGLUhK91xU49m_YQzrnrq7DTIgINq1DxBVqhIKt3LdNyXI_fCnHHeSFAyxuplmodX6AtMe5iZRG-mrpiWX4zeWNTcZfRyT2yiNNGY0c5mh26cWcs3j-wcBmgiZBg4wEvY1LT1kt_6hlybeOxm0E4xi1SW_avSRlfEF9f5Oe-IUUgzExQI_FZYGunLJXFJHYO4ePL8vL9o88d5G61tMMuPO_Y2D4FUAxvmCe-g8X6NJw62T8lXJq-3FjtzXnt9o1kuAILKqkfcugLwOw49NengQB-hDxK?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                      - generic [ref=e1552]:
+                        - text: 굳지않는
+                        - mark [ref=e1553]: 떡
+                        - text: 흰
+                        - mark [ref=e1554]: 바람떡
+                        - text: 1kg+ 쑥
+                        - mark [ref=e1555]: 바람떡
+                        - text: 1kg 개별포장
+                    - generic [ref=e1556]:
+                      - generic [ref=e1557]:
+                        - generic [ref=e1558]: 할인 전 판매가
+                        - generic [ref=e1559]: 17,900
+                        - generic [ref=e1560]: 원
+                      - generic [ref=e1561]:
+                        - generic [ref=e1562]:
+                          - generic [ref=e1563]:
+                            - text: 5%
+                            - generic [ref=e1564]: 할인
+                          - generic [ref=e1565]: 16,900
+                          - generic [ref=e1566]: 원
+                        - generic [ref=e1568]:
+                          - generic [ref=e1574]: 배송비
+                          - text: 무료
+                    - generic [ref=e1575]:
+                      - generic [ref=e1576]: 오늘출발
+                      - generic [ref=e1577]: 14:00까지 주문 시
+                    - generic [ref=e1578]:
+                      - generic [ref=e1579]:
+                        - generic [ref=e1582]: "4.0"
+                        - generic [ref=e1583]: "6"
+                      - generic [ref=e1584]: 구매 5
+                      - generic [ref=e1585]: 찜 8
+                    - generic [ref=e1587]:
+                      - link "셀브" [ref=e1588] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/cGTI-_o3fQzsqrX0nKEsGNu5KW3DOZGSpPDXzGLUhK91xU49m_YQzrnrq7DTIgINq1DxBVqhIKt3LdNyXI_fCnHHeSFAyxuplmodX6AtMe5iZRG-mrpiWX4zeWNTcZfRyT2yiNNGY0c5mh26cWcs3j-wcBmgiZBg4wEvY1LT1kt_6hlybeOxm0E4xi1SW_avSRlfEF9f5Oe-IUUgzExQI_FZYGunLJXFJHYO4ePL8vL9o88d5G61tMMuPO_Y2D4FUAxvmCe-g8X6NJw62T8lXJq-3FjtzXnt9o1kuAILKqkfcugLwOw49NengQB-hDxK?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                      - button "광고" [ref=e1590] [cursor=pointer]
+                    - generic [ref=e1597]:
+                      - generic [ref=e1598]: 네이버페이플러스
+                      - generic [ref=e1605]: 포인트 최대 169원
+              - listitem [ref=e1606]:
+                - generic [ref=e1607]:
+                  - link "셀브 개별포장 2색<mark>바람떡</mark> 1kg+1kg 굳지않는떡 구매 120+" [ref=e1608] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/cGTI-_o3fQzsqrX0nKEsGNu5KW3DOZGSpPDXzGLUhK91xU49m_YQzrnrq7DTIgINq1DxBVqhIKt3LdNyXI_fCnHHeSFAyxuplmodX6AtMe72WxR9L4jINO8bS-Y7XPor_g2NzyAP1TlEEdbWGZXKM3BtOo42llMROUolxI7qMJ5hkd01wOFPdf2F1OGPtz63J08ypeEZZW5sEKEql2wIImQg8RcMLGqsdzDiWhdm3gyAvRiRWM5ZqMGcMXTblFP7C7_txJOZJwtVesrRsLOPlZKFWpdUq_lP_WvTzVWV-zRblzCvOR-MwG5TK5iQh4u4?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                    - img "셀브 개별포장 2색<mark>바람떡</mark> 1kg+1kg 굳지않는떡"
+                    - generic [ref=e1609]: 구매 120+
+                  - generic [ref=e1611]:
+                    - link [ref=e1612] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/cGTI-_o3fQzsqrX0nKEsGNu5KW3DOZGSpPDXzGLUhK91xU49m_YQzrnrq7DTIgINq1DxBVqhIKt3LdNyXI_fCnHHeSFAyxuplmodX6AtMe72WxR9L4jINO8bS-Y7XPor_g2NzyAP1TlEEdbWGZXKM3BtOo42llMROUolxI7qMJ5hkd01wOFPdf2F1OGPtz63J08ypeEZZW5sEKEql2wIImQg8RcMLGqsdzDiWhdm3gyAvRiRWM5ZqMGcMXTblFP7C7_txJOZJwtVesrRsLOPlZKFWpdUq_lP_WvTzVWV-zRblzCvOR-MwG5TK5iQh4u4?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                      - generic [ref=e1613]:
+                        - text: 셀브 개별포장 2색
+                        - mark [ref=e1614]: 바람떡
+                        - text: 1kg+1kg 굳지않는떡
+                    - generic [ref=e1615]:
+                      - generic [ref=e1616]:
+                        - generic [ref=e1617]: 할인 전 판매가
+                        - generic [ref=e1618]: 17,900
+                        - generic [ref=e1619]: 원
+                      - generic [ref=e1620]:
+                        - generic [ref=e1621]:
+                          - generic [ref=e1622]:
+                            - text: 5%
+                            - generic [ref=e1623]: 할인
+                          - generic [ref=e1624]: 16,900
+                          - generic [ref=e1625]: 원
+                        - generic [ref=e1627]:
+                          - generic [ref=e1633]: 배송비
+                          - text: 무료
+                    - generic [ref=e1634]:
+                      - generic [ref=e1635]: 오늘출발
+                      - generic [ref=e1636]: 14:00까지 주문 시
+                    - generic [ref=e1637]:
+                      - generic [ref=e1638]:
+                        - generic [ref=e1641]: "4.62"
+                        - generic [ref=e1642]: "259"
+                      - generic [ref=e1643]: 찜 90
+                    - generic [ref=e1645]:
+                      - link "셀브" [ref=e1646] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/cGTI-_o3fQzsqrX0nKEsGNu5KW3DOZGSpPDXzGLUhK91xU49m_YQzrnrq7DTIgINq1DxBVqhIKt3LdNyXI_fCnHHeSFAyxuplmodX6AtMe72WxR9L4jINO8bS-Y7XPor_g2NzyAP1TlEEdbWGZXKM3BtOo42llMROUolxI7qMJ5hkd01wOFPdf2F1OGPtz63J08ypeEZZW5sEKEql2wIImQg8RcMLGqsdzDiWhdm3gyAvRiRWM5ZqMGcMXTblFP7C7_txJOZJwtVesrRsLOPlZKFWpdUq_lP_WvTzVWV-zRblzCvOR-MwG5TK5iQh4u4?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                      - button "광고" [ref=e1648] [cursor=pointer]
+                    - generic [ref=e1655]:
+                      - generic [ref=e1656]: 네이버페이플러스
+                      - generic [ref=e1663]: 포인트 최대 169원
+              - listitem [ref=e1664]:
+                - generic [ref=e1665]:
+                  - link "감사선물 복주머니<mark>바람떡</mark> 보자기포장 붉은말, 떡공방 봄봄" [ref=e1666] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/vbdSimCSPMBwy-NpHiVzNjKVOHPL2Rw1xcEQlNzdPoYQgLSbGLvzbU4QejsleP3pH06L-yOZsHKoLUEz_VX0-MC-wFrtZ2wFH6GQ5HmmwRUXvAA1tT4-ZDu4Owtnu3ZeXwgpbyHMW82Eopt5152MvjMtQ3OoAsPLEttCgh0KPTEPYFpbQLlzcdGls7XH2bmOZ9W0H7NsMUK-MZdBdYjqy5w-85lzvcW5fTfW7XcPFpa7awr3spx_N8yETGJkG-u1G3zd0yEx3ykDjNfOAvrWeGobvuLJuw4SjIuxL-gISqBrPnCVq3JTWVj2DiXFrUnqfNgoZDBDUaXPMp4Gjw7wPV9olIU01H8AgR10Yio6Wg11cbGXCRzUURCZYx-W4XSn49DRiLuy4Y-HGX8YprGL8j5o8P6UQ5lfLjQSK4DAdlFazyXTlgdmhDoGac8wPeEpOzeSXkOcOuOsecdVTjQBomcyHhqaz2c5nQ6szKy3oYm2smNPMmlAfxj0wDSyRBqL757RU8uueSu1qDivSgY_v3j-pZuh4OazcoeMcYkof4BihXom55xnoV60u9t8aWJlyg3sSNqNXEu0v8PzAjDSdf1d8lkwYXv7psdbRd9RDmM=?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                    - img "감사선물 복주머니<mark>바람떡</mark> 보자기포장 붉은말, 떡공방 봄봄"
+                  - generic [ref=e1668]:
+                    - link [ref=e1669] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/vbdSimCSPMBwy-NpHiVzNjKVOHPL2Rw1xcEQlNzdPoYQgLSbGLvzbU4QejsleP3pH06L-yOZsHKoLUEz_VX0-MC-wFrtZ2wFH6GQ5HmmwRUXvAA1tT4-ZDu4Owtnu3ZeXwgpbyHMW82Eopt5152MvjMtQ3OoAsPLEttCgh0KPTEPYFpbQLlzcdGls7XH2bmOZ9W0H7NsMUK-MZdBdYjqy5w-85lzvcW5fTfW7XcPFpa7awr3spx_N8yETGJkG-u1G3zd0yEx3ykDjNfOAvrWeGobvuLJuw4SjIuxL-gISqBrPnCVq3JTWVj2DiXFrUnqfNgoZDBDUaXPMp4Gjw7wPV9olIU01H8AgR10Yio6Wg11cbGXCRzUURCZYx-W4XSn49DRiLuy4Y-HGX8YprGL8j5o8P6UQ5lfLjQSK4DAdlFazyXTlgdmhDoGac8wPeEpOzeSXkOcOuOsecdVTjQBomcyHhqaz2c5nQ6szKy3oYm2smNPMmlAfxj0wDSyRBqL757RU8uueSu1qDivSgY_v3j-pZuh4OazcoeMcYkof4BihXom55xnoV60u9t8aWJlyg3sSNqNXEu0v8PzAjDSdf1d8lkwYXv7psdbRd9RDmM=?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                      - generic [ref=e1670]:
+                        - text: 감사선물 복주머니
+                        - mark [ref=e1671]: 바람떡
+                        - text: 보자기포장 붉은말, 떡공방 봄봄
+                    - generic [ref=e1672]:
+                      - generic [ref=e1673]:
+                        - generic [ref=e1674]: 할인 전 판매가
+                        - generic [ref=e1675]: 65,000
+                        - generic [ref=e1676]: 원
+                      - generic [ref=e1677]:
+                        - generic [ref=e1678]:
+                          - generic [ref=e1679]:
+                            - text: 15%
+                            - generic [ref=e1680]: 할인
+                          - generic [ref=e1681]: 54,900
+                          - generic [ref=e1682]: 원
+                        - generic [ref=e1684]:
+                          - generic [ref=e1690]: 배송비
+                          - text: 무료
+                    - generic [ref=e1692]:
+                      - generic [ref=e1695]: "4.98"
+                      - generic [ref=e1696]: "23"
+                    - generic [ref=e1698]:
+                      - link "아이디어스idus" [ref=e1699] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/vbdSimCSPMBwy-NpHiVzNjKVOHPL2Rw1xcEQlNzdPoYQgLSbGLvzbU4QejsleP3pH06L-yOZsHKoLUEz_VX0-MC-wFrtZ2wFH6GQ5HmmwRUXvAA1tT4-ZDu4Owtnu3ZeXwgpbyHMW82Eopt5152MvjMtQ3OoAsPLEttCgh0KPTEPYFpbQLlzcdGls7XH2bmOZ9W0H7NsMUK-MZdBdYjqy5w-85lzvcW5fTfW7XcPFpa7awr3spx_N8yETGJkG-u1G3zd0yEx3ykDjNfOAvrWeGobvuLJuw4SjIuxL-gISqBrPnCVq3JTWVj2DiXFrUnqfNgoZDBDUaXPMp4Gjw7wPV9olIU01H8AgR10Yio6Wg11cbGXCRzUURCZYx-W4XSn49DRiLuy4Y-HGX8YprGL8j5o8P6UQ5lfLjQSK4DAdlFazyXTlgdmhDoGac8wPeEpOzeSXkOcOuOsecdVTjQBomcyHhqaz2c5nQ6szKy3oYm2smNPMmlAfxj0wDSyRBqL757RU8uueSu1qDivSgY_v3j-pZuh4OazcoeMcYkof4BihXom55xnoV60u9t8aWJlyg3sSNqNXEu0v8PzAjDSdf1d8lkwYXv7psdbRd9RDmM=?c=naver.search.pc.npla&NaPm=1&ui=GUIDE
+                      - button "광고" [ref=e1701] [cursor=pointer]
+                    - generic [ref=e1708]:
+                      - generic [ref=e1709]: 네이버페이
+                      - generic [ref=e1715]: 최대 549원
+              - listitem [ref=e1716]:
+                - generic [ref=e1717]:
+                  - link "떡만들기플라스틱원형<mark>바람떡</mark>틀(대)이<mark>조리법</mark>" [ref=e1718] [cursor=pointer]:
+                    - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=60144084860&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=5f13d617a4c73bc234a8a11ac568a2717f7883fe&frm=NVSCPRO
+                    - img "떡만들기플라스틱원형<mark>바람떡</mark>틀(대)이<mark>조리법</mark>"
+                  - generic [ref=e1720]:
+                    - link [ref=e1721] [cursor=pointer]:
+                      - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=60144084860&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=5f13d617a4c73bc234a8a11ac568a2717f7883fe&frm=NVSCPRO
+                      - generic [ref=e1722]:
+                        - text: 떡만들기플라스틱원형
+                        - mark [ref=e1723]: 바람떡
+                        - text: 틀(대)이
+                        - mark [ref=e1724]: 조리법
+                    - generic [ref=e1725]:
+                      - generic [ref=e1726]:
+                        - generic [ref=e1727]: 할인 전 판매가
+                        - generic [ref=e1728]: 19,980
+                        - generic [ref=e1729]: 원
+                      - generic [ref=e1730]:
+                        - generic [ref=e1731]:
+                          - generic [ref=e1732]:
+                            - text: 2%
+                            - generic [ref=e1733]: 할인
+                          - generic [ref=e1734]: 19,390
+                          - generic [ref=e1735]: 원
+                        - generic [ref=e1737]:
+                          - generic [ref=e1743]: 배송비
+                          - text: 무료
+                    - generic [ref=e1744]:
+                      - link "신세계라이브쇼핑" [ref=e1746] [cursor=pointer]:
+                        - /url: http://www.shinsegaetvshopping.com
+                      - generic [ref=e1747]: 네이버페이
+              - listitem [ref=e1753]:
+                - generic [ref=e1754]:
+                  - link "아리울떡공방 굳지않는 꿀떡,<mark>바람떡</mark>,절편 간식떡 1kg+1kg 골라잡기" [ref=e1755] [cursor=pointer]:
+                    - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=84989744349&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=6c5570175fad4519dc85deb7edf32be77d53d768&frm=NVSCPRO
+                    - img "아리울떡공방 굳지않는 꿀떡,<mark>바람떡</mark>,절편 간식떡 1kg+1kg 골라잡기"
+                  - generic [ref=e1757]:
+                    - link [ref=e1758] [cursor=pointer]:
+                      - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=84989744349&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=6c5570175fad4519dc85deb7edf32be77d53d768&frm=NVSCPRO
+                      - generic [ref=e1759]:
+                        - text: 아리울떡공방 굳지않는 꿀떡,
+                        - mark [ref=e1760]: 바람떡
+                        - text: ",절편 간식떡 1kg+1kg 골라잡기"
+                    - generic [ref=e1762]:
+                      - generic [ref=e1763]:
+                        - generic [ref=e1764]: 19,400
+                        - generic [ref=e1765]: 원
+                      - generic [ref=e1766]:
+                        - generic [ref=e1767]:
+                          - generic [ref=e1768]: 18,810
+                          - generic [ref=e1769]: 원
+                        - generic [ref=e1770]: 쿠폰할인가
+                      - generic [ref=e1772]:
+                        - generic [ref=e1778]: 배송비
+                        - text: 3,000원
+                    - generic [ref=e1779]:
+                      - generic [ref=e1780]:
+                        - generic [ref=e1783]: "4.8"
+                        - generic [ref=e1784]: (1.1만)
+                      - generic [ref=e1785]: 구매 2,112
+                      - generic [ref=e1786]: 찜 662
+                    - generic [ref=e1787]:
+                      - generic [ref=e1788]:
+                        - link "아리울떡공방" [ref=e1789] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fgeosang%3Fnl-ts-pid%3DjWbu5wqXKZJZq29DSnK-319896%26tr%3Dslsmn
+                        - generic [ref=e1790]: 공식
+                      - generic [ref=e1791]: 네이버페이플러스
+              - listitem [ref=e1798]:
+                - generic [ref=e1799]:
+                  - link "무지개<mark>바람떡</mark> 1개" [ref=e1800] [cursor=pointer]:
+                    - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=60325437163&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=629ed165bc657e47f16c117c7128e6c107ed56e7&frm=NVSCPRO
+                    - img "무지개<mark>바람떡</mark> 1개"
+                  - generic [ref=e1802]:
+                    - link [ref=e1803] [cursor=pointer]:
+                      - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=60325437163&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=629ed165bc657e47f16c117c7128e6c107ed56e7&frm=NVSCPRO
+                      - generic [ref=e1804]:
+                        - text: 무지개
+                        - mark [ref=e1805]: 바람떡
+                        - text: 1개
+                    - generic [ref=e1807]:
+                      - generic [ref=e1808]:
+                        - generic [ref=e1809]: 최저
+                        - generic [ref=e1810]: 4,300
+                        - generic [ref=e1811]: 원
+                      - generic [ref=e1813]:
+                        - generic [ref=e1819]: 배송비
+                        - text: 무료
+                    - generic [ref=e1820]:
+                      - generic [ref=e1821]:
+                        - generic [ref=e1824]: "4.97"
+                        - generic [ref=e1825]: (412)
+                      - generic [ref=e1826]: 찜 11
+                    - generic [ref=e1827]: 판매처 8
+              - listitem [ref=e1829]:
+                - generic [ref=e1830]:
+                  - link "거상 아리울떡공방 굳지않는 모듬 <mark>바람떡</mark> 1개" [ref=e1831] [cursor=pointer]:
+                    - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=59482210760&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=1c5fadd12c56a81c512591ac84bb17a6a8101837&frm=NVSCPRO
+                    - img "거상 아리울떡공방 굳지않는 모듬 <mark>바람떡</mark> 1개"
+                  - generic [ref=e1833]:
+                    - link [ref=e1834] [cursor=pointer]:
+                      - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=59482210760&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=1c5fadd12c56a81c512591ac84bb17a6a8101837&frm=NVSCPRO
+                      - generic [ref=e1835]:
+                        - text: 거상 아리울떡공방 굳지않는 모듬
+                        - mark [ref=e1836]: 바람떡
+                        - text: 1개
+                    - generic [ref=e1838]:
+                      - generic [ref=e1839]:
+                        - generic [ref=e1840]: 최저
+                        - generic [ref=e1841]: 8,300
+                        - generic [ref=e1842]: 원
+                      - generic [ref=e1844]:
+                        - generic [ref=e1850]: 배송비
+                        - text: 3,000원
+                    - generic [ref=e1851]:
+                      - generic [ref=e1852]:
+                        - generic [ref=e1855]: "4.76"
+                        - generic [ref=e1856]: (2,233)
+                      - generic [ref=e1857]: 찜 8
+                    - generic [ref=e1858]: 판매처 5
+              - listitem [ref=e1860]:
+                - generic [ref=e1861]:
+                  - link "팥앙금이 듬뿍 들어간 굳지 않는 삼색 모둠 <mark>바람떡</mark>" [ref=e1862] [cursor=pointer]:
+                    - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=61319590000&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=01bfe4b7089722c35d8dc56dd28296cf2296fbc7&frm=NVSCPRO
+                    - img "팥앙금이 듬뿍 들어간 굳지 않는 삼색 모둠 <mark>바람떡</mark>"
+                  - generic [ref=e1864]:
+                    - link [ref=e1865] [cursor=pointer]:
+                      - /url: https://cr3.shopping.naver.com/v2/bridge/searchGate?nv_mid=61319590000&cat_id=50019239&query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&t=mvab551m&h=01bfe4b7089722c35d8dc56dd28296cf2296fbc7&frm=NVSCPRO
+                      - generic [ref=e1866]:
+                        - text: 팥앙금이 듬뿍 들어간 굳지 않는 삼색 모둠
+                        - mark [ref=e1867]: 바람떡
+                    - generic [ref=e1869]:
+                      - generic [ref=e1870]:
+                        - generic [ref=e1871]: 최저
+                        - generic [ref=e1872]: 11,900
+                        - generic [ref=e1873]: 원
+                      - generic [ref=e1875]:
+                        - generic [ref=e1881]: 배송비
+                        - text: 무료
+                    - generic [ref=e1882]:
+                      - generic [ref=e1883]:
+                        - generic [ref=e1886]: "4.8"
+                        - generic [ref=e1887]: (162)
+                      - generic [ref=e1888]: 찜 3
+                    - generic [ref=e1889]: 판매처 2
+            - generic [ref=e1891]:
+              - text: 네이버는 상품 판매의 당사자가 아닙니다.
+              - link "법적고지 및 안내" [ref=e1892] [cursor=pointer]:
+                - /url: https://shopping.naver.com/help/legal-basis
+            - link "네이버 가격비교 더보기" [ref=e1894] [cursor=pointer]:
+              - /url: https://search.shopping.naver.com/search/all?query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&frm=NVSCPRO&nl-ts-pid=jWbu5wqXKZJZq29DSnK-319896
+          - generic [ref=e1899]:
+            - generic [ref=e1900]:
+              - generic [ref=e1902]:
+                - heading "네이버플러스 스토어" [level=2] [ref=e1903]
+                - button "이 정보가 표시된 이유" [ref=e1905] [cursor=pointer]
+              - link "네이버플러스 멤버십 지금 시작하고 최대 5% 적립을 누려요!" [ref=e1912] [cursor=pointer]:
+                - /url: https://nid.naver.com/membership/join?dtm_source=naver_plusshoping&dtm_medium=display&dtm_campaign=point
+              - generic [ref=e1916]:
+                - text: 찾으시는 상품과 유사한 상품도 함께 노출합니다.
+                - link "'바람떡 조리법'으로만 검색하기" [ref=e1917] [cursor=pointer]:
+                  - /url: https://search.shopping.naver.com/ns/search?query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&nl-ts-pid=jWbu5wqXKZJZq29DSnK-319896&originalQuerySearch=true
+              - list [ref=e1919]:
+                - listitem [ref=e1920]:
+                  - link "[N배송] 아리울떡공방 개별포장 굳지않는 꿀떡, 바람떡, 가래떡 외 간식떡 350g x 2봉 (택1) 할인 전 판매가 11,900 원 8% 할인 10,900 원 배송비 3,000원 N내일배송 10.17.(토) 도착 정기구독가능 4.93 (610) 아리울떡공방 공식" [ref=e1921] [cursor=pointer]:
+                    - /url: https://smartstore.naver.com/main/products/13268990046
+                  - generic [ref=e1922]:
+                    - img "[N배송] 아리울떡공방 개별포장 굳지않는 꿀떡, 바람떡, 가래떡 외 간식떡 350g x 2봉 (택1)"
+                  - generic [ref=e1924]:
+                    - link "[N배송] 아리울떡공방 개별포장 굳지않는 꿀떡, 바람떡, 가래떡 외 간식떡 350g x 2봉 (택1)" [ref=e1925] [cursor=pointer]:
+                      - /url: https://smartstore.naver.com/main/products/13268990046
+                    - generic [ref=e1926]:
+                      - generic [ref=e1927]:
+                        - generic [ref=e1928]: 할인 전 판매가
+                        - generic [ref=e1929]: 11,900
+                        - generic [ref=e1930]: 원
+                      - generic [ref=e1931]:
+                        - generic [ref=e1932]:
+                          - generic [ref=e1933]:
+                            - text: 8%
+                            - generic [ref=e1934]: 할인
+                          - generic [ref=e1935]: 10,900
+                          - generic [ref=e1936]: 원
+                        - generic [ref=e1938]:
+                          - generic [ref=e1944]: 배송비
+                          - text: 3,000원
+                    - generic [ref=e1945]:
+                      - generic [ref=e1946]: N내일배송
+                      - generic [ref=e1948]: 10.17.(토) 도착
+                    - generic [ref=e1949]: 정기구독가능
+                    - generic [ref=e1953]:
+                      - generic [ref=e1956]: "4.93"
+                      - generic [ref=e1957]: (610)
+                    - link "아리울떡공방 공식" [ref=e1959] [cursor=pointer]:
+                      - /url: https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fgeosang&tr=nsls&nl-ts-pid=jWbu5wqXKZJZq29DSnK-319896
+                      - generic [ref=e1960]: 아리울떡공방
+                      - generic [ref=e1961]: 공식
+                - listitem [ref=e1964]:
+                  - link "[마음이가] 모듬 바람떡 350g 5,500 원 배송비 별도 이 정보가 표시된 이유 새벽배송 4.85 (534) 컬리N마트" [ref=e1965] [cursor=pointer]:
+                    - /url: https://smartstore.naver.com/main/products/12274349498
+                  - generic [ref=e1966]:
+                    - img "[마음이가] 모듬 바람떡 350g"
+                    - generic [ref=e1967]: 멤버십 전용
+                  - generic [ref=e1969]:
+                    - link "[마음이가] 모듬 바람떡 350g" [ref=e1970] [cursor=pointer]:
+                      - /url: https://smartstore.naver.com/main/products/12274349498
+                    - generic [ref=e1972]:
+                      - generic [ref=e1973]:
+                        - generic [ref=e1974]: 5,500
+                        - generic [ref=e1975]: 원
+                      - generic [ref=e1978]:
+                        - generic [ref=e1979]: 배송비 별도
+                        - button "이 정보가 표시된 이유" [ref=e1981] [cursor=pointer]
+                    - generic [ref=e1986]: 새벽배송
+                    - generic [ref=e1989]:
+                      - generic [ref=e1992]: "4.85"
+                      - generic [ref=e1993]: (534)
+                    - link "컬리N마트" [ref=e1995] [cursor=pointer]:
+                      - /url: https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fkurlynmart&tr=nsls&nl-ts-pid=jWbu5wqXKZJZq29DSnK-319896
+                - listitem [ref=e1999]:
+                  - link "명가삼대떡집 팥앙금이 듬뿍 들어간 굳지 않는 삼색 모둠 바람떡 반달떡 할인 전 판매가 17,900 원 33% 할인 11,900 원 배송비 무료 오늘출발 12:00까지 주문 시 4.82 (130) 명가삼대떡집 공식" [ref=e2000] [cursor=pointer]:
+                    - /url: https://smartstore.naver.com/main/products/13721215430
+                  - generic [ref=e2001]:
+                    - img "명가삼대떡집 팥앙금이 듬뿍 들어간 굳지 않는 삼색 모둠 바람떡 반달떡"
+                  - generic [ref=e2003]:
+                    - link "명가삼대떡집 팥앙금이 듬뿍 들어간 굳지 않는 삼색 모둠 바람떡 반달떡" [ref=e2004] [cursor=pointer]:
+                      - /url: https://smartstore.naver.com/main/products/13721215430
+                    - generic [ref=e2005]:
+                      - generic [ref=e2006]:
+                        - generic [ref=e2007]: 할인 전 판매가
+                        - generic [ref=e2008]: 17,900
+                        - generic [ref=e2009]: 원
+                      - generic [ref=e2010]:
+                        - generic [ref=e2011]:
+                          - generic [ref=e2012]:
+                            - text: 33%
+                            - generic [ref=e2013]: 할인
+                          - generic [ref=e2014]: 11,900
+                          - generic [ref=e2015]: 원
+                        - generic [ref=e2017]:
+                          - generic [ref=e2023]: 배송비
+                          - text: 무료
+                    - generic [ref=e2024]:
+                      - generic [ref=e2025]: 오늘출발
+                      - generic [ref=e2026]: 12:00까지 주문 시
+                    - generic [ref=e2028]:
+                      - generic [ref=e2031]: "4.82"
+                      - generic [ref=e2032]: (130)
+                    - link "명가삼대떡집 공식" [ref=e2034] [cursor=pointer]:
+                      - /url: https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fhanmidamstore&tr=nsls&nl-ts-pid=jWbu5wqXKZJZq29DSnK-319896
+                      - generic [ref=e2035]: 명가삼대떡집
+                      - generic [ref=e2036]: 공식
+                - listitem [ref=e2039]:
+                  - link "[N배송] 아리울떡공방 개별포장 굳지않는 모듬 바람떡 350g x 2봉 할인 전 판매가 11,900 원 8% 할인 10,900 원 배송비 3,000원 N내일배송 10.17.(토) 도착 정기구독가능 4.82 (51) 아리울떡공방 공식" [ref=e2040] [cursor=pointer]:
+                    - /url: https://smartstore.naver.com/main/products/13142295337
+                  - generic [ref=e2041]:
+                    - img "[N배송] 아리울떡공방 개별포장 굳지않는 모듬 바람떡 350g x 2봉"
+                  - generic [ref=e2043]:
+                    - link "[N배송] 아리울떡공방 개별포장 굳지않는 모듬 바람떡 350g x 2봉" [ref=e2044] [cursor=pointer]:
+                      - /url: https://smartstore.naver.com/main/products/13142295337
+                    - generic [ref=e2045]:
+                      - generic [ref=e2046]:
+                        - generic [ref=e2047]: 할인 전 판매가
+                        - generic [ref=e2048]: 11,900
+                        - generic [ref=e2049]: 원
+                      - generic [ref=e2050]:
+                        - generic [ref=e2051]:
+                          - generic [ref=e2052]:
+                            - text: 8%
+                            - generic [ref=e2053]: 할인
+                          - generic [ref=e2054]: 10,900
+                          - generic [ref=e2055]: 원
+                        - generic [ref=e2057]:
+                          - generic [ref=e2063]: 배송비
+                          - text: 3,000원
+                    - generic [ref=e2064]:
+                      - generic [ref=e2065]: N내일배송
+                      - generic [ref=e2067]: 10.17.(토) 도착
+                    - generic [ref=e2068]: 정기구독가능
+                    - generic [ref=e2072]:
+                      - generic [ref=e2075]: "4.82"
+                      - generic [ref=e2076]: (51)
+                    - link "아리울떡공방 공식" [ref=e2078] [cursor=pointer]:
+                      - /url: https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fgeosang&tr=nsls&nl-ts-pid=jWbu5wqXKZJZq29DSnK-319896
+                      - generic [ref=e2079]: 아리울떡공방
+                      - generic [ref=e2080]: 공식
+              - generic [ref=e2083]:
+                - text: 네이버는 상품 판매의 당사자가 아닙니다.
+                - link "법적고지 및 안내" [ref=e2084] [cursor=pointer]:
+                  - /url: https://shopping.naver.com/help/legal-basis
+              - link "네이버플러스 스토어 더보기" [ref=e2086] [cursor=pointer]:
+                - /url: https://search.shopping.naver.com/ns/search?query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&nl-ts-pid=jWbu5wqXKZJZq29DSnK-319896
+            - generic [ref=e2090]:
+              - link [ref=e2091] [cursor=pointer]:
+                - /url: https://search.naver.com/search.naver?query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&ssc=tab.ait.all&sm=tab_clk.aitabshop&ait_agent_type=shopping&dtm_source=search&dtm_medium=shopping_banner
+                - strong [ref=e2092]: AI로 더 알아보기
+                - paragraph [ref=e2093]: 궁금한 점을 대화로 확인해보세요.
+              - link "AI탭 바로가기" [ref=e2094] [cursor=pointer]:
+                - /url: https://search.naver.com/search.naver?query=%EB%B0%94%EB%9E%8C%EB%96%A1%20%EC%A1%B0%EB%A6%AC%EB%B2%95&ssc=tab.ait.all&sm=tab_clk.aitabshop&ait_agent_type=shopping&dtm_source=search&dtm_medium=shopping_banner
+          - generic [ref=e2096]:
+            - generic [ref=e2102]:
+              - generic [ref=e2103]:
+                - link "만개의레시피 www.10000recipe.com›recipe 새 창 열림" [ref=e2104] [cursor=pointer]:
+                  - /url: https://www.10000recipe.com/
+                  - generic [ref=e2110]:
+                    - generic [ref=e2111]: 만개의레시피
+                    - generic [ref=e2113]: www.10000recipe.com›recipe
+                  - generic [ref=e2117]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=e2119] [cursor=pointer]
+              - generic [ref=e2124]:
+                - link "<mark>바람떡</mark> 만들기 - 만개의레시피의 이미지 새 창 열림" [ref=e2125] [cursor=pointer]:
+                  - /url: https://www.10000recipe.com/recipe/6856794
+                  - img "<mark>바람떡</mark> 만들기 - 만개의레시피의 이미지" [ref=e2127]
+                  - generic [ref=e2129]: 새 창 열림
+                - link "바람떡 만들기 - 만개의레시피 새 창 열림" [ref=e2131] [cursor=pointer]:
+                  - /url: https://www.10000recipe.com/recipe/6856794
+                  - generic [ref=e2132]:
+                    - mark [ref=e2133]: 바람떡
+                    - text: 만들기 - 만개의레시피
+                  - generic [ref=e2134]: 새 창 열림
+                - generic [ref=e2135]:
+                  - link "1. 쌀가루에 물을 넣고 손바닥으로 비벼 소보로 처럼 뭉치도록 만듭니다. 2. 김이오른 물솥에 20분간 찝니다. 뜸은 들이지 않아요. 3. 쪄낸 떡반죽 꺼내서 숟가락으로 치대다가 식으면 손으로 치대요. 저는 나중에 물을 더 넣어서 약간 질게되서 엄청 고생했어요. 새 창 열림" [ref=e2136] [cursor=pointer]:
+                    - /url: https://www.10000recipe.com/recipe/6856794
+                    - generic [ref=e2137]:
+                      - generic [ref=e2138]:
+                        - generic [ref=e2139]: "1."
+                        - generic [ref=e2141]: 쌀가루에 물을 넣고 손바닥으로 비벼 소보로 처럼 뭉치도록 만듭니다.
+                      - generic [ref=e2142]:
+                        - generic [ref=e2143]: "2."
+                        - generic [ref=e2145]: 김이오른 물솥에 20분간 찝니다. 뜸은 들이지 않아요.
+                      - generic [ref=e2146]:
+                        - generic [ref=e2147]: "3."
+                        - generic [ref=e2149]: 쪄낸 떡반죽 꺼내서 숟가락으로 치대다가 식으면 손으로 치대요. 저는 나중에 물을 더 넣어서 약간 질게되서 엄청 고생했어요.
+                    - generic [ref=e2150]: 새 창 열림
+                  - generic [ref=e2151]:
+                    - generic [ref=e2152]: 3인분
+                    - generic [ref=e2154]: 1시간 소요
+            - generic [ref=e2159]:
+              - generic [ref=e2160]:
+                - generic [ref=e2161]:
+                  - link "요리픽 2025.10.18. cookpick.kr›baramtteok-recipe 새 창 열림" [ref=e2162] [cursor=pointer]:
+                    - /url: https://cookpick.kr/
+                    - generic [ref=e2168]:
+                      - generic [ref=e2169]: 요리픽
+                      - generic [ref=e2173]:
+                        - generic [ref=e2174]: 2025.10.18.
+                        - generic [ref=e2176]: cookpick.kr›baramtteok-recipe
+                    - generic [ref=e2177]: 새 창 열림
+                  - button "옵션 메뉴 열기" [ref=e2179] [cursor=pointer]
+                - generic [ref=e2184]:
+                  - link "바람떡 만들기, 송편보다 3배 쉬운 초간단 레시피(유래부터 칼로리까지) 새 창 열림" [ref=e2186] [cursor=pointer]:
+                    - /url: https://cookpick.kr/baramtteok-recipe/
+                    - generic [ref=e2187]:
+                      - mark [ref=e2188]: 바람떡
+                      - text: 만들기, 송편보다 3배 쉬운 초간단 레시피(유래부터 칼로리까지)
+                    - generic [ref=e2189]: 새 창 열림
+                  - link "바람떡 만들기 완벽 가이드! 송편보다 3배 쉬운 30분 레시피로 실패 없이 완성하세요. 유래, 송편과의 차이, 칼로리, 소 만드는 법까지 한번에 확인하세요. 초보자도 OK! 새 창 열림" [ref=e2191] [cursor=pointer]:
+                    - /url: https://cookpick.kr/baramtteok-recipe/
+                    - generic [ref=e2192]:
+                      - mark [ref=e2193]: 바람떡
+                      - text: 만들기 완벽 가이드! 송편보다 3배 쉬운 30분 레시피로 실패 없이 완성하세요. 유래, 송편과의 차이, 칼로리, 소 만드는 법까지 한번에 확인하세요. 초보자도 OK!
+                    - generic [ref=e2194]: 새 창 열림
+              - generic [ref=e2195]:
+                - generic [ref=e2196]:
+                  - link "애플그라탕 황금레시피, 사과 그라탕 우리의식탁 에어프라이어 오븐 커스터드 크림 시나몬 캐러멜 브륄레 토치 사과 디저트 만드는법 칼로리의 이미지 애플그라탕 황금레시피, 사과 그라탕 우리의식탁 에어프라이어 오븐 커스터드 크림 시나몬 캐러멜 브륄레 토치 사과 디저트 만드는법 칼로리 새 창 열림" [ref=e2197] [cursor=pointer]:
+                    - /url: https://cookpick.kr/apple-gratin-golden-recipe/
+                    - generic [ref=e2198]:
+                      - img "애플그라탕 황금레시피, 사과 그라탕 우리의식탁 에어프라이어 오븐 커스터드 크림 시나몬 캐러멜 브륄레 토치 사과 디저트 만드는법 칼로리의 이미지" [ref=e2200]
+                      - generic [ref=e2202]: 애플그라탕 황금레시피, 사과 그라탕 우리의식탁 에어프라이어 오븐 커스터드 크림 시나몬 캐러멜 브륄레 토치 사과 디저트 만드는법 칼로리
+                    - generic [ref=e2204]: 새 창 열림
+                  - link "베리 판나코타 황금레시피, 블루베리 딸기 냉동 믹스베리 콤포트 판젤라틴 생크림 우유 비율 바닐라 이탈리아 우유푸딩 파나코타 만들기 굳히는시간 칼로리의 이미지 베리 판나코타 황금레시피, 블루베리 딸기 냉동 믹스베리 콤포트 판젤라틴 생크림 우유 비율 바닐라 이탈리아 우유푸딩 파나코타 만들기 굳히는시간 칼로리 새 창 열림" [ref=e2205] [cursor=pointer]:
+                    - /url: https://cookpick.kr/berry-panna-cotta-golden-recipe/
+                    - generic [ref=e2206]:
+                      - img "베리 판나코타 황금레시피, 블루베리 딸기 냉동 믹스베리 콤포트 판젤라틴 생크림 우유 비율 바닐라 이탈리아 우유푸딩 파나코타 만들기 굳히는시간 칼로리의 이미지" [ref=e2208]
+                      - generic [ref=e2210]: 베리 판나코타 황금레시피, 블루베리 딸기 냉동 믹스베리 콤포트 판젤라틴 생크림 우유 비율 바닐라 이탈리아 우유푸딩 파나코타 만들기 굳히는시간 칼로리
+                    - generic [ref=e2212]: 새 창 열림
+                  - link "요거트 컵 황금레시피, 그릭요거트 그래놀라 과일 레이어 파르페 요아정 스타일 꿀 견과류 블루베리 다이어트 아침 도시락 오버나이트 만드는법 칼로리의 이미지 요거트 컵 황금레시피, 그릭요거트 그래놀라 과일 레이어 파르페 요아정 스타일 꿀 견과류 블루베리 다이어트 아침 도시락 오버나이트 만드는법 칼로리 새 창 열림" [ref=e2213] [cursor=pointer]:
+                    - /url: https://cookpick.kr/yogurt-cup-golden-recipe/
+                    - generic [ref=e2214]:
+                      - img "요거트 컵 황금레시피, 그릭요거트 그래놀라 과일 레이어 파르페 요아정 스타일 꿀 견과류 블루베리 다이어트 아침 도시락 오버나이트 만드는법 칼로리의 이미지" [ref=e2216]
+                      - generic [ref=e2218]: 요거트 컵 황금레시피, 그릭요거트 그래놀라 과일 레이어 파르페 요아정 스타일 꿀 견과류 블루베리 다이어트 아침 도시락 오버나이트 만드는법 칼로리
+                    - generic [ref=e2220]: 새 창 열림
+                  - link "우유떡 황금레시피, 전자레인지 옥수수전분 감자전분 찹쌀가루 콩고물 인절미 초코 쿠킹트리 15분 아이 간식 남은 우유 소진 만드는법 칼로리의 이미지 우유떡 황금레시피, 전자레인지 옥수수전분 감자전분 찹쌀가루 콩고물 인절미 초코 쿠킹트리 15분 아이 간식 남은 우유 소진 만드는법 칼로리 새 창 열림" [ref=e2221] [cursor=pointer]:
+                    - /url: https://cookpick.kr/uyu-tteok-golden-recipe/
+                    - generic [ref=e2222]:
+                      - img "우유떡 황금레시피, 전자레인지 옥수수전분 감자전분 찹쌀가루 콩고물 인절미 초코 쿠킹트리 15분 아이 간식 남은 우유 소진 만드는법 칼로리의 이미지" [ref=e2224]
+                      - generic [ref=e2226]: 우유떡 황금레시피, 전자레인지 옥수수전분 감자전분 찹쌀가루 콩고물 인절미 초코 쿠킹트리 15분 아이 간식 남은 우유 소진 만드는법 칼로리
+                    - generic [ref=e2228]: 새 창 열림
+                  - link "아스파라거스 스무디 황금레시피, 바나나 사과 시금치 케일 그릭요거트 두유 주스 다이어트 공복 아침 생으로 데쳐서 믹서기 만드는법 효능 칼로리의 이미지 아스파라거스 스무디 황금레시피, 바나나 사과 시금치 케일 그릭요거트 두유 주스 다이어트 공복 아침 생으로 데쳐서 믹서기 만드는법 효능 칼로리 새 창 열림" [ref=e2229] [cursor=pointer]:
+                    - /url: https://cookpick.kr/asparagus-smoothie-golden-recipe/
+                    - generic [ref=e2230]:
+                      - img "아스파라거스 스무디 황금레시피, 바나나 사과 시금치 케일 그릭요거트 두유 주스 다이어트 공복 아침 생으로 데쳐서 믹서기 만드는법 효능 칼로리의 이미지" [ref=e2232]
+                      - generic [ref=e2234]: 아스파라거스 스무디 황금레시피, 바나나 사과 시금치 케일 그릭요거트 두유 주스 다이어트 공복 아침 생으로 데쳐서 믹서기 만드는법 효능 칼로리
+                    - generic [ref=e2236]: 새 창 열림
+                  - link "레몬 포셋 황금레시피, 3가지 재료 레몬 껍질 그릇 생크림 비율 휘핑크림 비건 생크림 없이 유자 라임 초간단 디저트 안 굳을때 굳히는 시간 만드는법 칼로리의 이미지 레몬 포셋 황금레시피, 3가지 재료 레몬 껍질 그릇 생크림 비율 휘핑크림 비건 생크림 없이 유자 라임 초간단 디저트 안 굳을때 굳히는 시간 만드는법 칼로리 새 창 열림" [ref=e2237] [cursor=pointer]:
+                    - /url: https://cookpick.kr/lemon-posset-golden-recipe/
+                    - generic [ref=e2238]:
+                      - img "레몬 포셋 황금레시피, 3가지 재료 레몬 껍질 그릇 생크림 비율 휘핑크림 비건 생크림 없이 유자 라임 초간단 디저트 안 굳을때 굳히는 시간 만드는법 칼로리의 이미지" [ref=e2240]
+                      - generic [ref=e2242]: 레몬 포셋 황금레시피, 3가지 재료 레몬 껍질 그릇 생크림 비율 휘핑크림 비건 생크림 없이 유자 라임 초간단 디저트 안 굳을때 굳히는 시간 만드는법 칼로리
+                    - generic [ref=e2244]: 새 창 열림
+                - button "다음"
+            - generic [ref=e2250]:
+              - generic [ref=e2251]:
+                - link "코스트코 코리아 www.costco.co.kr›메인›식품›냉동식품 새 창 열림" [ref=e2252] [cursor=pointer]:
+                  - /url: https://www.costco.co.kr/
+                  - generic [ref=e2258]:
+                    - generic [ref=e2259]: 코스트코 코리아
+                    - generic [ref=e2261]: www.costco.co.kr›메인›식품›냉동식품
+                  - generic [ref=e2265]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=e2267] [cursor=pointer]
+              - generic [ref=e2272]:
+                - link "마음이가 모둠 꿀떡1.4kg & 바람떡 1.4kg 새 창 열림" [ref=e2274] [cursor=pointer]:
+                  - /url: https://www.costco.co.kr/Foods/Frozen-Foods/Instant-FoodDumplingTraditional-PancakesCheese/Maumiga-Rice-Cake-14kg-Baram-Rice-Cake-14kg/p/697740
+                  - generic [ref=e2275]:
+                    - text: 마음이가 모둠 꿀떡1.4kg &
+                    - mark [ref=e2276]: 바람떡
+                    - text: 1.4kg
+                  - generic [ref=e2277]: 새 창 열림
+                - link "[마음이가 모둠 꿀떡] 100% 국내산 쌀로 만들어 더욱 쫄깃하고 달콤한 맛이 매력적인 마음이가 꿀떡! [마음이가 모둠 바람떡] 100% 국내산 쌀로 만든 쫄깃한 떡피 속에 달콤한 통팥 앙금을 담은 마음이가 모둠 바람떡 새 창 열림" [ref=e2279] [cursor=pointer]:
+                  - /url: https://www.costco.co.kr/Foods/Frozen-Foods/Instant-FoodDumplingTraditional-PancakesCheese/Maumiga-Rice-Cake-14kg-Baram-Rice-Cake-14kg/p/697740
+                  - generic [ref=e2280]:
+                    - text: "[마음이가 모둠 꿀떡] 100% 국내산 쌀로 만들어 더욱 쫄깃하고 달콤한 맛이 매력적인 마음이가 꿀떡! [마음이가 모둠"
+                    - mark [ref=e2281]: 바람떡
+                    - text: "] 100% 국내산 쌀로 만든 쫄깃한 떡피 속에 달콤한 통팥 앙금을 담은 마음이가 모둠"
+                    - mark [ref=e2282]: 바람떡
+                  - generic [ref=e2283]: 새 창 열림
+            - generic [ref=e2289]:
+              - generic [ref=e2290]:
+                - generic [ref=e2297]:
+                  - generic [ref=e2298]: korean.go.kr
+                  - generic [ref=e2300]: dialect.korean.go.kr›dialect
+                - button "옵션 메뉴 열기" [ref=e2305] [cursor=pointer]
+              - generic [ref=e2310]:
+                - link "사진으로 보는 생활어 > 바람떡 - 문화체육관광부 국립국어원 새 창 열림" [ref=e2312] [cursor=pointer]:
+                  - /url: https://dialect.korean.go.kr/dialect/pub/region_culture_sub?regionPhotoId=2122
+                  - generic [ref=e2313]:
+                    - text: 사진으로 보는 생활어 >
+                    - mark [ref=e2314]: 바람떡
+                    - text: "- 문화체육관광부 국립국어원"
+                  - generic [ref=e2315]: 새 창 열림
+                - 'link "주제 분류 떡 어휘 바람떡 대응 표준어 개피떡 조사 지역 경기도 안성시 서인동 조사 연도 2009 자료 출처 2009년 민족생활어 조사 11 뜻풀이 흰떡, 쑥떡, 송기떡을 얇게 밀어 콩가루나 팥으로 소를 넣고 오목한 그릇 같은 것으로 반달 모양으로 찍어 만든 떡. 만든 뒤에 서로 붙지 않도록 참기름을 바른다. 용례 접으니까 바람이 들어가니까 {바람떡이라고} 하고. 달리... 새 창 열림" [ref=e2317] [cursor=pointer]':
+                  - /url: https://dialect.korean.go.kr/dialect/pub/region_culture_sub?regionPhotoId=2122
+                  - generic [ref=e2318]:
+                    - text: 주제 분류
+                    - mark [ref=e2319]: 떡
+                    - text: 어휘
+                    - mark [ref=e2320]: 바람떡
+                    - text: 대응 표준어 개피떡 조사 지역 경기도 안성시 서인동 조사 연도 2009 자료 출처 2009년 민족생활어 조사 11 뜻풀이 흰떡, 쑥떡, 송기떡을 얇게 밀어 콩가루나 팥으로 소를 넣고 오목한 그릇 같은 것으로 반달 모양으로 찍어 만든
+                    - mark [ref=e2321]: 떡
+                    - text: . 만든 뒤에 서로 붙지 않도록 참기름을 바른다. 용례 접으니까
+                    - mark [ref=e2322]: 바람
+                    - text: "이 들어가니까 {"
+                    - mark [ref=e2323]: 바람떡
+                    - text: "이라고} 하고. 달리..."
+                  - generic [ref=e2324]: 새 창 열림
+            - generic [ref=e2330]:
+              - generic [ref=e2331]:
+                - link "샵풀무원 shop.pulmuone.co.kr›shop 새 창 열림" [ref=e2332] [cursor=pointer]:
+                  - /url: https://shop.pulmuone.co.kr/
+                  - generic [ref=e2338]:
+                    - generic [ref=e2339]: 샵풀무원
+                    - generic [ref=e2341]: shop.pulmuone.co.kr›shop
+                  - generic [ref=e2345]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=e2347] [cursor=pointer]
+              - generic [ref=e2352]:
+                - 'link "단호박 반달 <mark>바람떡</mark> (420g) | #풀무원, 나와 지구를 위한 바른먹거리 마켓의 이미지 새 창 열림" [ref=e2353] [cursor=pointer]':
+                  - /url: https://shop.pulmuone.co.kr/shop/goodsView/32248
+                  - 'img "단호박 반달 <mark>바람떡</mark> (420g) | #풀무원, 나와 지구를 위한 바른먹거리 마켓의 이미지" [ref=e2355]'
+                  - generic [ref=e2357]: 새 창 열림
+                - 'link "단호박 반달 바람떡 (420g) | #풀무원, 나와 지구를 위한 바른먹거리 마켓 새 창 열림" [ref=e2359] [cursor=pointer]':
+                  - /url: https://shop.pulmuone.co.kr/shop/goodsView/32248
+                  - generic [ref=e2360]:
+                    - text: 단호박 반달
+                    - mark [ref=e2361]: 바람떡
+                    - text: "(420g) | #풀무원, 나와 지구를 위한 바른먹거리 마켓"
+                  - generic [ref=e2362]: 새 창 열림
+                - generic [ref=e2363]:
+                  - link "반달처럼 앙증맞은 모양의 단호박 반달 바람떡이예요. 멥쌀에 국산 단호박 가루를 넣어 반죽해 색깔마저 어여쁘답니다. 가당 백앙금을 넣어 더욱 달콤해요. 냉동실에 넣어 두었다가 아이를 위한 간식 또는 바쁜 아침을 위한 식사로 활용해보세요. 새 창 열림" [ref=e2364] [cursor=pointer]:
+                    - /url: https://shop.pulmuone.co.kr/shop/goodsView/32248
+                    - generic [ref=e2365]:
+                      - text: 반달처럼 앙증맞은 모양의 단호박 반달
+                      - mark [ref=e2366]: 바람떡
+                      - text: 이예요. 멥쌀에 국산 단호박 가루를 넣어 반죽해 색깔마저 어여쁘답니다. 가당 백앙금을 넣어 더욱 달콤해요. 냉동실에 넣어 두었다가 아이를 위한 간식 또는 바쁜 아침을 위한 식사로 활용해보세요.
+                    - generic [ref=e2367]: 새 창 열림
+                  - generic [ref=e2373]:
+                    - generic [ref=e2374]: "4.9"
+                    - generic [ref=e2375]: (41)
+          - generic [ref=e2376]:
+            - generic [ref=e2380]:
+              - generic [ref=e2382]:
+                - generic [ref=e2383]:
+                  - link "새 창 열림" [ref=e2385] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jeny10002
+                  - generic [ref=e2389]:
+                    - link "jeny10002님의 블로그 새 창 열림" [ref=e2392] [cursor=pointer]:
+                      - /url: https://blog.naver.com/jeny10002
+                      - generic [ref=e2393]: jeny10002님의 블로그
+                      - generic [ref=e2394]: 새 창 열림
+                    - generic [ref=e2395]: 3주 전
+                - button "옵션 메뉴 열기" [ref=e2398] [cursor=pointer]
+              - generic [ref=e2404]:
+                - generic [ref=e2405]:
+                  - link "떡의 유래와 조리법별 종류, 칼로리 비교까지 건강하게 즐기는 방법 새 창 열림" [ref=e2406] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jeny10002/224423405823
+                    - generic [ref=e2407]:
+                      - text: 떡의 유래와
+                      - mark [ref=e2408]: 조리법
+                      - text: 별 종류, 칼로리 비교까지 건강하게 즐기는
+                      - mark [ref=e2409]: 방법
+                    - generic [ref=e2410]: 새 창 열림
+                  - link "우리나라 떡의 유래와 조리법별 분류 알아보기 이렇게 맛있는 떡은 우리나라의 오랜 역사와 함께 발전해 온 전통... 우리나라 전통 떡은 조리 방법에 따라 크게 찌는 떡, 치는 떡, 지지는 떡, 삶은 떡 네 가지로 나뉩니다. 먼저 시루나 찜기에 찐... 접은 바람떡(개피떡)이 있습니다. 또한 기름에 지져 만든 지지는 떡으로는 식용 꽃을 얹고 부쳐낸 화전과 수수가루 반죽에... 새 창 열림" [ref=e2411] [cursor=pointer]:
+                    - /url: https://blog.naver.com/jeny10002/224423405823
+                    - generic [ref=e2412]:
+                      - text: 우리나라 떡의 유래와
+                      - mark [ref=e2413]: 조리법
+                      - text: 별 분류 알아보기 이렇게 맛있는 떡은 우리나라의 오랜 역사와 함께 발전해 온 전통... 우리나라 전통 떡은
+                      - mark [ref=e2414]: 조리
+                      - mark [ref=e2415]: 방법
+                      - text: 에 따라 크게 찌는
+                      - mark [ref=e2416]: 떡
+                      - text: ", 치는"
+                      - mark [ref=e2417]: 떡
+                      - text: ", 지지는"
+                      - mark [ref=e2418]: 떡
+                      - text: ", 삶은"
+                      - mark [ref=e2419]: 떡
+                      - text: 네 가지로 나뉩니다. 먼저 시루나 찜기에 찐... 접은
+                      - mark [ref=e2420]: 바람떡
+                      - text: (개피떡)이 있습니다. 또한 기름에 지져 만든 지지는 떡으로는 식용 꽃을 얹고 부쳐낸 화전과 수수가루 반죽에...
+                    - generic [ref=e2421]: 새 창 열림
+                - link "새 창 열림" [ref=e2422] [cursor=pointer]:
+                  - /url: https://blog.naver.com/jeny10002/224423405823
+            - generic [ref=e2430]:
+              - generic [ref=e2432]:
+                - generic [ref=e2433]:
+                  - link "새 창 열림" [ref=e2435] [cursor=pointer]:
+                    - /url: https://blog.naver.com/minheuicho00
+                  - generic [ref=e2439]:
+                    - link "민돌이 교육일기 새 창 열림" [ref=e2442] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00
+                      - generic [ref=e2443]: 민돌이 교육일기
+                      - generic [ref=e2444]: 새 창 열림
+                    - generic [ref=e2445]: 3주 전
+                - button "옵션 메뉴 열기" [ref=e2448] [cursor=pointer]
+              - generic [ref=e2453]:
+                - generic [ref=e2454]:
+                  - link "떡제조기능사 필기 시험과목과 실기 출제과제 공부방법 새 창 열림" [ref=e2455] [cursor=pointer]:
+                    - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - generic [ref=e2456]:
+                      - text: 떡제조기능사 필기 시험과목과 실기 출제과제 공부
+                      - mark [ref=e2457]: 방법
+                    - generic [ref=e2458]: 새 창 열림
+                  - link "2021년 국가기술자격통계연보에서는 50대 이상 여성이 많이 취득한 종목 가운데 한식조리기능사와 건축도장기능사에 이어 3위를 기록했습니다. 필기는 60문제를 60분 안에 풀어야 해요 떡제조기능사 필기는 떡 제조 및 위생관리 한... 개피떡 바람떡 2시간 6 흰팥시루떡 대추단자 2시간 기존 4개 과제에 흑임자시루떡과 개피떡, 흰팥시루떡과 대추단자... 새 창 열림" [ref=e2459] [cursor=pointer]:
+                    - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - generic [ref=e2460]:
+                      - text: 2021년 국가기술자격통계연보에서는 50대 이상 여성이 많이 취득한 종목 가운데 한식
+                      - mark [ref=e2461]: 조리
+                      - text: 기능사와 건축도장기능사에 이어 3위를 기록했습니다. 필기는 60문제를 60분 안에 풀어야 해요 떡제조기능사 필기는
+                      - mark [ref=e2462]: 떡
+                      - text: 제조 및 위생관리 한... 개피떡
+                      - mark [ref=e2463]: 바람떡
+                      - text: 2시간 6 흰팥시루떡 대추단자 2시간 기존 4개 과제에 흑임자시루떡과 개피떡, 흰팥시루떡과 대추단자...
+                    - generic [ref=e2464]: 새 창 열림
+                - generic [ref=e2465]:
+                  - generic [ref=e2466]:
+                    - link "새 창 열림" [ref=e2467] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - link "새 창 열림" [ref=e2472] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - link "새 창 열림" [ref=e2477] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - link "새 창 열림" [ref=e2482] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - link "새 창 열림" [ref=e2487] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - link "새 창 열림" [ref=e2492] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - link "새 창 열림" [ref=e2497] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00/224427199275
+                    - link "새 창 열림" [ref=e2502] [cursor=pointer]:
+                      - /url: https://blog.naver.com/minheuicho00/224427199275
+                  - button "다음"
+            - generic [ref=e2510]:
+              - generic [ref=e2512]:
+                - generic [ref=e2513]:
+                  - link "새 창 열림" [ref=e2515] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/gimhaezumma
+                  - generic [ref=e2519]:
+                    - link "줌마렐라 [김해, 장유, 율하, 진영, 주촌, 맛집, 육아정보] 새 창 열림" [ref=e2522] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/gimhaezumma
+                      - generic [ref=e2523]: 줌마렐라 [김해, 장유, 율하, 진영, 주촌, 맛집, 육아정보]
+                      - generic [ref=e2524]: 새 창 열림
+                    - generic [ref=e2528]: 2025.02.01.
+                - button "옵션 메뉴 열기" [ref=e2531] [cursor=pointer]
+              - generic [ref=e2537]:
+                - generic [ref=e2538]:
+                  - link "바람떡구이는 은근 어렵네요 ㅎㅎㅎ 새 창 열림" [ref=e2539] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/gimhaezumma/2600788?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdpbWhhZXp1bW1hIiwiYXJ0aWNsZUlkIjoyNjAwNzg4LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.VbH78_YDDqj67vZVSqvvHk261IqbWTaDRhw_hMdzTEg
+                    - generic [ref=e2540]:
+                      - mark [ref=e2541]: 바람떡
+                      - text: 구이는 은근 어렵네요 ㅎㅎㅎ
+                    - generic [ref=e2542]: 새 창 열림
+                  - link "❌저작권/명예훼손 관련 게시글 작성 시 주의❌ 지수님이 어제 바람떡을 구우셨더라구요~ 굽는거 하면 또 나강다 아니겠쑵니까?? 그래서 소분해놓은 바람떡 한봉을 해동시키고 살살 꾸웠는데 말입니다... 아따~ 바람떡 구이는 어렵구만요~ 감자볶음이 더 쉽겠다..라고 느끼겠더라구요 ㅎㅎㅎ 그래도 뭐...나름 잘 구웠다 생각듭니당~ 신랑이랑 맛있게 잘 먹었어요^^ 새 창 열림" [ref=e2543] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/gimhaezumma/2600788?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdpbWhhZXp1bW1hIiwiYXJ0aWNsZUlkIjoyNjAwNzg4LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.VbH78_YDDqj67vZVSqvvHk261IqbWTaDRhw_hMdzTEg
+                    - generic [ref=e2544]:
+                      - text: ❌저작권/명예훼손 관련 게시글 작성 시 주의❌ 지수님이 어제
+                      - mark [ref=e2545]: 바람떡
+                      - text: 을 구우셨더라구요~ 굽는거 하면 또 나강다 아니겠쑵니까?? 그래서 소분해놓은
+                      - mark [ref=e2546]: 바람떡
+                      - text: 한봉을 해동시키고 살살 꾸웠는데 말입니다... 아따~
+                      - mark [ref=e2547]: 바람떡
+                      - text: 구이는 어렵구만요~ 감자볶음이 더 쉽겠다..라고 느끼겠더라구요 ㅎㅎㅎ 그래도 뭐...나름 잘 구웠다 생각듭니당~ 신랑이랑 맛있게 잘 먹었어요^^
+                    - generic [ref=e2548]: 새 창 열림
+                - link "새 창 열림" [ref=e2549] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/gimhaezumma/2600788?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImdpbWhhZXp1bW1hIiwiYXJ0aWNsZUlkIjoyNjAwNzg4LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.VbH78_YDDqj67vZVSqvvHk261IqbWTaDRhw_hMdzTEg
+            - generic [ref=e2557]:
+              - generic [ref=e2559]:
+                - generic [ref=e2560]:
+                  - link "새 창 열림" [ref=e2562] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/dduck05
+                  - generic [ref=e2566]:
+                    - link "떡을사랑하는사람들 [떡사사,떡재료,떡만들기,전통떡,떡집창업] 새 창 열림" [ref=e2569] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/dduck05
+                      - generic [ref=e2570]: 떡을사랑하는사람들 [떡사사,떡재료,떡만들기,전통떡,떡집창업]
+                      - generic [ref=e2571]: 새 창 열림
+                    - generic [ref=e2575]: 2026.09.07.
+                - button "옵션 메뉴 열기" [ref=e2578] [cursor=pointer]
+              - generic [ref=e2584]:
+                - generic [ref=e2585]:
+                  - link "떡제조기능사 시험 후기(서울산업정보학교-백편&인절미) 새 창 열림" [ref=e2586] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/dduck05/214135?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRkdWNrMDUiLCJhcnRpY2xlSWQiOjIxNDEzNSwiaXNzdWVkQXQiOjE3OTIxMTUyMzk2NDl9.sOL_VccsjfNKM3PL8kKNpB6edBSB_lc9cHKKAHyoI0I
+                    - generic [ref=e2587]: 떡제조기능사 시험 후기(서울산업정보학교-백편&인절미)
+                    - generic [ref=e2588]: 새 창 열림
+                  - link "휴대폰 내고, 번호 추첨하고 시험장 입실했어요 (대기실 바로 옆반이 시험장이었어요) 조리대는 옆으로 말고 앞으로 공간 사용 가능했던 구조였어요 개수대-조리대-가스레인지 2구 (에어컨 바람 위치 확인 및 가스불 확인) 재료 손질 접시 및 제출 접시 대 2개, 중 2개와 후라이팬, 냄비, 플라스틱 도마 있었어요! 집기가 충분히 있었고 깨끗해서 좋았어요^^ (개인 휴지통 X... 새 창 열림" [ref=e2589] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/dduck05/214135?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRkdWNrMDUiLCJhcnRpY2xlSWQiOjIxNDEzNSwiaXNzdWVkQXQiOjE3OTIxMTUyMzk2NDl9.sOL_VccsjfNKM3PL8kKNpB6edBSB_lc9cHKKAHyoI0I
+                    - generic [ref=e2590]:
+                      - text: 휴대폰 내고, 번호 추첨하고 시험장 입실했어요 (대기실 바로 옆반이 시험장이었어요)
+                      - mark [ref=e2591]: 조리
+                      - text: 대는 옆으로 말고 앞으로 공간 사용 가능했던 구조였어요 개수대-
+                      - mark [ref=e2592]: 조리
+                      - text: 대-가스레인지 2구 (에어컨
+                      - mark [ref=e2593]: 바람
+                      - text: 위치 확인 및 가스불 확인) 재료 손질 접시 및 제출 접시 대 2개, 중 2개와 후라이팬, 냄비, 플라스틱 도마 있었어요! 집기가 충분히 있었고 깨끗해서 좋았어요^^ (개인 휴지통 X...
+                    - generic [ref=e2594]: 새 창 열림
+                - link "새 창 열림" [ref=e2595] [cursor=pointer]:
+                  - /url: https://cafe.naver.com/dduck05/214135?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRkdWNrMDUiLCJhcnRpY2xlSWQiOjIxNDEzNSwiaXNzdWVkQXQiOjE3OTIxMTUyMzk2NDl9.sOL_VccsjfNKM3PL8kKNpB6edBSB_lc9cHKKAHyoI0I
+              - link "무사히 잘 마무리하고 오셨네요 합격하길거에요~ 전 낼모레 시험인데 급 떨리네요 ㅎㅎ 새 창 열림" [ref=e2607] [cursor=pointer]:
+                - /url: https://cafe.naver.com/dduck05/214135?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRkdWNrMDUiLCJhcnRpY2xlSWQiOjIxNDEzNSwiaXNzdWVkQXQiOjE3OTIxMTUyMzk2NDl9.sOL_VccsjfNKM3PL8kKNpB6edBSB_lc9cHKKAHyoI0I
+                - generic [ref=e2608]: 무사히 잘 마무리하고 오셨네요 합격하길거에요~ 전 낼모레 시험인데 급 떨리네요 ㅎㅎ
+                - generic [ref=e2609]: 새 창 열림
+            - generic [ref=e2613]:
+              - generic [ref=e2615]:
+                - generic [ref=e2616]:
+                  - link "새 창 열림" [ref=e2618] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/dlxogns01
+                  - generic [ref=e2622]:
+                    - link "은퇴 후 50년 [시니어·실버·투자·귀농·노후] 새 창 열림" [ref=e2625] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/dlxogns01
+                      - generic [ref=e2626]: 은퇴 후 50년 [시니어·실버·투자·귀농·노후]
+                      - generic [ref=e2627]: 새 창 열림
+                    - generic [ref=e2631]: 2025.12.26.
+                - button "옵션 메뉴 열기" [ref=e2634] [cursor=pointer]
+              - generic [ref=e2639]:
+                - generic [ref=e2640]:
+                  - link "간식 준비 새 창 열림" [ref=e2641] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/dlxogns01/339115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6MzM5MTE1LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.lMO538ir7kJxDib7j1IXbI0SzWQIm9P37fo20BcGQ-8
+                    - generic [ref=e2642]: 간식 준비
+                    - generic [ref=e2643]: 새 창 열림
+                  - link "아침 든든히 먹고 배가 출출하다고 해서 지난번 사와 냉동실에 넣어놓은 만두 꺼내고 떡집에서 사온 바람떡도 꺼내 찜기에 찔준비 먼저 찜기에 배추를 깔아주고(배추 소진용) 냉동 만두 올려준후 위에칸에는 바람떡 올려줍니다 찜기뚜껑 닫고 타이머 맞춰놓고 완성되기 기다리는중 지금 먹을것 빨리 달라고 시위중입니다 (누가보면 굶기는줄 알겠어요) 쇼파에 이블까지... 새 창 열림" [ref=e2644] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/dlxogns01/339115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6MzM5MTE1LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.lMO538ir7kJxDib7j1IXbI0SzWQIm9P37fo20BcGQ-8
+                    - generic [ref=e2645]:
+                      - text: 아침 든든히 먹고 배가 출출하다고 해서 지난번 사와 냉동실에 넣어놓은 만두 꺼내고 떡집에서 사온
+                      - mark [ref=e2646]: 바람떡
+                      - text: 도 꺼내 찜기에 찔준비 먼저 찜기에 배추를 깔아주고(배추 소진용) 냉동 만두 올려준후 위에칸에는
+                      - mark [ref=e2647]: 바람떡
+                      - text: 올려줍니다 찜기뚜껑 닫고 타이머 맞춰놓고 완성되기 기다리는중 지금 먹을것 빨리 달라고 시위중입니다 (누가보면 굶기는줄 알겠어요) 쇼파에 이블까지...
+                    - generic [ref=e2648]: 새 창 열림
+                - generic [ref=e2649]:
+                  - generic [ref=e2650]:
+                    - link "새 창 열림" [ref=e2651] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/dlxogns01/339115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6MzM5MTE1LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.lMO538ir7kJxDib7j1IXbI0SzWQIm9P37fo20BcGQ-8
+                    - link "새 창 열림" [ref=e2656] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/dlxogns01/339115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6MzM5MTE1LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.lMO538ir7kJxDib7j1IXbI0SzWQIm9P37fo20BcGQ-8
+                    - link "새 창 열림" [ref=e2661] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/dlxogns01/339115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6MzM5MTE1LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.lMO538ir7kJxDib7j1IXbI0SzWQIm9P37fo20BcGQ-8
+                    - link "새 창 열림" [ref=e2666] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/dlxogns01/339115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6MzM5MTE1LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.lMO538ir7kJxDib7j1IXbI0SzWQIm9P37fo20BcGQ-8
+                    - link "새 창 열림" [ref=e2671] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/dlxogns01/339115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6MzM5MTE1LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.lMO538ir7kJxDib7j1IXbI0SzWQIm9P37fo20BcGQ-8
+                  - button "다음"
+              - link "배고플때 먹는 음식이 제일이죠 식욕이 땡기시나 봅니다 ㅎㅎ 아침은 커피한잔 인데 인생 재미나게 사시는 시애나님 오랜만입니다 새 창 열림" [ref=e2683] [cursor=pointer]:
+                - /url: https://cafe.naver.com/dlxogns01/339115?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRseG9nbnMwMSIsImFydGljbGVJZCI6MzM5MTE1LCJpc3N1ZWRBdCI6MTc5MjExNTIzOTY0OX0.lMO538ir7kJxDib7j1IXbI0SzWQIm9P37fo20BcGQ-8
+                - generic [ref=e2684]: 배고플때 먹는 음식이 제일이죠 식욕이 땡기시나 봅니다 ㅎㅎ 아침은 커피한잔 인데 인생 재미나게 사시는 시애나님 오랜만입니다
+                - generic [ref=e2685]: 새 창 열림
+          - generic [ref=e2686]:
+            - generic [ref=e2692]:
+              - generic [ref=e2693]:
+                - link "Q-Net PDF www.q-net.or.kr 새 창 열림" [ref=e2694] [cursor=pointer]:
+                  - /url: https://www.q-net.or.kr/man001.do?gSite=Q&gIntro=Y
+                  - generic [ref=e2700]:
+                    - generic [ref=e2701]:
+                      - generic [ref=e2702]: Q-Net
+                      - generic [ref=e2703]: PDF
+                    - generic [ref=e2705]: www.q-net.or.kr
+                  - generic [ref=e2709]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=e2711] [cursor=pointer]
+              - generic [ref=e2716]:
+                - link "[공개] ⑤ 국가기술자격 실기시험문제의 이미지 새 창 열림" [ref=e2717] [cursor=pointer]:
+                  - /url: https://www.q-net.or.kr/crf011.do?id=crf01106&filePath=bbs/Q006/Q006_2220220
+                  - img "[공개] ⑤ 국가기술자격 실기시험문제의 이미지" [ref=e2719]
+                  - generic [ref=e2721]: 새 창 열림
+                - link "[공개] ⑤ 국가기술자격 실기시험문제 새 창 열림" [ref=e2723] [cursor=pointer]:
+                  - /url: https://www.q-net.or.kr/crf011.do?id=crf01106&filePath=bbs/Q006/Q006_2220220
+                  - generic [ref=e2724]: "[공개] ⑤ 국가기술자격 실기시험문제"
+                  - generic [ref=e2725]: 새 창 열림
+                - generic [ref=e2726]:
+                  - link "개피떡(바람떡)을 만들어 제출하시오. 1) 떡 제조 시 물의 양을 적정량으로 혼합하여 제조하시오(단, 쌀가루는 물에 불려 소금간 하지 않고 2회 빻은 멥쌀가루이다.). 2) 익힌 떡을... 수험자 유의사항 1) 항목별 배점은 [정리정돈 및 개인위생 14점], [각 과제별 43점씩×2가지 = 총 86점] 이며, 요구사항 외의 제조 방법 및 채점기준은 비공개입니다. 2) 시험시간은 재료... 새 창 열림" [ref=e2727] [cursor=pointer]:
+                    - /url: https://www.q-net.or.kr/crf011.do?id=crf01106&filePath=bbs/Q006/Q006_2220220
+                    - generic [ref=e2728]:
+                      - text: 개피떡(
+                      - mark [ref=e2729]: 바람떡
+                      - text: )을 만들어 제출하시오. 1)
+                      - mark [ref=e2730]: 떡
+                      - text: 제조 시 물의 양을 적정량으로 혼합하여 제조하시오(단, 쌀가루는 물에 불려 소금간 하지 않고 2회 빻은 멥쌀가루이다.). 2) 익힌 떡을... 수험자 유의사항 1) 항목별 배점은 [정리정돈 및 개인위생 14점], [각 과제별 43점씩×2가지 = 총 86점] 이며, 요구사항 외의 제조
+                      - mark [ref=e2731]: 방법
+                      - text: 및 채점기준은 비공개입니다. 2) 시험시간은 재료...
+                    - generic [ref=e2732]: 새 창 열림
+                  - generic [ref=e2733]:
+                    - generic [ref=e2734]: 4페이지
+                    - generic [ref=e2736]: 103KB
+            - generic [ref=e2740]:
+              - generic [ref=e2741]:
+                - generic [ref=e2742]:
+                  - link "인구보건복지협회 새 창 열림" [ref=e2744] [cursor=pointer]:
+                    - /url: https://www.youtube.com/channel/UCwy1T_mSiqQWUTCbaDThlKA
+                    - img "인구보건복지협회" [ref=e2747]
+                    - generic [ref=e2748]: 새 창 열림
+                  - generic [ref=e2749]:
+                    - link "인구보건복지협회 새 창 열림" [ref=e2752] [cursor=pointer]:
+                      - /url: https://www.youtube.com/channel/UCwy1T_mSiqQWUTCbaDThlKA
+                      - generic [ref=e2753]: 인구보건복지협회
+                      - generic [ref=e2754]: 새 창 열림
+                    - generic [ref=e2758]:
+                      - generic [ref=e2759]: 2025.12.05.
+                      - link "YouTube 새 창 열림" [ref=e2762] [cursor=pointer]:
+                        - /url: https://www.youtube.com
+                        - generic [ref=e2763]: YouTube
+                        - generic [ref=e2764]: 새 창 열림
+                - button "옵션 메뉴 열기" [ref=e2766] [cursor=pointer]
+              - generic [ref=e2771]:
+                - generic [ref=e2772]:
+                  - link "[광주] 아빠와 함께 전통 떡🌾만들어요 새 창 열림" [ref=e2773] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=KllHmnzdVEA
+                    - generic [ref=e2774]: "[광주] 아빠와 함께 전통 떡🌾만들어요"
+                    - generic [ref=e2775]: 새 창 열림
+                  - 'link "아빠와 함께 바람떡 & 도장절편 & 떡케이크를 만들었어요 😋 #100인의아빠단 #아빠육아 #인구보건복지협회광주전남지회 #인구보건복지협회 새 창 열림" [ref=e2776] [cursor=pointer]':
+                    - /url: https://www.youtube.com/watch?v=KllHmnzdVEA
+                    - generic [ref=e2777]:
+                      - text: 아빠와 함께
+                      - mark [ref=e2778]: 바람떡
+                      - text: "& 도장절편 & 떡케이크를 만들었어요 😋 #100인의아빠단 #아빠육아 #인구보건복지협회광주전남지회 #인구보건복지협회"
+                    - generic [ref=e2779]: 새 창 열림
+                - link "[광주] 아빠와 함께 전통 떡🌾만들어요 01:46" [ref=e2782] [cursor=pointer]:
+                  - /url: https://www.youtube.com/watch?v=KllHmnzdVEA
+                  - img "[광주] 아빠와 함께 전통 떡🌾만들어요" [ref=e2783]
+                  - generic [ref=e2784]: 01:46
+          - complementary "웨일 브라우저 설치 안내" [ref=e2789]:
+            - generic [ref=e2790]:
+              - img "웨일 브라우저" [ref=e2792]
+              - generic [ref=e2793]: 브라우저를 업데이트하세요
+              - generic [ref=e2794]: 최신 기술을 품은 네이버 웨일에서 빠른 인터넷을 만나보세요
+            - link "웨일 다운로드" [ref=e2796] [cursor=pointer]:
+              - /url: https://whale.naver.com/ko/?wpid=searchpopup_theme1
+            - link "7일 내 다시보지 않기" [ref=e2798] [cursor=pointer]:
+              - /url: "#"
+            - button "배너 닫기" [ref=e2799] [cursor=pointer]
+          - generic [ref=e2802]:
+            - generic [ref=e2803]: 이전
+            - generic "페이지 탐색" [ref=e2805]:
+              - link "1 페이지" [ref=e2806] [cursor=pointer]:
+                - /url: "?nso=&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.nx.all"
+                - text: "1"
+                - generic [ref=e2807]: 페이지
+              - link "2 페이지" [ref=e2808] [cursor=pointer]:
+                - /url: "?nso=&page=2&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=1"
+                - text: "2"
+                - generic [ref=e2809]: 페이지
+              - link "3 페이지" [ref=e2810] [cursor=pointer]:
+                - /url: "?nso=&page=3&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=21"
+                - text: "3"
+                - generic [ref=e2811]: 페이지
+              - link "4 페이지" [ref=e2812] [cursor=pointer]:
+                - /url: "?nso=&page=4&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=41"
+                - text: "4"
+                - generic [ref=e2813]: 페이지
+              - link "5 페이지" [ref=e2814] [cursor=pointer]:
+                - /url: "?nso=&page=5&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=61"
+                - text: "5"
+                - generic [ref=e2815]: 페이지
+              - link "6 페이지" [ref=e2816] [cursor=pointer]:
+                - /url: "?nso=&page=6&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=81"
+                - text: "6"
+                - generic [ref=e2817]: 페이지
+              - link "7 페이지" [ref=e2818] [cursor=pointer]:
+                - /url: "?nso=&page=7&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=101"
+                - text: "7"
+                - generic [ref=e2819]: 페이지
+              - link "8 페이지" [ref=e2820] [cursor=pointer]:
+                - /url: "?nso=&page=8&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=121"
+                - text: "8"
+                - generic [ref=e2821]: 페이지
+              - link "9 페이지" [ref=e2822] [cursor=pointer]:
+                - /url: "?nso=&page=9&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=141"
+                - text: "9"
+                - generic [ref=e2823]: 페이지
+              - link "10 페이지" [ref=e2824] [cursor=pointer]:
+                - /url: "?nso=&page=10&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=161"
+                - text: "10"
+                - generic [ref=e2825]: 페이지
+            - link "다음" [ref=e2826] [cursor=pointer]:
+              - /url: "?nso=&page=2&qdt=0&query=%EB%B0%94%EB%9E%8C%EB%96%A1+%EC%A1%B0%EB%A6%AC%EB%B2%95&sm=tab_pge&ssc=tab.ur.all&start=1"
+        - generic [ref=e2831]:
+          - link "네이버 플리마켓 아웃도어 특가전 아크테릭스 · 파타고니아 · 몽벨 새 창 링크" [ref=e2832] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=pc_allright&campaign_id=2610-fleamarket-001&target=https%3A%2F%2Ffleamarket.naver.com%2F%3Fhero%3D01M3VCWSQ4JTVEMVV82ENVK8D1%3Fdtm_source%3Dpc_allright%26dtm_medium%3Dmktatrb%26dtm_campaign%3D2610-fleamarket-001%26tc%3Dpromotion_cafe_202610_camping_naver_pcallright_traffic
+            - generic [ref=e2834]:
+              - strong [ref=e2835]: 네이버 플리마켓 아웃도어 특가전
+              - paragraph [ref=e2836]: 아크테릭스 · 파타고니아 · 몽벨
+            - generic [ref=e2837]: 새 창 링크
+          - link "참여 누르고 쇼핑하면 최대 3만3천P 추가 적립! 새 창 링크" [ref=e2838] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2610-shopping-008&target=https%3A%2F%2Fmkt.naver.com%2Fplusmission%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2610-shopping-008
+            - generic [ref=e2840]:
+              - strong [ref=e2841]: 참여 누르고 쇼핑하면
+              - paragraph [ref=e2842]: 최대 3만3천P 추가 적립!
+            - generic [ref=e2843]: 새 창 링크
+          - link "적립적인 멤버십 전용카드 네이버 현대카드 Ed.3 새 창 링크" [ref=e2844] [cursor=pointer]:
+            - /url: https://mkt.naver.com/naverhyundaicard3?eventCode=NAVHJ&dtm_source=naver_pcsearchmktbanner&dtm_medium=display&dtm_campaign=hyundaicard3mkt
+            - generic [ref=e2846]:
+              - strong [ref=e2847]: 적립적인 멤버십 전용카드
+              - paragraph [ref=e2848]: 네이버 현대카드 Ed.3
+            - generic [ref=e2849]: 새 창 링크
+          - link "끝까지 끝내주는 AI, 네이버 AI탭 검색이 대화가 되다 새 창 링크" [ref=e2850] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2607-naverAI-001&target=https%3A%2F%2Fmkt.naver.com%2Faitab%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2607-naverAI-001
+            - generic [ref=e2852]:
+              - strong [ref=e2853]: 끝까지 끝내주는 AI, 네이버 AI탭
+              - paragraph [ref=e2854]: 검색이 대화가 되다
+            - generic [ref=e2855]: 새 창 링크
+    - generic [ref=e2856]:
+      - link "맨위로" [ref=e2858] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e2861]:
+        - link "전체서비스 새 창 열림" [ref=e2863] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+          - text: 전체서비스
+          - generic [ref=e2864]: 새 창 열림
+        - link "이용약관 새 창 열림" [ref=e2866] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+          - text: 이용약관
+          - generic [ref=e2867]: 새 창 열림
+        - link "개인정보처리방침 새 창 열림" [ref=e2869] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=e2870]: 개인정보처리방침
+          - generic [ref=e2871]: 새 창 열림
+        - link "검색 고객센터 새 창 열림" [ref=e2873] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+          - text: 검색 고객센터
+          - generic [ref=e2874]: 새 창 열림
+        - link "© NAVER Corp. 새 창 열림" [ref=e2876] [cursor=pointer]:
+          - /url: https://www.navercorp.com/
+          - text: © NAVER Corp.
+          - generic [ref=e2877]: 새 창 열림

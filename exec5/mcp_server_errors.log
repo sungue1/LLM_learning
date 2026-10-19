@@ -1,0 +1,513 @@
+Knowledge Graph MCP Server running on stdio
+Knowledge Graph MCP Server running on stdio
+Knowledge Graph MCP Server running on stdio
+Tavily MCP server running on stdio
+Tavily MCP server running on stdio
+C:\Users\강사용\AppData\Local\uv\cache\archive-v0\FK2a0FxU-SxEP04G\Lib\site-packages\fastmcp\server\auth\providers\bearer.py:6: AuthlibDeprecationWarning: authlib.jose module is deprecated, please use joserfc instead.
+It will be compatible before version 2.0.0.
+  from authlib.jose import JsonWebKey, JsonWebToken
+[10/16/26 13:16:27] INFO     Starting MCP server                  server.py:981
+                             'mcp-server-qdrant' with transport                
+                             'stdio'                                           
+WARNING:root:Failed to validate request: 31 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+InitializeRequest.method
+  Input should be 'initialize' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Tavily MCP server running on stdio
+C:\Users\강사용\AppData\Local\uv\cache\archive-v0\FK2a0FxU-SxEP04G\Lib\site-packages\fastmcp\server\auth\providers\bearer.py:6: AuthlibDeprecationWarning: authlib.jose module is deprecated, please use joserfc instead.
+It will be compatible before version 2.0.0.
+  from authlib.jose import JsonWebKey, JsonWebToken
+[10/16/26 13:16:31] INFO     Starting MCP server                  server.py:981
+                             'mcp-server-qdrant' with transport                
+                             'stdio'                                           
+WARNING:root:Failed to validate request: 31 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+InitializeRequest.method
+  Input should be 'initialize' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+C:\Users\강사용\AppData\Local\uv\cache\archive-v0\FK2a0FxU-SxEP04G\Lib\site-packages\fastmcp\server\auth\providers\bearer.py:6: AuthlibDeprecationWarning: authlib.jose module is deprecated, please use joserfc instead.
+It will be compatible before version 2.0.0.
+  from authlib.jose import JsonWebKey, JsonWebToken
+[10/16/26 13:16:47] INFO     Starting MCP server                  server.py:981
+                             'mcp-server-qdrant' with transport                
+                             'stdio'                                           
+WARNING:root:Failed to validate request: 31 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+InitializeRequest.method
+  Input should be 'initialize' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+Starting Massive MCP server with API key configured.
+Failed to validate request: 31 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+InitializeRequest.method
+  Input should be 'initialize' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+Processing request of type ListToolsRequest
+Starting Massive MCP server with API key configured.
+Failed to validate request: 31 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+InitializeRequest.method
+  Input should be 'initialize' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='server/discover', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.14/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={'_meta': {'io.modelconte...lientCapabilities': {}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.14/v/missing
+Processing request of type ListToolsRequest
+Processing request of type CallToolRequest
+Building endpoint index from https://massive.com/docs/rest/llms-full.txt ...
+HTTP Request: GET https://massive.com/docs/rest/llms-full.txt "HTTP/1.1 200 OK"
+Found 151 endpoints in llms-full.txt
+Skipping deprecated endpoint: Dividends (Deprecated)
+Skipping deprecated endpoint: Splits (Deprecated)
+Indexed 149 endpoints successfully
+Processing request of type ListToolsRequest
+Processing request of type CallToolRequest
+Processing request of type ListToolsRequest
+Processing request of type CallToolRequest
+HTTP Request: GET https://api.massive.com/v2/aggs/grouped/locale/us/market/stocks/2026-10-15?adjusted=true&include_otc=false "HTTP/1.1 200 OK"
+Processing request of type ListToolsRequest
+Processing request of type CallToolRequest
+Processing request of type ListToolsRequest

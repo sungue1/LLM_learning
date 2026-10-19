@@ -1,0 +1,6 @@
+{"type":"entity","name":"홍길동","entityType":"Person","observations":["LLM에 대한 교육을 담당하고 있다.","LLM 기본, RAG, Fine-tuning, Agentic AI에 대해 강의한다."]}
+{"type":"entity","name":"LLM 교육","entityType":"Topic","observations":["홍길동이 담당하는 교육 주제이다.","강의 범위는 LLM 기본, RAG, Fine-tuning, Agentic AI를 포함한다.","LLM 기본, RAG, Fine-tuning, Agentic AI를 포함한 강의 주제이다.","LLM 기본, RAG, Fine-tuning, Agentic AI를 포함한다.","홍길동이 담당하는 교육 활동이다.","강의 주제는 LLM 기본, RAG, Fine-tuning, Agentic AI이다."]}
+{"type":"entity","name":"LLM 기본","entityType":"Topic","observations":["홍길동의 강의 주제 중 하나이다."]}
+{"type":"entity","name":"RAG","entityType":"Topic","observations":["홍길동의 강의 주제 중 하나이다."]}
+{"type":"entity","name":"Fine-tuning","entityType":"Topic","observations":["홍길동의 강의 주제 중 하나이다."]}
+{"type":"entity","name":"Agentic AI","entityType":"Topic","observations":["홍길동의 강의 주제 중 하나이다."]}
